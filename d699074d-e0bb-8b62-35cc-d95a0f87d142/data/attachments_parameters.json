@@ -1,0 +1,25 @@
+{
+    "attachmentOffsets": [
+        {
+            "any_child": false,
+            "child": "SK_CAT_Default",
+            "id": "Routine_CAT_C_SK_CAT_Default",
+            "location": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "parent": "Routine_CAT_C",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        }
+    ]
+}

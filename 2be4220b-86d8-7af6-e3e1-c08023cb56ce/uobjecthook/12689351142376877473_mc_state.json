@@ -1,0 +1,25 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "EquippedItem",
+        "Components",
+        "StaticMeshComponent Mesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.576383650302887,
+            "x": 0.0,
+            "y": 0.8171792030334473,
+            "z": 0.0
+        }
+    },
+    "type": "motion_controller"
+}

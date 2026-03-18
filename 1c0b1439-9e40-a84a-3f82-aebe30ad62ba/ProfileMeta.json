@@ -1,0 +1,21 @@
+{
+  "ID": "1c0b1439-9e40-a84a-3f82-aebe30ad62ba",
+  "exeName": "RoboCopUnfinishedBusiness-Win64-Shipping",
+  "gameName": "RoboCop: Rogue City Unfinished Business",
+  "gameVersion": "Latest",
+  "authorName": "nogames50",
+  "modifiedDate": "2025-04-20T23:00:00Z",
+  "createdDate": "2025-07-30T15:54:04Z",
+  "downloadDate": "2026-03-18T00:12:54Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1395599692187828337/1400144425627287724",
+  "zipHash": "1C0B14399E40A84A3F82AEBE30AD62BA",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f5ba281e6-9860-11d7-c01d-70e698859169&name=RoboCopUnfinishedBusiness-Win64-Shipping",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1395599692187828337/1400144425643937875/RoboCopUnfinishedBusiness-Win64-Shipping.zip?ex=69baca9c&is=69b9791c&hm=87c8a51e5c9e894f2f01db276b48e1757fac0ab7661c1af6bf425012d5969e65&",
+  "nullifyPlugins": false,
+  "lateInjection": false,
+  "tags": [
+    "3DOF",
+    "6DoF"
+  ]
+}

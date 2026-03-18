@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Detonator_C BP_Detonator_C_2147481033",
+        "Components",
+        "SkeletalMeshComponent SK_BreachingCharge_Detonator"
+    ],
+    "state": {
+        "hand": 0,
+        "location_offset": {
+            "x": -2.8889999389648438,
+            "y": 3.805000066757202,
+            "z": -10.194000244140625
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.897331953048706,
+            "x": 0.166434183716774,
+            "y": 0.2780608832836151,
+            "z": -0.2996284067630768
+        }
+    },
+    "type": "motion_controller"
+}

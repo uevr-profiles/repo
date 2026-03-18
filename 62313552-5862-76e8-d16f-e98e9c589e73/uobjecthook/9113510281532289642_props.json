@@ -1,0 +1,13 @@
+{
+    "hide": true,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "DriverActorRef",
+        "Components",
+        "SkeletalMeshComponent SK_Scorpion_Head"
+    ],
+    "properties": [],
+    "type": "properties"
+}

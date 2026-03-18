@@ -1,0 +1,2 @@
+Renderer_r.HZBOcclusion=1
+Renderer_r.Shadow.Virtual.Enable=1

@@ -1,0 +1,22 @@
+{
+  "ID": "46137d57-73fd-7bd9-c1b3-dc4b5d1f34a7",
+  "exeName": "RoboCop-Win64-Shipping",
+  "gameName": "RoboCop: Rogue City",
+  "gameVersion": "Latest",
+  "authorName": "Alex_アレックス",
+  "modifiedDate": "2023-12-24T23:00:00Z",
+  "createdDate": "2023-12-24T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:35Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/eb6b74e6-5bec-4c79-b5b2-920dabe75a67",
+  "zipHash": "46137D5773FD7BD9C1B3DC4B5D1F34A7",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f19113f35-6d06-6921-5ac6-41e96950d11c&name=RoboCop-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FRoboCop-Win64-Shipping.zip?alt=media",
+  "nullifyPlugins": false,
+  "lateInjection": false,
+  "description": "To disable the effect when scanning use this command r.PostProcessing.DisableMaterials=1",
+  "tags": [
+    "3DOF",
+    "6DoF"
+  ]
+}

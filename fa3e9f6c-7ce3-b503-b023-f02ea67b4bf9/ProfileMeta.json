@@ -1,0 +1,19 @@
+{
+  "ID": "fa3e9f6c-7ce3-b503-b023-f02ea67b4bf9",
+  "exeName": "VisionsofMana-Win64-Shipping",
+  "gameName": "Visions of Mana",
+  "authorName": "legaiaflame",
+  "modifiedDate": "2025-09-01T22:00:00Z",
+  "createdDate": "2025-09-01T22:00:00Z",
+  "downloadDate": "2026-03-18T00:50:24Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/0055f64b-fdc1-40e4-a78f-ab73d01949b8",
+  "zipHash": "FA3E9F6C7CE3B503B023F02EA67B4BF9",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f510b9f4a-2dad-ce65-c241-f6edc2c0c313&name=VisionsofMana-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FVisionsofMana-Win64-Shipping.zip?alt=media",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1267831700772356116/1267831701036601457/Visions-of-Mana-1024x576.jpg?ex=69baa448&is=69b952c8&hm=0fde03988ebddef1a5e5673f89faaedb003892cf0969334c7d61cad44ad42d2b&",
+  "description": "4 Different Camera Angles: Default-View, First-Person View, 3rd-Person View, Pikul/Vuscav/Flammie...",
+  "tags": [
+    "3DOF"
+  ]
+}

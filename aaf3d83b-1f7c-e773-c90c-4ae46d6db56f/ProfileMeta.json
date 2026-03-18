@@ -1,0 +1,18 @@
+{
+  "ID": "aaf3d83b-1f7c-e773-c90c-4ae46d6db56f",
+  "exeName": "JediSurvivor",
+  "gameName": "STAR WARS Jedi: Survivor™",
+  "authorName": "Timguin",
+  "modifiedDate": "2025-06-27T22:00:00Z",
+  "createdDate": "2025-06-27T22:00:00Z",
+  "downloadDate": "2026-03-18T00:51:38Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/dd9b3c56-58c9-42b6-80e7-de5c21911933",
+  "zipHash": "AAF3D83B1F7CE773C90C4AE46D6DB56F",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fa4ff667a-5c78-8a2a-9e2a-4e8abe885561&name=JediSurvivor",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FJediSurvivor_5.zip?alt=media",
+  "description": "1st person with visible body somewhat playable profile. Switches to third person during cinematic...",
+  "tags": [
+    "3DOF"
+  ]
+}

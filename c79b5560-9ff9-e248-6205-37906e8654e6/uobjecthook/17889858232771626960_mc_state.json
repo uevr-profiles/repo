@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_ShotgunKS23_Limbo_C BP_ShotgunKS23_Limbo_C_0",
+        "Components",
+        "SkeletalMeshComponent Mesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 17.624475479125977,
+            "y": 4.376468658447266,
+            "z": -1.0768547058105469
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.7049566507339478,
+            "x": -0.004589393734931946,
+            "y": 0.7092024087905884,
+            "z": 0.00684465654194355
+        }
+    },
+    "type": "motion_controller"
+}

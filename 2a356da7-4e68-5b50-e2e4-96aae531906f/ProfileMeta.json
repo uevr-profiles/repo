@@ -1,0 +1,18 @@
+{
+  "ID": "2a356da7-4e68-5b50-e2e4-96aae531906f",
+  "exeName": "r9w-Win64-Shipping",
+  "gameName": "Race of the Nine Worlds",
+  "authorName": "zlinkelda",
+  "modifiedDate": "2025-11-26T23:00:00Z",
+  "createdDate": "2025-11-26T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:28Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/07b7a515-93f7-4384-94f7-8a862adf6a91",
+  "zipHash": "2A356DA74E685B50E2E496AAE531906F",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f9c160571-854e-e372-1745-aeecea74ac22&name=r9w-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2Fr9w-Win64-Shipping.zip?alt=media",
+  "description": "Removed characters body and added cockpit view.  Fixed cut-scenes in Story mode. Load camera 0 fo...",
+  "tags": [
+    "3DOF"
+  ]
+}

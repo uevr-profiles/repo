@@ -1,0 +1,13 @@
+{
+    "offset": {
+        "x": 0.0,
+        "y": -14.100000381469727,
+        "z": 162.385986328125
+    },
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "1P_Arms"
+    ],
+    "type": "camera"
+}

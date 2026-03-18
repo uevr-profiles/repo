@@ -1,0 +1,20 @@
+{
+  "ID": "a1f603ef-149c-92ce-c73d-4b8308f9dbec",
+  "exeName": "Hatred-Win64-Shipping",
+  "gameName": "Hatred",
+  "authorName": "pressstartobegin",
+  "modifiedDate": "2024-01-13T23:00:00Z",
+  "createdDate": "2024-01-13T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:33Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/517eb5d4-7174-41bb-84c2-1f84686f7935",
+  "zipHash": "A1F603EF149C92CEC73D4B8308F9DBEC",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f17fb039b-6e54-b704-b057-ecf58aed9f6c&name=Hatred-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FHatred-Win64-Shipping.zip?alt=media",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1082795758568358020/1082795758719344640/header_1.jpg?ex=69bb2aa2&is=69b9d922&hm=ef97fc37d0603956aefc2d9a423756a4bceaccc383b405e1ceb15956780aa77d&",
+  "description": "You can aim and use motion controllers. You probably have to hold your right controller or hand a...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

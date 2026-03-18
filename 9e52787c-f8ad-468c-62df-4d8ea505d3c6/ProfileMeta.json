@@ -1,0 +1,17 @@
+{
+  "ID": "9e52787c-f8ad-468c-62df-4d8ea505d3c6",
+  "exeName": "WT-Win64-Shipping",
+  "gameName": "Wrong Treatment",
+  "authorName": "king.ej.",
+  "createdDate": "2026-02-21T18:04:09Z",
+  "downloadDate": "2026-03-18T00:15:23Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1474828881067376682/1474829061275521064",
+  "zipHash": "9E52787CF8AD468C62DF4D8EA505D3C6",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fcf9d565c-7e26-be94-f5ac-2e807d1dd83b&name=WT-Win64-Shipping",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1474828881067376682/1474829060608884736/WT-Win64-Shipping.zip?ex=69bae919&is=69b99799&hm=c6ebcf8ea6ae04679fef5b8380a955cdfef5356e2cffebf99c8de11215a2cd5c&",
+  "description": "WIP 3dof add controller support and sprint lua",
+  "tags": [
+    "3DoF"
+  ]
+}

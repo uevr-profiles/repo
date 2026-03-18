@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "SkeletalMeshComponent LeftArm"
+    ],
+    "state": {
+        "hand": 0,
+        "location_offset": {
+            "x": 27.02371597290039,
+            "y": 161.88304138183594,
+            "z": -25.51092529296875
+        },
+        "permanent": false,
+        "rotation_offset": {
+            "w": 0.7151492238044739,
+            "x": 0.46011310815811157,
+            "y": -0.5069378614425659,
+            "z": 0.14096668362617493
+        }
+    },
+    "type": "motion_controller"
+}

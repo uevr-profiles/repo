@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "ChildActorComponent RightHandSpine"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 2.288731575012207,
+            "y": 3.077944755554199,
+            "z": 0.6765741109848022
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.4355742931365967,
+            "x": 0.5170906186103821,
+            "y": 0.5622597932815552,
+            "z": -0.4761894643306732
+        }
+    },
+    "type": "motion_controller"
+}

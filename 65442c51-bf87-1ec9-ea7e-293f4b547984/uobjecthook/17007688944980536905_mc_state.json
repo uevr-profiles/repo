@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "StaticMeshComponent hand_launcher_L_gun"
+    ],
+    "state": {
+        "hand": 0,
+        "location_offset": {
+            "x": 30.676071166992188,
+            "y": -0.10261917114257813,
+            "z": -19.061569213867188
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.7087379097938538,
+            "x": 0.052720751613378525,
+            "y": 0.7032371163368225,
+            "z": -0.019216664135456085
+        }
+    },
+    "type": "motion_controller"
+}

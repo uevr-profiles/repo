@@ -1,0 +1,13 @@
+{
+    "hide": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_RevolverColt_C BP_RevolverColt_C_2147470162",
+        "Components",
+        "SkeletalMeshComponent WeaponMesh"
+    ],
+    "properties": [],
+    "type": "properties"
+}

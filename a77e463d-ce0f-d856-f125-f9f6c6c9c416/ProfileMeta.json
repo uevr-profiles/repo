@@ -1,0 +1,19 @@
+{
+  "ID": "a77e463d-ce0f-d856-f125-f9f6c6c9c416",
+  "exeName": "DeathCan-Win64-Shipping",
+  "gameName": "Heavy Metal Death Can",
+  "authorName": "KingEJ",
+  "modifiedDate": "2026-02-12T23:00:00Z",
+  "createdDate": "2026-02-12T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:18Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/f5072a36-84e5-4191-a24a-e1cd9a8c5806",
+  "zipHash": "A77E463DCE0FD856F125F9F6C6C9C416",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f0828819d-0a88-6afb-b1db-adec4bc14381&name=DeathCan-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FDeathCan-Win64-Shipping.zip?alt=media",
+  "description": "1st person toggle (will crash on death)  Mapped to: LT= sprint/back out of menu Y= inventory RB= ...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

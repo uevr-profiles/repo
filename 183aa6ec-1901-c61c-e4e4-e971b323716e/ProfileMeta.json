@@ -1,0 +1,19 @@
+{
+  "ID": "183aa6ec-1901-c61c-e4e4-e971b323716e",
+  "exeName": "Palworld-Win64-Shipping",
+  "gameName": "Palworld",
+  "authorName": "Lucipher",
+  "modifiedDate": "2024-01-21T23:00:00Z",
+  "createdDate": "2024-01-21T23:00:00Z",
+  "downloadDate": "2026-03-18T00:52:55Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/2b6ec22b-629c-4208-b2ed-c2fe81f9ddcf",
+  "zipHash": "183AA6EC1901C61CE4E4E971B323716E",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2ff559fd9f-0d90-c240-ee13-60fbfddba25f&name=Palworld-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FPalworld-Win64-Shipping.zip?alt=media",
+  "description": "Updated Third-Person View with accurate Hmd aiming for mount and on foot. Numpad 1 : On foot Came...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

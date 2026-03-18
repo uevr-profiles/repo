@@ -1,0 +1,18 @@
+{
+  "ID": "101b6b07-ce10-e2df-e567-5db2f6fb5298",
+  "exeName": "Ogre-Win64-Shipping",
+  "gameName": "Daymare: 1994 Sandcastle",
+  "authorName": "CJ117",
+  "modifiedDate": "2024-02-04T23:00:00Z",
+  "createdDate": "2024-02-04T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:12Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/f320b9fd-59ee-428e-aa78-8229889d132c",
+  "zipHash": "101B6B07CE10E2DFE5675DB2F6FB5298",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f8b424791-0da0-d192-b522-58dd8f41b721&name=Ogre-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FOgre-Win64-Shipping.zip?alt=media",
+  "description": "1st Person Mod.  If using Head-Aiming: Disable gas-mask \"Acknowledged Pawn/Components/StaticMeshC...",
+  "tags": [
+    "3DOF"
+  ]
+}

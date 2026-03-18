@@ -1,0 +1,19 @@
+{
+  "ID": "fe9b3bf4-32d6-6267-a7f8-08f5a6bfed19",
+  "exeName": "Praest-Win64-Shipping",
+  "gameName": "GRAVEN",
+  "authorName": "Angelus",
+  "modifiedDate": "2024-05-09T22:00:00Z",
+  "createdDate": "2024-05-09T22:00:00Z",
+  "downloadDate": "2026-03-18T00:52:03Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/e1d2cc66-c9ff-4c48-b0c9-4f89e5d05cb9",
+  "zipHash": "FE9B3BF432D66267A7F808F5A6BFED19",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fb92ab584-551a-ca33-6632-b446869d154a&name=Praest-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FPraest-Win64-Shipping_1.zip?alt=media",
+  "description": "6DOF  Weapons/Arms Scale 4.0 and 5.0 available.",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

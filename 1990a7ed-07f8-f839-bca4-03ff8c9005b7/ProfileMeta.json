@@ -1,0 +1,19 @@
+{
+  "ID": "1990a7ed-07f8-f839-bca4-03ff8c9005b7",
+  "exeName": "Astrometica_V2_Clone-Win64-Shipping",
+  "gameName": "Astrometica",
+  "authorName": "Angelus",
+  "modifiedDate": "2024-04-02T22:00:00Z",
+  "createdDate": "2024-04-02T22:00:00Z",
+  "downloadDate": "2026-03-18T00:53:04Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/e50bc11e-3e7a-4a58-a059-163c86f7cbb6",
+  "zipHash": "1990A7ED07F8F839BCA403FF8C9005B7",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fff0b052a-1c5c-051f-b1c5-286239712472&name=Astrometica_V2_Clone-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FAstrometica_V2_Clone-Win64-Shipping.zip?alt=media",
+  "description": "6DOF Note: Character might get stuck when saving the game.",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

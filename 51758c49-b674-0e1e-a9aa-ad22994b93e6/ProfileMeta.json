@@ -1,0 +1,19 @@
+{
+  "ID": "51758c49-b674-0e1e-a9aa-ad22994b93e6",
+  "exeName": "Breathedge-Win64-Shipping",
+  "gameName": "Breathedge",
+  "authorName": "Angelus",
+  "modifiedDate": "2024-03-02T23:00:00Z",
+  "createdDate": "2024-03-02T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:52Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/dc62be44-12b0-4811-98b5-3bfb86f86c9d",
+  "zipHash": "51758C49B6740E1EA9AAAD22994B93E6",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f2c71aa02-f545-ed06-4f70-c10635cfc418&name=Breathedge-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FBreathedge-Win64-Shipping_1.zip?alt=media",
+  "description": "Hide Body Mesh, 6DOF.",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

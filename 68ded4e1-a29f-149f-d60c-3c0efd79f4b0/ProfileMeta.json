@@ -1,0 +1,19 @@
+{
+  "ID": "68ded4e1-a29f-149f-d60c-3c0efd79f4b0",
+  "exeName": "DeadIsland-Win64-Shipping",
+  "gameName": "Dead Island 2",
+  "authorName": "letmein50",
+  "modifiedDate": "2025-06-04T22:00:00Z",
+  "createdDate": "2025-06-04T22:00:00Z",
+  "downloadDate": "2026-03-18T00:49:17Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/2366d90d-fe4c-4cd4-b03a-a93433aa632c",
+  "zipHash": "68DED4E1A29F149FD60C3C0EFD79F4B0",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f070031ad-2900-976f-b46c-0d35e79fe257&name=DeadIsland-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FDeadIsland-Win64-Shipping_2.zip?alt=media",
+  "description": "6DOF profile for right hand.  Note: For it to work properly: Launch the game Inject at main menu ...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

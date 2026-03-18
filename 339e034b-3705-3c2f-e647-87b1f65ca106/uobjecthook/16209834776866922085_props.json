@@ -1,0 +1,14 @@
+{
+    "hide": true,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "InventoryList",
+        "BP_Shirt_Under_Longsleeve_C BP_Shirt_Under_Longsleeve_C_2147473296",
+        "Components",
+        "SkeletalMeshComponent ClothingMeshComponent0"
+    ],
+    "properties": [],
+    "type": "properties"
+}

@@ -1,0 +1,4 @@
+Engine_r.DepthOfFieldQuality=0
+Engine_r.MotionBlurQuality=0
+Renderer_r.Color.Max=0.978000
+Renderer_r.Color.Mid=0.506000

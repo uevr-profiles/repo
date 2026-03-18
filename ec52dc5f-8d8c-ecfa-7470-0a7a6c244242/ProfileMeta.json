@@ -1,0 +1,18 @@
+{
+  "ID": "ec52dc5f-8d8c-ecfa-7470-0a7a6c244242",
+  "exeName": "AKA_RIP-Win64-Shipping",
+  "gameName": "R.I.P.-Reincarnation Insurance Program",
+  "authorName": "Keyser-Soze",
+  "modifiedDate": "2026-01-24T23:00:00Z",
+  "createdDate": "2026-01-24T23:00:00Z",
+  "downloadDate": "2026-03-18T00:16:04Z",
+  "sourceName": "uevrdeluxe.org",
+  "sourceUrl": "https://uevrdeluxefunc.azurewebsites.net/api/profiles/AKA_RIP-Win64-Shipping/09cfc6e4b52742909b755ec172dc69d2",
+  "zipHash": "EC52DC5F8D8CECFA74700A7A6C244242",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f983a8194-8aa9-a1d9-ab5b-7850ecedfe8c&name=AKA_RIP-Win64-Shipping",
+  "sourceDownloadUrl": "https://uevrdeluxefunc.azurewebsites.net/api/profiles/AKA_RIP-Win64-Shipping/09cfc6e4b52742909b755ec172dc69d2",
+  "minUEVRNightlyNumber": 1098,
+  "nullifyPlugins": false,
+  "lateInjection": false,
+  "description": "Basic Gamepad profile"
+}

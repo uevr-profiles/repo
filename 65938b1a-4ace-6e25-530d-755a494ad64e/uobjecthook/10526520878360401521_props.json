@@ -1,0 +1,16 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "SM_HookAttachment_r",
+        "Properties",
+        "AttachParent",
+        "Properties",
+        "AttachChildren",
+        "SceneComponent LeftHandLocation"
+    ],
+    "properties": [],
+    "type": "properties"
+}

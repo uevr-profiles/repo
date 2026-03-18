@@ -1,0 +1,19 @@
+{
+  "ID": "c1adceb8-c217-d3af-23e5-fadb286b96f1",
+  "exeName": "Sackboy-Win64-Shipping",
+  "gameName": "Sackboy™: A Big Adventure",
+  "authorName": "Tensai37",
+  "modifiedDate": "2024-01-05T23:00:00Z",
+  "createdDate": "2024-01-05T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:25Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/081906dc-968e-4e87-8ffb-ba2fecdde75f",
+  "zipHash": "C1ADCEB8C217D3AF23E5FADB286B96F1",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f0f9ae73d-df8a-5ec8-307e-8041600ea8e3&name=Sackboy-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FSackboy-Win64-Shipping.zip?alt=media",
+  "description": "First Person view, 6DOF and roomscale.",
+  "tags": [
+    "3DOF",
+    "6DoF"
+  ]
+}

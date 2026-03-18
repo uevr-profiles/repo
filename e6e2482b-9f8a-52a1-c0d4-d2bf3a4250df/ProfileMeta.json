@@ -1,0 +1,18 @@
+{
+  "ID": "e6e2482b-9f8a-52a1-c0d4-d2bf3a4250df",
+  "exeName": "AvenColony-Win64-Shipping",
+  "gameName": "Aven Colony",
+  "authorName": "KroyVR",
+  "modifiedDate": "2024-01-14T23:00:00Z",
+  "createdDate": "2024-01-14T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:26Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/f3381a69-4643-498c-91a1-eca8a2467211",
+  "zipHash": "E6E2482B9F8A52A1C0D4D2BF3A4250DF",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f105a84d1-119e-4996-191f-f19270b147d0&name=AvenColony-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FAvenColony-Win64-Shipping.zip?alt=media",
+  "description": "Works well enough with keyboard and mouse.",
+  "tags": [
+    "3DOF"
+  ]
+}

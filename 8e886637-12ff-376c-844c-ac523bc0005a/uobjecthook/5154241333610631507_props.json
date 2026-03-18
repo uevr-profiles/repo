@@ -1,0 +1,15 @@
+{
+    "hide": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "StaticMeshComponent Porchete",
+        "Properties",
+        "AttachParent",
+        "Properties",
+        "AttachChildren",
+        "StaticMeshComponent SM_dentes_h_TeethUp"
+    ],
+    "properties": [],
+    "type": "properties"
+}

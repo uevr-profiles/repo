@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Tablet_C BP_Tablet_C_2147420171",
+        "Components",
+        "StaticMeshComponent TabletModel"
+    ],
+    "state": {
+        "hand": 0,
+        "location_offset": {
+            "x": -4.4629998207092285,
+            "y": -5.921999931335449,
+            "z": 4.441999912261963
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.8064893484115601,
+            "x": -0.2399967759847641,
+            "y": 0.5401097536087036,
+            "z": 0.016058651730418205
+        }
+    },
+    "type": "motion_controller"
+}

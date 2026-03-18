@@ -1,0 +1,18 @@
+{
+  "ID": "42e10daf-12ea-8d2e-5532-f5f37e2884a5",
+  "exeName": "SAOFD",
+  "gameName": "SWORD ART ONLINE Fractured Daydream",
+  "authorName": "Angelus",
+  "modifiedDate": "2026-03-18T00:41:35Z",
+  "createdDate": "2026-03-18T00:41:35Z",
+  "downloadDate": "2026-03-18T00:52:15Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/68d4f267-a8f2-426f-b43e-04aa0c814ddb",
+  "zipHash": "42E10DAF12EA8D2E5532F5F37E2884A5",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fc8ddb933-eb65-8ec8-3a35-24b257cab3c9&name=SAOFD",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FSAOFD.zip?alt=media",
+  "description": "Note: Anti-Cheat, Co-Op Mode not working and minor graphical glitches.  Put Settings.json in \"\\st...",
+  "tags": [
+    "3DOF"
+  ]
+}

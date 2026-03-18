@@ -1,0 +1,46 @@
+# UEVR Profile for Bad Cheese by king.ej.
+
+| Property | Value |
+| :--- | :--- |
+| **Game EXE** | `BadCheese-Win64-Shipping` |
+| **Source** | [discord.gg/flat2vr](https://discord.com/channels/747967102895390741/1347784439773659166/1411832687668367612) |
+| **Created** | 2025-08-31T21:59:03Z |
+| **Tags** | 6DOF, Motion Controls |
+
+## Description
+
+https://www.youtube.com/watch?v=IZpjQ01nBcg
+
+user script
+r.VolumetricCloud 0
+r.Lumen.Reflections.Temporal 0
+r.postprocessing.disablematerials 1
+r.SSFS 0
+r.Lumen.Reflections.Allow 0
+r.TemporalAA.Quality 0
+r.FinishCurrentFrame 0
+r.OneFrameThreadLag 1 
+r.Tonemapper.Quality 0
+r.MotionBlur.Max 0
+r.MotionBlurQuality 0
+r.DefaultFeature.MotionBlur 0
+r.SceneColorFringe.Max 0
+r.SceneColorFringeQuality 0
+r.Tonemapper.GrainQuantization 0
+r.DetailMode 0
+r.ViewDistanceScale 0.3
+r.DistanceFieldShadowing 0
+r.Bloom,Quality 0
+r.Bloom 0
+r.Lumen.DiffuseIndirect.Allow 0
+r.NT.Lens.Distortion.Intensity 0
+r.NT.Lens.Distortion.Stretch 0
+r.NT.Lens.ChromaticAberration.Intensity 0
+r.NT.DOF.RotationalBokeh 0
+r.NT.DOF.NTBokehTransform 0
+r.FilmGrain 0
+r.NT.AllowAspectRatioHorizontalExtension 0
+r.NT.EnableConstrainAspectRatio 0
+
+[✓] UI Alpha Invert
+

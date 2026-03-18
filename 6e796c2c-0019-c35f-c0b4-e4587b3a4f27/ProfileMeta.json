@@ -1,0 +1,19 @@
+{
+  "ID": "6e796c2c-0019-c35f-c0b4-e4587b3a4f27",
+  "exeName": "HellMoshpit-Win64-Shipping",
+  "gameName": "Living Dead Outbreak",
+  "authorName": "king.ej.",
+  "createdDate": "2026-03-14T14:17:00Z",
+  "downloadDate": "2026-03-18T00:12:21Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1482381898222407790/1482382043420557449",
+  "zipHash": "6E796C2C0019C35FC0B4E4587B3A4F27",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f2ef81c43-9d0a-6536-8679-44a5262b285b&name=HellMoshpit-Win64-Shipping",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1482381898222407790/1482382043232075980/HellMoshpit-Win64-Shipping.zip?ex=69bab3dc&is=69b9625c&hm=575cf2f849a7207b3f89a6fc2866afb720c927ab6d1ace7f2cd73b8512731c5f&",
+  "description": "WIP 3dof      Swing Left controller Melee or press LT     Sprint lua can be adjusted with in Scri...",
+  "tags": [
+    "3DoF",
+    "6DOF",
+    "Motion Controls"
+  ]
+}

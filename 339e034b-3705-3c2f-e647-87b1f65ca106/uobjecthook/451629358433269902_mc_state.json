@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Moskito_RF_C BP_Moskito_RF_C_2147480948",
+        "Components",
+        "StaticMeshComponent MoskitoStaticMesh0"
+    ],
+    "state": {
+        "hand": 0,
+        "location_offset": {
+            "x": 0.6967132091522217,
+            "y": 4.311246395111084,
+            "z": -0.4313786029815674
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.7524850964546204,
+            "x": 0.5262240171432495,
+            "y": -0.38206246495246887,
+            "z": -0.1043209508061409
+        }
+    },
+    "type": "motion_controller"
+}

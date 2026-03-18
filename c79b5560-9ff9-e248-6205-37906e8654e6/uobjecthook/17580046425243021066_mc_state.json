@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Electro_C BP_Electro_C_0",
+        "Components",
+        "SkeletalMeshComponent Mesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 1.4003281593322754,
+            "y": 4.258176326751709,
+            "z": -0.2431473731994629
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.7101820111274719,
+            "x": -0.019531913101673126,
+            "y": -0.7035572528839111,
+            "z": -0.016351282596588135
+        }
+    },
+    "type": "motion_controller"
+}

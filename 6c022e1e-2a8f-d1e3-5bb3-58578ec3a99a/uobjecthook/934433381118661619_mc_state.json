@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_WristWatch_Modular_C BP_WristWatch_Modular_C_2147481137",
+        "Components",
+        "StaticMeshComponent S_Watch_NewSkel"
+    ],
+    "state": {
+        "hand": 0,
+        "location_offset": {
+            "x": -6.375795364379883,
+            "y": 4.060461521148682,
+            "z": -1.7602664232254028
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.728496789932251,
+            "x": -0.2800145745277405,
+            "y": -0.05494329333305359,
+            "z": 0.6227886080741882
+        }
+    },
+    "type": "motion_controller"
+}

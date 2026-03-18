@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "StaticMeshComponent HunterFlashlightModel"
+    ],
+    "state": {
+        "hand": 0,
+        "location_offset": {
+            "x": -6.551325798034668,
+            "y": -0.17263460159301758,
+            "z": 3.8255224227905273
+        },
+        "permanent": false,
+        "rotation_offset": {
+            "w": 0.7342990040779114,
+            "x": 0.2771512269973755,
+            "y": -0.3114239573478699,
+            "z": -0.53573077917099
+        }
+    },
+    "type": "motion_controller"
+}

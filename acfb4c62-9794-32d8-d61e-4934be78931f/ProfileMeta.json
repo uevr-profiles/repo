@@ -1,0 +1,18 @@
+{
+  "ID": "acfb4c62-9794-32d8-d61e-4934be78931f",
+  "exeName": "OI_World-Win64-Shipping",
+  "gameName": "Outbreak Island",
+  "authorName": "zlinkelda",
+  "modifiedDate": "2025-10-28T23:00:00Z",
+  "createdDate": "2025-10-28T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:03Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/012ff735-d18c-40df-8d64-15f9bf004a42",
+  "zipHash": "ACFB4C62979432D8D61E4934BE78931F",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f013be3dc-9b70-7852-8234-d6968beff78e&name=OI_World-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FOI_World-Win64-Shipping.zip?alt=media",
+  "description": "This profile extends the shadow distance and fixes some pop in that could be seen at the edges of...",
+  "tags": [
+    "3DOF"
+  ]
+}

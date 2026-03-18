@@ -1,0 +1,14 @@
+{
+    "hide": false,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "AnalProbeBP_C AnalProbeBP_C_2147422214",
+        "Components",
+        "SkeletalMeshComponent SkeletalMesh"
+    ],
+    "properties": [],
+    "type": "properties"
+}

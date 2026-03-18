@@ -1,0 +1,25 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "EquippedRight",
+        "Components",
+        "StaticMeshComponent TabletModel"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -7.142955780029297,
+            "y": -2.589273452758789,
+            "z": -11.091787338256836
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.6405856013298035,
+            "x": 0.16454921662807465,
+            "y": -0.6315819621086121,
+            "z": -0.40457120537757874
+        }
+    },
+    "type": "motion_controller"
+}

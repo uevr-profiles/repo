@@ -1,0 +1,19 @@
+{
+  "ID": "08323237-3f44-ab61-defc-b98b6d45a477",
+  "exeName": "ChernobylGame-Win64-Shipping",
+  "gameName": "Chernobylite Enhanced Edition",
+  "authorName": "jibjab123.",
+  "modifiedDate": "2025-11-03T23:00:00Z",
+  "createdDate": "2025-11-03T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:54Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/71d7960a-6c27-4998-8e20-f6a469d0fb96",
+  "zipHash": "083232373F44AB61DEFCB98B6D45A477",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f2e1cf49c-f3b0-6741-6403-d42283da3362&name=ChernobylGame-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FChernobylGame-Win64-Shipping_4.zip?alt=media",
+  "description": "New profile based on @Pande4360 6DOF one. Much quicker turning Switch guns holding left controlle...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

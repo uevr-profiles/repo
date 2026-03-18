@@ -1,0 +1,18 @@
+{
+  "ID": "3c4148e0-edfb-30c4-e14d-17e27aeb4016",
+  "exeName": "b1-Win64-Shipping",
+  "gameName": "Black Myth: Wukong",
+  "authorName": "Marcyo",
+  "modifiedDate": "2025-06-27T22:00:00Z",
+  "createdDate": "2025-06-27T22:00:00Z",
+  "downloadDate": "2026-03-18T00:52:56Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/88e5e33b-66e5-4ac5-87b8-185002da38ac",
+  "zipHash": "3C4148E0EDFB30C4E14D17E27AEB4016",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2ff55e45c5-c05a-f401-7b71-a71dfa6c2d04&name=b1-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2Fb1-Win64-Shipping_2.zip?alt=media",
+  "description": "3rd person settings Nanite ON to fix the trees Native rendering with the fixes Anti-aliasing is t...",
+  "tags": [
+    "3DOF"
+  ]
+}

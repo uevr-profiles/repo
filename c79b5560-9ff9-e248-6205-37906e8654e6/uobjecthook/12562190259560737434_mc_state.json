@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Railgun_C BP_Railgun_C_0",
+        "Components",
+        "SkeletalMeshComponent Mesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 15.901268005371094,
+            "y": 10.642040252685547,
+            "z": -0.4723243713378906
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.7038981318473816,
+            "x": 0.028651345521211624,
+            "y": -0.7097110152244568,
+            "z": -0.004100063815712929
+        }
+    },
+    "type": "motion_controller"
+}

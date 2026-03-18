@@ -1,0 +1,25 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "CurrentWeapon",
+        "Components",
+        "ParticleSystemComponent P_LongBowGemGlow"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 4.079999923706055
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.36962512135505676,
+            "x": -0.38638877868652344,
+            "y": 0.6158708333969116,
+            "z": -0.5786052346229553
+        }
+    },
+    "type": "motion_controller"
+}

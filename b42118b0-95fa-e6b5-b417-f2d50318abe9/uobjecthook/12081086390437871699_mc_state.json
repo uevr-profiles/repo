@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "ZapperMesh"
+    ],
+    "state": {
+        "hand": 0,
+        "location_offset": {
+            "x": 16.61164093017578,
+            "y": 94.0400390625,
+            "z": -31.153717041015625
+        },
+        "permanent": false,
+        "rotation_offset": {
+            "w": 0.35324108600616455,
+            "x": -0.18283723294734955,
+            "y": -0.6910600066184998,
+            "z": -0.6035126447677612
+        }
+    },
+    "type": "motion_controller"
+}

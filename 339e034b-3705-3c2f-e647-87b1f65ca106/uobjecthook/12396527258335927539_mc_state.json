@@ -1,0 +1,25 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "EquippedRight",
+        "Components",
+        "SkeletalMeshComponent SK_BreachingCharge_Detonator"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 3.5959999561309814,
+            "y": 7.238999843597412,
+            "z": -5.51800012588501
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.9636092185974121,
+            "x": 0.1704336255788803,
+            "y": -0.18015429377555847,
+            "z": 0.09977014362812042
+        }
+    },
+    "type": "motion_controller"
+}

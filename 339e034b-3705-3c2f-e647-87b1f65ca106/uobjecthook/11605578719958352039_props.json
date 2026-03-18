@@ -1,0 +1,14 @@
+{
+    "hide": true,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "InventoryList",
+        "BP_Shirt_ACU_Rolled_C BP_Shirt_ACU_Rolled_C_2147475326",
+        "Components",
+        "SkeletalMeshComponent ClothingMeshComponent0"
+    ],
+    "properties": [],
+    "type": "properties"
+}

@@ -1,0 +1,15 @@
+{
+  "ID": "76955817-9c01-8739-4672-09d7410be71b",
+  "exeName": "GothamKnights",
+  "gameName": "Gotham Knights",
+  "authorName": "markmon",
+  "modifiedDate": "2025-05-14T22:00:00Z",
+  "createdDate": "2025-05-14T22:00:00Z",
+  "downloadDate": "2026-03-18T00:51:33Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/8c4ee508-5bec-4410-81db-cf2a460a4365",
+  "zipHash": "769558179C018739467209D7410BE71B",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fa08dc611-4ad8-7601-e421-1e9cc8db78d0&name=GothamKnights",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FGothamKnights_1.zip?alt=media",
+  "description": "Same as Headset-VR profile but the map fix is removed because switching to 2d mode intermittently..."
+}

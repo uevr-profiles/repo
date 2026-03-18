@@ -1,0 +1,19 @@
+{
+  "ID": "365d719d-8864-4508-709c-1b9fb3125c86",
+  "exeName": "BearsInSpace-Win64-Shipping",
+  "gameName": "Bears In Space",
+  "authorName": "MoistMan",
+  "modifiedDate": "2024-03-22T23:00:00Z",
+  "createdDate": "2024-03-22T23:00:00Z",
+  "downloadDate": "2026-03-18T00:53:02Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/9ed9e834-74b1-4be5-8415-22caccd5a594",
+  "zipHash": "365D719D88644508709C1B9FB3125C86",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2ffd821085-d5b8-c535-fc16-52ab52ef7708&name=BearsInSpace-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FBearsInSpace-Win64-Shipping_1.zip?alt=media",
+  "description": "Fixes the tiny guns and also has the most centered that I could get the aim. Accurate aiming, the...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

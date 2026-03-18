@@ -1,0 +1,19 @@
+{
+  "ID": "2e4a2b17-075e-1eaf-3165-5760567545b0",
+  "exeName": "Superior-Win64-Shipping",
+  "gameName": "Superior: Vengeance",
+  "authorName": "chapeka",
+  "modifiedDate": "2024-01-30T23:00:00Z",
+  "createdDate": "2024-01-30T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:41Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/7c8ea4e0-64d4-48bc-aad9-b9384d64e5d2",
+  "zipHash": "2E4A2B17075E1EAF31655760567545B0",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f608c62fd-508c-d175-5d2d-970e18520eac&name=Superior-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FSuperior-Win64-Shipping_1.zip?alt=media",
+  "description": "1st Person view. 6DOF.",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

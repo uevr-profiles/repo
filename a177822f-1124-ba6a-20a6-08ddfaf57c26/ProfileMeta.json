@@ -1,0 +1,19 @@
+{
+  "ID": "a177822f-1124-ba6a-20a6-08ddfaf57c26",
+  "exeName": "RuinedNurse-Win64-Shipping",
+  "gameName": "Ruined Nurse",
+  "authorName": "Sinful_Rose",
+  "modifiedDate": "2024-12-21T23:00:00Z",
+  "createdDate": "2024-12-21T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:40Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/e060d380-b558-4932-88bb-0674c9fee1e3",
+  "zipHash": "A177822F1124BA6A20A608DDFAF57C26",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f1d36c04d-c6d0-681c-e4f2-954027b68342&name=RuinedNurse-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FRuinedNurse-Win64-Shipping.zip?alt=media",
+  "description": "6DOF Profile with motion controllers support and roomscale.  BINDINGS (I used FreePIE for binding...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

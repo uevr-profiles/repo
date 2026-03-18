@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "StaticMeshComponent VictoryPistol"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -4.060086727142334,
+            "y": 7.152000904083252,
+            "z": -0.14323163032531738
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.7245293259620667,
+            "x": -0.0736607238650322,
+            "y": -0.684648871421814,
+            "z": 0.029786521568894386
+        }
+    },
+    "type": "motion_controller"
+}

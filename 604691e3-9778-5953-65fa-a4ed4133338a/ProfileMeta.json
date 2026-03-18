@@ -1,0 +1,19 @@
+{
+  "ID": "604691e3-9778-5953-65fa-a4ed4133338a",
+  "exeName": "OMD-Win64-Shipping",
+  "gameName": "Orcs Must Die! 3",
+  "authorName": "Lucipher",
+  "modifiedDate": "2024-01-10T23:00:00Z",
+  "createdDate": "2024-01-10T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:22Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/ec9e8e9b-4059-460c-83d4-615cfc345f1d",
+  "zipHash": "604691E39778595365FAA4ED4133338A",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f9702f9c1-74de-0837-d8a1-ccce07c9be67&name=OMD-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FOMD-Win64-Shipping_1.zip?alt=media",
+  "description": "First person and 6DOF. Once you in the game and in the stage, open the UEVR menu in game and clic...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

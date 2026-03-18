@@ -1,0 +1,19 @@
+{
+  "ID": "2337b289-49a7-e809-1739-ab82a26cc444",
+  "exeName": "OblivionRemastered-Win64-Shipping",
+  "gameName": "The Elder Scrolls IV: Oblivion Remastered",
+  "authorName": "LandShark",
+  "modifiedDate": "2025-05-04T22:00:00Z",
+  "createdDate": "2025-05-04T22:00:00Z",
+  "downloadDate": "2026-03-18T00:52:04Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/c7d26ce9-2b05-488c-a23d-5de9e1dd1d18",
+  "zipHash": "2337B28949A7E8091739AB82A26CC444",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fbaa2c5e1-6a16-bfcb-58eb-364a4c122bd7&name=OblivionRemastered-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FOblivionRemastered-Win64-Shipping.zip?alt=media",
+  "description": "Design goal: A stable, performant gameplay experience achieved by removing features still under d...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

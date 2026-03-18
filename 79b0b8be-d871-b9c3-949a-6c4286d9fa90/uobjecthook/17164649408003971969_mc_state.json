@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "SkeletalMeshComponent HunterBowModel"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 0.5326405763626099,
+            "y": 0.05027806758880615,
+            "z": -1.7768700122833252
+        },
+        "permanent": false,
+        "rotation_offset": {
+            "w": -0.4358702301979065,
+            "x": 0.6457473039627075,
+            "y": 0.45352429151535034,
+            "z": -0.43283167481422424
+        }
+    },
+    "type": "motion_controller"
+}

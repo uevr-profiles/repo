@@ -1,0 +1,27 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "equippedWeapon",
+        "Properties",
+        "equippedWeapon_2_20F9883544D6CCC31E92499D1C6B58C0",
+        "Properties",
+        "RootComponent"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -12.868246078491211,
+            "y": 2.7945804595947266,
+            "z": 0.23476791381835938
+        },
+        "permanent": false,
+        "rotation_offset": {
+            "w": 0.7090262770652771,
+            "x": 0.013615021482110023,
+            "y": -0.7048325538635254,
+            "z": 0.0175437331199646
+        }
+    },
+    "type": "motion_controller"
+}

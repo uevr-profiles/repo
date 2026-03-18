@@ -1,0 +1,23 @@
+{
+  "ID": "6276e6c7-475c-0090-57ed-4d1ec6649d46",
+  "exeName": "SixDays-Win64-Shipping",
+  "gameName": "Six Days in Fallujah",
+  "gameVersion": "Patch 0.4.3.x",
+  "authorName": "kilo9145",
+  "modifiedDate": "2025-10-30T00:00:00Z",
+  "createdDate": "2025-11-27T13:10:36Z",
+  "downloadDate": "2026-03-18T00:11:53Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1177750156473552926/1443589833552302120",
+  "zipHash": "6276E6C7475C009057ED4D1EC6649D46",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f0e633b46-40df-be3a-e202-a08088e72cd9&name=SixDays-Win64-Shipping",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1177750156473552926/1443589833309159544/SixDays-Win64-Shipping.zip?ex=69baa44c&is=69b952cc&hm=4d817c82f1ce449f796a84acd90f6388dd1d61bb492663b36f04d846b2475ffd&",
+  "minUEVRNightlyNumber": 1091,
+  "nullifyPlugins": false,
+  "lateInjection": true,
+  "description": "this one works, it has no hands and no body.",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

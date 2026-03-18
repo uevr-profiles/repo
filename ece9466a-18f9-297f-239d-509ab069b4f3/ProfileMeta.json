@@ -1,0 +1,17 @@
+{
+  "ID": "ece9466a-18f9-297f-239d-509ab069b4f3",
+  "exeName": "FFB-Win64-Shipping",
+  "gameName": "Inky Blinky Bob",
+  "authorName": "king.ej.",
+  "createdDate": "2026-02-24T01:35:58Z",
+  "downloadDate": "2026-03-18T00:13:08Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1475236761952321758/1475667540813283530",
+  "zipHash": "ECE9466A18F9297F239D509AB069B4F3",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f731ae518-9b90-3ab3-31a5-175842db2056&name=FFB-Win64-Shipping",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1475236761952321758/1475667540415086602/FFB-Win64-Shipping.zip?ex=69baaa3e&is=69b958be&hm=7e0979564eb5b5624ef15cf8ef918842d5aab595a964243c2405f66bcec1df6a&",
+  "description": "3dof (if you hide pawn the weapon hides also)",
+  "tags": [
+    "3DOF"
+  ]
+}

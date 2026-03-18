@@ -1,0 +1,19 @@
+{
+  "ID": "f159c6bd-8ba1-f5b6-f93f-a801dde092a5",
+  "exeName": "DeadIsland-Win64-Shipping",
+  "gameName": "Dead Island 2",
+  "authorName": "vinion",
+  "modifiedDate": "2025-06-23T22:00:00Z",
+  "createdDate": "2025-06-23T22:00:00Z",
+  "downloadDate": "2026-03-18T00:50:39Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/d55e9462-bed4-4c44-8189-28841aa8297d",
+  "zipHash": "F159C6BD8BA1F5B6F93FA801DDE092A5",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f5c40a4ed-aa58-11cd-a93d-9cf23b715e85&name=DeadIsland-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FDeadIsland-Win64-Shipping_3.zip?alt=media",
+  "description": "6DOF Profile. Virtual gunstock (two handed handling) added to ranged guns, including handguns. Ho...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

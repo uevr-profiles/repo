@@ -1,0 +1,18 @@
+{
+  "ID": "9217dfe7-26e0-e804-071c-e6f95543d162",
+  "exeName": "MK12",
+  "gameName": "Mortal Kombat 1",
+  "authorName": "hideinlight",
+  "modifiedDate": "2024-04-20T22:00:00Z",
+  "createdDate": "2024-04-20T22:00:00Z",
+  "downloadDate": "2026-03-18T00:50:27Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/233eb270-509a-450d-acde-8c6e30ac3c4e",
+  "zipHash": "9217DFE726E0E804071CE6F95543D162",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f53b2d223-8a20-ff7b-0c2d-d82f372ecb30&name=MK12",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FMK12_1.zip?alt=media",
+  "description": "Latest profile for the Ermac patch.",
+  "tags": [
+    "6DoF"
+  ]
+}

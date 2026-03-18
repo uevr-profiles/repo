@@ -1,0 +1,27 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "WeaponryComponent_C WeaponryComponent",
+        "Properties",
+        "MeleeWeapon",
+        "Components",
+        "SceneComponent DefaultSceneRoot"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -10.199508666992188,
+            "y": -8.005766868591309,
+            "z": 1.676462173461914
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.7751936316490173,
+            "x": -0.10350480675697327,
+            "y": -0.6171853542327881,
+            "z": 0.0862777903676033
+        }
+    },
+    "type": "motion_controller"
+}

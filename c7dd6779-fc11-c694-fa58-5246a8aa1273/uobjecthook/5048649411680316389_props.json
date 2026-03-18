@@ -1,0 +1,13 @@
+{
+    "hide": false,
+    "path": [
+        "Acknowledged Pawn"
+    ],
+    "properties": [
+        {
+            "data": 0,
+            "name": "CurrentFreeAimMultiplier"
+        }
+    ],
+    "type": "properties"
+}

@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "Item_Colt_C Item_Colt_C_0",
+        "Properties",
+        "SkeletalMesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.07073719799518585,
+            "x": 0.0,
+            "y": 0.9974949955940247,
+            "z": 0.0
+        }
+    },
+    "type": "motion_controller"
+}

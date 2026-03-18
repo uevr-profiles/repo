@@ -1,0 +1,18 @@
+{
+  "ID": "37e2ef55-686b-29bf-b7c7-dad3b032190c",
+  "exeName": "BearsInSpace-Win64-Shipping",
+  "gameName": "Bears In Space",
+  "authorName": "CJ117",
+  "modifiedDate": "2024-03-30T23:00:00Z",
+  "createdDate": "2024-03-30T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:44Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/56b05e35-c799-449d-855f-a82fff4782b7",
+  "zipHash": "37E2EF55686B29BFB7C7DAD3B032190C",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fa8bdbb46-c697-167c-afdf-1effca89de94&name=BearsInSpace-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FBearsInSpace-Win64-Shipping_2.zip?alt=media",
+  "description": "Head-Aiming UEVR Profile + Character/Gun Scale Fix.",
+  "tags": [
+    "3DOF"
+  ]
+}

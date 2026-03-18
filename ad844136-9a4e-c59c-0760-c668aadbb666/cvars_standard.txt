@@ -1,0 +1,5 @@
+Core_r.ScreenPercentage=100.124001
+Renderer_r.LightCulling.Quality=0
+Renderer_r.SubsurfaceScattering=0
+Renderer_r.TemporalAA.Upsampling=1
+Renderer_r.Upscale.Quality=2

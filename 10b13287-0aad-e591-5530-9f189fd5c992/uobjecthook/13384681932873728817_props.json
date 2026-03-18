@@ -1,0 +1,18 @@
+{
+    "hide": true,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "WeaponryComponent_C WeaponryComponent",
+        "Properties",
+        "SecondaryWeapon",
+        "Components",
+        "SceneComponent DefaultSceneRoot",
+        "Properties",
+        "AttachChildren",
+        "StaticMeshComponent Weapon"
+    ],
+    "properties": [],
+    "type": "properties"
+}

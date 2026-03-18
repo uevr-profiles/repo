@@ -1,0 +1,19 @@
+{
+  "ID": "eb402201-cacd-a25a-3498-fa54673701ed",
+  "exeName": "Postal4-Win64-Shipping",
+  "gameName": "POSTAL 4: No Regerts",
+  "authorName": "Cactus | Cactus VR Studios",
+  "modifiedDate": "2024-01-01T23:00:00Z",
+  "createdDate": "2024-01-01T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:59Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/4c26db4d-181c-4850-86f8-0298b7222657",
+  "zipHash": "EB402201CACDA25A3498FA54673701ED",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f793babde-bd22-9375-b688-9f889f38fbf1&name=Postal4-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FPostal4-Win64-Shipping_4.zip?alt=media",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1149869251746869318/1149869252061450332/POSTAL.JPG?ex=69ba9f71&is=69b94df1&hm=706a0a6115f3cd9479ce3d4c5a12bb1118f7cc64aa646a98fa183d210acec5f0&",
+  "description": "Basic 3DOF Xbox Controller config with head aiming.",
+  "tags": [
+    "3DoF"
+  ]
+}

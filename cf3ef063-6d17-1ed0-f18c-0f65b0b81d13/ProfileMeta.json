@@ -1,0 +1,18 @@
+{
+  "ID": "cf3ef063-6d17-1ed0-f18c-0f65b0b81d13",
+  "exeName": "DeadAlone-Win64-Shipping",
+  "gameName": "Dead Alone",
+  "authorName": "KingEJ",
+  "modifiedDate": "2024-02-18T23:00:00Z",
+  "createdDate": "2024-02-18T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:15Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/03b0f395-ec25-4daf-a9c0-96b4611cbb68",
+  "zipHash": "CF3EF0636D171ED0F18C0F65B0B81D13",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f028544c1-fd44-6c3b-c97c-bf28414210c7&name=DeadAlone-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FDeadAlone-Win64-Shipping.zip?alt=media",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

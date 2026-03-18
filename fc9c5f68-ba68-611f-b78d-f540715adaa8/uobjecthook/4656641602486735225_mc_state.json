@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "RightGunMesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 1.744166374206543,
+            "y": 1.0834853649139404,
+            "z": -0.8714848756790161
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.9884046912193298,
+            "x": -0.06704145669937134,
+            "y": 0.00626936461776495,
+            "z": 0.13609731197357178
+        }
+    },
+    "type": "motion_controller"
+}

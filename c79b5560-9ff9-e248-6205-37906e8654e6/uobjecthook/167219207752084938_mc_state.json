@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Krepysh_C BP_Krepysh_C_0",
+        "Components",
+        "SkeletalMeshComponent Mesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -21.282567977905273,
+            "y": 26.504846572875977,
+            "z": -1.833719253540039
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.7022567987442017,
+            "x": 0.0522286519408226,
+            "y": -0.7072789072990417,
+            "z": 0.06216235086321831
+        }
+    },
+    "type": "motion_controller"
+}

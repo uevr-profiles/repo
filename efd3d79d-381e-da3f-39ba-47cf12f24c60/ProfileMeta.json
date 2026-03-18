@@ -1,0 +1,19 @@
+{
+  "ID": "efd3d79d-381e-da3f-39ba-47cf12f24c60",
+  "exeName": "GONEfishing-Win64-Shipping",
+  "gameName": "GONE Fishing",
+  "authorName": "mrbub",
+  "modifiedDate": "2026-02-09T23:00:00Z",
+  "createdDate": "2026-02-09T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:20Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/c9ab0864-b5ac-4133-a553-37a41dbba3d0",
+  "zipHash": "EFD3D79D381EDA3F39BA47CF12F24C60",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f94f79640-ecd2-ee86-eb15-b9e9acff2e4e&name=GONEfishing-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FGONEfishing-Win64-Shipping.zip?alt=media",
+  "description": "Motion Controls profile",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

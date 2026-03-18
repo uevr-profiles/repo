@@ -1,0 +1,13 @@
+{
+    "hide": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_WeaponBase_C BP_WeaponBase_C_2147478527",
+        "Components",
+        "SkeletalMeshComponent WeaponMesh"
+    ],
+    "properties": [],
+    "type": "properties"
+}

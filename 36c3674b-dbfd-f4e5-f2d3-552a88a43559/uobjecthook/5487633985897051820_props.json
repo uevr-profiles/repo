@@ -1,0 +1,14 @@
+{
+    "hide": false,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "IonDetonatorBP_C IonDetonatorBP_C_2147422210",
+        "Components",
+        "SkeletalMeshComponent IonDetonator"
+    ],
+    "properties": [],
+    "type": "properties"
+}

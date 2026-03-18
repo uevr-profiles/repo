@@ -1,0 +1,19 @@
+{
+  "ID": "82175c96-5abf-d949-daf9-f0c0a7cdce9a",
+  "exeName": "DH-Win64-Shipping",
+  "gameName": "Destroy All Humans! 2 - Reprobed",
+  "authorName": "pressstartobegin",
+  "modifiedDate": "2024-01-13T23:00:00Z",
+  "createdDate": "2024-01-13T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:31Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/ee547465-09b6-4d59-9caa-c12232ed6ca2",
+  "zipHash": "82175C965ABFD949DAF9F0C0A7CDCE9A",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f585240ed-fe51-9d03-73e2-72e250d757a9&name=DH-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FDH-Win64-Shipping_1.zip?alt=media",
+  "description": "If after a cutscene or respawn the weapons float around your hip, then respawn or reload 1 to 2 t...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

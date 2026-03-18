@@ -1,0 +1,18 @@
+{
+  "ID": "3a3b42e3-2bc7-b8a2-d3db-67fd045acadb",
+  "exeName": "BASS2-Win64-Shipping",
+  "gameName": "Beyond a Steel Sky",
+  "authorName": "Rusty Gere",
+  "modifiedDate": "2025-07-04T22:00:00Z",
+  "createdDate": "2025-07-04T22:00:00Z",
+  "downloadDate": "2026-03-18T00:51:30Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/e4dd3b98-61c1-40be-a5e2-5e63835d0ff8",
+  "zipHash": "3A3B42E32BC7B8A2D3DB67FD045ACADB",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f9d2aac83-0a99-9ff5-1699-5aec4c40a0ff&name=BASS2-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FBASS2-Win64-Shipping.zip?alt=media",
+  "description": "3rd Person  Native Stereo + stereo fix, HMD aiming, detached horizon, and a bit of cvars tweaking...",
+  "tags": [
+    "3DOF"
+  ]
+}

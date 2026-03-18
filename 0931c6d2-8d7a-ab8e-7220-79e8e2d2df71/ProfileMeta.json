@@ -1,0 +1,19 @@
+{
+  "ID": "0931c6d2-8d7a-ab8e-7220-79e8e2d2df71",
+  "exeName": "Supraland-Win64-Shipping",
+  "gameName": "Supraland",
+  "authorName": "Obneiric",
+  "modifiedDate": "2024-01-08T23:00:00Z",
+  "createdDate": "2024-01-08T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:59Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/fb263d9d-9d01-48fd-a539-adb41d8f2c5b",
+  "zipHash": "0931C6D28D7AAB8E722079E8E2D2DF71",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f7942cf0d-6584-0a08-05b4-1149feb2c305&name=Supraland-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FSupraland-Win64-Shipping_1.zip?alt=media",
+  "description": "3DOF motion controls.",
+  "tags": [
+    "3DoF",
+    "Motion Controls"
+  ]
+}

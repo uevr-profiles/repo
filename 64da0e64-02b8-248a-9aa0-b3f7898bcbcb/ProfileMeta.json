@@ -1,0 +1,19 @@
+{
+  "ID": "64da0e64-02b8-248a-9aa0-b3f7898bcbcb",
+  "exeName": "SonicRacingCrossWorldsSteam",
+  "gameName": "Sonic Racing: CrossWorlds",
+  "authorName": "BROHONKY",
+  "modifiedDate": "2025-08-26T22:00:00Z",
+  "createdDate": "2025-08-26T22:00:00Z",
+  "downloadDate": "2026-03-18T00:51:07Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/9c3349e0-c1e2-471d-b128-8f9e7531c50a",
+  "zipHash": "64DA0E6402B8248A9AA0B3F7898BCBCB",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f83ed8858-828d-453d-be51-0cc2e626a7f3&name=SonicRacingCrossWorldsSteam",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FSonicRacingCrossWorldsSteam.zip?alt=media",
+  "description": "Uobject enabled at startup and some minor camera changes.",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

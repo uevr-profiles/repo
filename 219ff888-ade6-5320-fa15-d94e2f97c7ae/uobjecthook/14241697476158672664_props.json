@@ -1,0 +1,15 @@
+{
+    "hide": true,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "ChildActorComponent HorrorEngine",
+        "Properties",
+        "ChildActor",
+        "Components",
+        "StaticMeshComponent Hand"
+    ],
+    "properties": [],
+    "type": "properties"
+}

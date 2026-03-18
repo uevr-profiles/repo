@@ -1,0 +1,18 @@
+{
+  "ID": "3ca4b096-e365-e340-a6a5-204bc55b36b7",
+  "exeName": "SWATCommander-Win64-Shipping",
+  "gameName": "SWAT Commander",
+  "authorName": "madmatt1983",
+  "createdDate": "2025-08-12T17:36:56Z",
+  "downloadDate": "2026-03-18T00:11:43Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1297693463596367934/1404881354604413018",
+  "zipHash": "3CA4B096E365E340A6A5204BC55B36B7",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f00c026b8-f5c5-c87a-ef47-a63416c2f880&name=SWATCommander-Win64-Shipping",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1297693463596367934/1404881354239512616/SWATCommander-Win64-Shipping.zip?ex=69bae2b8&is=69b99138&hm=eff903b8f847afcf88d5705de601e7222c6b9de0f7381726a2b663685bf08c16&",
+  "description": "6DOF (wip) Profile - Hid the hands/body -Weapon will sway when moving, I haven't figured out how ...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

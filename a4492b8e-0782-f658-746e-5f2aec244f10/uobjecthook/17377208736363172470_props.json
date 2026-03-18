@@ -1,0 +1,18 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "NF_FOVSkeletalMeshComponent PawnMesh1P",
+        "Properties",
+        "RelativeScale3D"
+    ],
+    "properties": [
+        {
+            "data": 4607182418800017408,
+            "name": "X"
+        }
+    ],
+    "type": "properties"
+}

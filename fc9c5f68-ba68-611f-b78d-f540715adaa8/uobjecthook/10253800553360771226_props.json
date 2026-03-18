@@ -1,0 +1,19 @@
+{
+    "hide": true,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "SK_RightHand",
+        "Properties",
+        "AttachParent",
+        "Properties",
+        "AttachParent",
+        "Properties",
+        "AttachParent",
+        "Properties",
+        "AttachParent"
+    ],
+    "properties": [],
+    "type": "properties"
+}

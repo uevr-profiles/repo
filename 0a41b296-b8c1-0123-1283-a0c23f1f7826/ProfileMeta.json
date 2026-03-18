@@ -1,0 +1,18 @@
+{
+  "ID": "0a41b296-b8c1-0123-1283-a0c23f1f7826",
+  "exeName": "ff7remake",
+  "gameName": "FINAL FANTASY VII REMAKE INTERGRADE",
+  "authorName": "markmon",
+  "modifiedDate": "2025-12-24T23:00:00Z",
+  "createdDate": "2025-12-24T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:26Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/c2444d71-b5fe-4f8a-9169-378e61ed55ae",
+  "zipHash": "0A41B296B8C101231283A0C23F1F7826",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f529fff46-35e3-4003-8a38-e20e3236aee3&name=ff7remake",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2Fff7remake_2.zip?alt=media",
+  "description": "This is a full profile, no more complicated instructions. Use nightly build 1040 or newer.  This ...",
+  "tags": [
+    "3DOF"
+  ]
+}

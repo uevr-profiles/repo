@@ -1,0 +1,19 @@
+{
+  "ID": "4fd7baed-2e1a-a42e-0cf3-d23ae830039b",
+  "exeName": "LunaAbyss-Win64-Shipping",
+  "gameName": "Luna Abyss",
+  "authorName": "help im a ghost",
+  "modifiedDate": "2025-08-22T22:00:00Z",
+  "createdDate": "2025-08-22T22:00:00Z",
+  "downloadDate": "2026-03-18T00:51:13Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/c2be7930-3a7e-4ead-92dd-5f8e1fb7177e",
+  "zipHash": "4FD7BAED2E1AA42E0CF3D23AE830039B",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f8c68d31e-2bd3-c259-21fc-4cc586508931&name=LunaAbyss-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FLunaAbyss-Win64-Shipping_1.zip?alt=media",
+  "description": "Graphics improvements, no more UObjectHook breaking from the script, and the lock-on targeting wo...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

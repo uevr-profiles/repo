@@ -1,0 +1,18 @@
+{
+  "ID": "b057391c-f6fe-1c3f-db61-3a1e19d51d50",
+  "exeName": "SWATCommander-Win64-Shipping",
+  "gameName": "SWAT Commander",
+  "authorName": "madmatt1983",
+  "createdDate": "2025-08-04T03:39:14Z",
+  "downloadDate": "2026-03-18T00:12:56Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1297693463596367934/1401771438654099559",
+  "zipHash": "B057391CF6FE1C3FDB613A1E19D51D50",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f60cff4f4-81b4-cc67-e8d4-919f908b940d&name=SWATCommander-Win64-Shipping",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1297693463596367934/1401771438259572836/SWATCommander-Win64-Shipping.zip?ex=69bac722&is=69b975a2&hm=1ea3dababe263d878273de36b7855b0f86c13548333ff5872f963b9b4f8ae422&",
+  "description": "Ran into some new problems with 6dof weapon position  Until that gets sorted, here's both 3dof/hm...",
+  "tags": [
+    "3DoF",
+    "6DoF"
+  ]
+}

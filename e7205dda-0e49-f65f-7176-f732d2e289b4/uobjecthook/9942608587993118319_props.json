@@ -1,0 +1,14 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Weapon_PC_DragonGlaive_C BP_Weapon_PC_DragonGlaive_C_2147450885",
+        "Components",
+        "SkeletalMeshComponent WeaponMeshComponent"
+    ],
+    "properties": [],
+    "type": "properties"
+}

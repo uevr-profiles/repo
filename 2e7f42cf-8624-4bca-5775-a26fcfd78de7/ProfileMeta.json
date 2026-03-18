@@ -1,0 +1,19 @@
+{
+  "ID": "2e7f42cf-8624-4bca-5775-a26fcfd78de7",
+  "exeName": "Talos2-Win64-Shipping",
+  "gameName": "The Talos Principle 2",
+  "authorName": "Tensai37",
+  "modifiedDate": "2026-02-15T23:00:00Z",
+  "createdDate": "2026-02-15T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:39Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/d7551a4c-70cb-4e00-9c82-e959466c9fa3",
+  "zipHash": "2E7F42CF86244BCA5775A26FCFD78DE7",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fa5a058d3-beb3-e638-b3fe-3791a4d3e940&name=Talos2-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FTalos2-Win64-Shipping.zip?alt=media",
+  "description": "6DOF Motion Control Profile (Work in Progress)  Features: Both arms work Items attach to the righ...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

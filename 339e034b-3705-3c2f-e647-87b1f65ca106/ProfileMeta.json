@@ -1,0 +1,19 @@
+{
+  "ID": "339e034b-3705-3c2f-e647-87b1f65ca106",
+  "exeName": "GroundBranch-Win64-Shipping",
+  "gameName": "GROUND BRANCH",
+  "authorName": "Martini",
+  "modifiedDate": "2025-03-26T23:00:00Z",
+  "createdDate": "2025-03-26T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:27Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/cf0639ab-6b9c-48ac-8f47-90cc41f9a950",
+  "zipHash": "339E034B37053C2FE64787B1F65CA106",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f9bf77851-c88a-ecba-b58b-40c0cd607bdb&name=GroundBranch-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FGroundBranch-Win64-Shipping_1.zip?alt=media",
+  "description": "6 DOF Profiles.  Visible Gloves Profile to be used with the GBWatchArmVR Mod: https://www.nexusmo...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ID": "b4bd6a49-2a11-c1ef-38cf-62da9f9340b5",
+  "exeName": "Test_C-Win64-Shipping",
+  "gameName": "Incursion Red River",
+  "authorName": "Keyser-Soze",
+  "modifiedDate": "2024-04-10T22:00:00Z",
+  "createdDate": "2024-04-10T22:00:00Z",
+  "downloadDate": "2026-03-18T00:50:06Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/e70e2cad-a05c-41bf-bc19-ba21ccc7d54b",
+  "zipHash": "B4BD6A492A11C1EF38CF62DA9F9340B5",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f36b33575-d539-0ae5-7c6c-4cc22eb642d9&name=Test_C-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FTest_C-Win64-Shipping.zip?alt=media",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1204245050205143050/1204245050481975296/INCUR.JPG?ex=69baafd9&is=69b95e59&hm=e1cb12870a07ba5f21dd0dba7f4f129614e482e1b28fd351f5f5b4c312559ab2&",
+  "description": "A very basic HMD-aiming profile",
+  "tags": [
+    "3DOF"
+  ]
+}

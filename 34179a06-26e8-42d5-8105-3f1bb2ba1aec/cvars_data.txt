@@ -1,0 +1,1 @@
+Engine_r.SceneColorFringeQuality=1

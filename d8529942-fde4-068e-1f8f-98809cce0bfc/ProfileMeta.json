@@ -1,0 +1,18 @@
+{
+  "ID": "d8529942-fde4-068e-1f8f-98809cce0bfc",
+  "exeName": "ChernobylGame-Win64-Shipping",
+  "gameName": "Chernobylite Enhanced Edition",
+  "authorName": "CJ117",
+  "modifiedDate": "2024-04-16T22:00:00Z",
+  "createdDate": "2024-04-16T22:00:00Z",
+  "downloadDate": "2026-03-18T00:53:01Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/afd6ae15-0eeb-4c82-902e-b3741f727b13",
+  "zipHash": "D8529942FDE4068E1F8F98809CCE0BFC",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2ffaa8c925-d7c7-1102-5d41-fa8fbd62a2c1&name=ChernobylGame-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FChernobylGame-Win64-Shipping.zip?alt=media",
+  "description": "Head-Aiming: Changed Runtime to OpenVR as game sometimes crashes with OpenXR Lowered camera a tou...",
+  "tags": [
+    "3DOF"
+  ]
+}

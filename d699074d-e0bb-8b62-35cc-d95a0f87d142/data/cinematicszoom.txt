@@ -1,0 +1,12 @@
+forward_offset_multiplier=1
+up_offset_multiplier=0
+enable_fov_zoom=true
+fov_max_trigger=96.750007629395
+fov_max_trigger_set=false
+enable_conv_distance=true
+conversation_depth=0.5
+conversation_size=0.5
+conversation_y_offset=0
+normal_depth=2
+normal_size=2
+normal_y_offset=0

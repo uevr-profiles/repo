@@ -1,0 +1,20 @@
+{
+  "ID": "c387315c-75c0-3b3b-676a-66ee42640ef5",
+  "exeName": "detnoir-Win64-Shipping",
+  "gameName": "Nobody Wants To Die",
+  "authorName": "moistcuck",
+  "modifiedDate": "2024-12-21T23:00:00Z",
+  "createdDate": "2024-12-21T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:04Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/e8a6862b-d47a-44f4-9779-2dace59dce12",
+  "zipHash": "09B420A12C514DB566D44155DA960059",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f32a2b575-7f6c-051e-9583-dd3f5d1b0ff9&name=detnoir-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2Fdetnoir-Win64-Shipping_2.zip?alt=media",
+  "description": "3DoF Profile, works great with motion controls.  Note: The camera may get locked in certain secti...",
+  "profileName": "detnoir-Win64-Shipping",
+  "tags": [
+    "3DoF",
+    "Motion Controls"
+  ]
+}

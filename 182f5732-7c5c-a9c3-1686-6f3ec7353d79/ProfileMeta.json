@@ -1,0 +1,19 @@
+{
+  "ID": "182f5732-7c5c-a9c3-1686-6f3ec7353d79",
+  "exeName": "Supernormal-Win64-Shipping",
+  "gameName": "Supernormal",
+  "authorName": "substatica",
+  "modifiedDate": "2024-01-08T23:00:00Z",
+  "createdDate": "2024-01-08T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:29Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/8cebc1de-0d22-46c3-826b-63bd38e40e16",
+  "zipHash": "182F57327C5CA9C316866F3EC7353D79",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f56276da4-85ba-8034-3ad7-c1b71b19bee2&name=Supernormal-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FSupernormal-Win64-Shipping.zip?alt=media",
+  "description": "Game Settings: These settings sometimes reset when you start the experience, and each time the ga...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

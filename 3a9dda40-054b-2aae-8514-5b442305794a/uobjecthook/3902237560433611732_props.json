@@ -1,0 +1,15 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "WeaponComponent_C WeaponComponent",
+        "Properties",
+        "Player",
+        "Components",
+        "MyMySkeletalMeshComponent_C Weapon"
+    ],
+    "properties": [],
+    "type": "properties"
+}

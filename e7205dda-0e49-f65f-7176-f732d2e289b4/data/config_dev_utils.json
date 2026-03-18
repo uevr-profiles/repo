@@ -1,0 +1,19 @@
+{
+    "uevr_dev_material_filter": "",
+    "uevr_dev_material_list": 21,
+    "uevr_dev_mesh_filter": "",
+    "uevr_dev_mesh_list": 18,
+    "uevr_dev_mesh_nativescale": true,
+    "uevr_dev_mesh_relativescale": 1.0,
+    "uevr_dev_mesh_type": 2,
+    "uevr_dev_reticule_active": true,
+    "uevr_dev_reticule_filter": "",
+    "uevr_dev_reticule_list": 1,
+    "uevr_dev_static_mesh_filter": "",
+    "uevr_dev_static_mesh_list": 875,
+    "uevr_dev_static_mesh_nativescale": true,
+    "uevr_dev_static_mesh_relativescale": 1.0,
+    "uevr_dev_widget_filter": "",
+    "uevr_dev_widget_list": 5,
+    "uevr_dev_widget_user_only": true
+}

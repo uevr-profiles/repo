@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "EquippedWeapon_Component_C EquippedRangedWeapon"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 2.0165982246398926,
+            "y": 2.365401029586792,
+            "z": 1.900355339050293
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.48797211050987244,
+            "x": -0.494852751493454,
+            "y": 0.49930551648139954,
+            "z": -0.517395555973053
+        }
+    },
+    "type": "motion_controller"
+}

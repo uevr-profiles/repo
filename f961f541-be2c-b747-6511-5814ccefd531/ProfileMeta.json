@@ -1,0 +1,15 @@
+{
+  "ID": "f961f541-be2c-b747-6511-5814ccefd531",
+  "exeName": "DriveBeyondHorizons-Win64-Shipping",
+  "gameName": "Drive Beyond Horizons",
+  "authorName": "Atomic Anders",
+  "modifiedDate": "2024-11-15T23:00:00Z",
+  "createdDate": "2024-11-15T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:50Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/751a14a8-ec02-4601-b752-71f55acaf33b",
+  "zipHash": "F961F541BE2CB74765115814CCEFD531",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f2b979221-b359-433a-e836-39da285c743f&name=DriveBeyondHorizons-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FDriveBeyondHorizons-Win64-Shipping.zip?alt=media",
+  "description": "Keyboard/mouse profile Touch controllers work for movement, driving, but not interact/drop."
+}

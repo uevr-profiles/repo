@@ -1,0 +1,18 @@
+{
+  "ID": "682c7a8d-d673-3e8b-1038-d4a190815484",
+  "exeName": "BPMGame-Win64-Shipping",
+  "gameName": "BPM: BULLETS PER MINUTE",
+  "authorName": "CJ117",
+  "modifiedDate": "2024-04-12T22:00:00Z",
+  "createdDate": "2024-04-12T22:00:00Z",
+  "downloadDate": "2026-03-18T00:51:15Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/f17e1ac7-006a-4107-b9bc-c14dc509127d",
+  "zipHash": "682C7A8DD6733E8B1038D4A190815484",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f903b15c1-ac09-1803-303d-ecb03ebba04e&name=BPMGame-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FBPMGame-Win64-Shipping.zip?alt=media",
+  "description": "Head-Aiming UEVR Profile | Includes Scale Fix Includes character hands/gun scale fix.",
+  "tags": [
+    "3DOF"
+  ]
+}

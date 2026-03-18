@@ -1,0 +1,19 @@
+{
+  "ID": "333596f8-fe72-7611-6e40-31531eea70ce",
+  "exeName": "BadCheese-Win64-Shipping",
+  "gameName": "Bad Cheese",
+  "authorName": "Sintek",
+  "modifiedDate": "2025-03-19T23:00:00Z",
+  "createdDate": "2025-03-19T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:53Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/f6f56706-8b87-4bbd-95a8-cd6f6e089d67",
+  "zipHash": "333596F8FE7276116E4031531EEA70CE",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f72678633-2d88-ce37-fe29-93d1a0611d78&name=BadCheese-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FBadCheese-Win64-Shipping.zip?alt=media",
+  "description": "GUI hidden Hands attached (with one layer of duplicate hands hidden).  The mop works fine as is.",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

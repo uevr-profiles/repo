@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "StaticMeshComponent steampunk_gun_static"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 4.78000020980835,
+            "y": -2.5999999046325684,
+            "z": -10.0
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.02579350769519806,
+            "x": 0.0,
+            "y": 0.9996672868728638,
+            "z": 0.0
+        }
+    },
+    "type": "motion_controller"
+}

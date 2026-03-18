@@ -1,0 +1,20 @@
+{
+  "ID": "040ebfe2-7740-da1b-1f6e-249e660465d0",
+  "exeName": "OI_World-Win64-Shipping",
+  "gameName": "Outbreak Island",
+  "authorName": "ricogs400",
+  "modifiedDate": "2026-02-12T23:00:00Z",
+  "createdDate": "2026-02-12T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:45Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/8430f775-d440-4616-9b4b-9c7eebca8a5c",
+  "zipHash": "040EBFE27740DA1B1F6E249E660465D0",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fa9294dc3-7004-8acc-aeda-85d442a5fd29&name=OI_World-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FOI_World-Win64-Shipping_1.zip?alt=media",
+  "description": "6DOF profile native stereo  Notes: I only have the first pistol attached, so I'm not sure how any...",
+  "tags": [
+    "3DoF",
+    "6DOF",
+    "Motion Controls"
+  ]
+}

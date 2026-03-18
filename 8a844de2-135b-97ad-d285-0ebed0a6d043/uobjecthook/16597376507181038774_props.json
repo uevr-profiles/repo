@@ -1,0 +1,13 @@
+{
+    "hide": true,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "M_BackPack",
+        "Properties",
+        "m_mesh"
+    ],
+    "properties": [],
+    "type": "properties"
+}

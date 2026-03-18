@@ -1,0 +1,18 @@
+{
+  "ID": "5a32f9c1-73ae-8a6b-c850-7d65f735d230",
+  "exeName": "NewTales",
+  "gameName": "New Tales from the Borderlands",
+  "authorName": "VRified Games",
+  "modifiedDate": "2024-05-13T22:00:00Z",
+  "createdDate": "2024-05-13T22:00:00Z",
+  "downloadDate": "2026-03-18T00:50:10Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/021987e7-aaae-4e43-a203-028f4ef1880e",
+  "zipHash": "5A32F9C173AE8A6BC8507D65F735D230",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f3c42d408-5d77-9f3b-6e6a-d77cfff9d0de&name=NewTales",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FNewTales.zip?alt=media",
+  "description": "Includes a First Person toggle for exploration.",
+  "tags": [
+    "3DOF"
+  ]
+}

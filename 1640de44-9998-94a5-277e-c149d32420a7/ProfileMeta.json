@@ -1,0 +1,15 @@
+{
+  "ID": "1640de44-9998-94a5-277e-c149d32420a7",
+  "exeName": "TheComplexFF-Win64-Shipping",
+  "gameName": "The Complex: Found Footage",
+  "authorName": "impulsehs",
+  "modifiedDate": "2024-01-05T23:00:00Z",
+  "createdDate": "2024-01-05T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:14Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/162de8fe-6e53-40ed-8d47-ba9f42aa8234",
+  "zipHash": "1640DE44999894A5277EC149D32420A7",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f8ee823e9-147a-53f9-7374-48b44122dbda&name=TheComplexFF-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FTheComplexFF-Win64-Shipping.zip?alt=media",
+  "description": "Paste this into your Engine.ini file of the game to get rid of the zoomed in, post processing eff..."
+}

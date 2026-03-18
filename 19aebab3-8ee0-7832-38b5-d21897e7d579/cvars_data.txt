@@ -1,0 +1,2 @@
+Renderer_r.Tonemapper.Sharpen=2.000000
+Renderer_r.Tonemapper.Quality=0.0

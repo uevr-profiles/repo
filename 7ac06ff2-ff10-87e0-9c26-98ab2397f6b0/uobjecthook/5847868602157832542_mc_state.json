@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "ChildActorComponent ItemInHand"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -4.521999835968018,
+            "y": 19.660999298095703,
+            "z": 3.4410791397094727
+        },
+        "permanent": false,
+        "rotation_offset": {
+            "w": 0.9440162181854248,
+            "x": -0.0128638856112957,
+            "y": 0.31020238995552063,
+            "z": 0.11154478043317795
+        }
+    },
+    "type": "motion_controller"
+}

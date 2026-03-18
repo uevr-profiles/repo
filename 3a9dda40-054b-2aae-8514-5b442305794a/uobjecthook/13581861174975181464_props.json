@@ -1,0 +1,21 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "WeaponComponent_C WeaponComponent",
+        "Properties",
+        "Player",
+        "Components",
+        "ChildActorComponent WeaponActor",
+        "Properties",
+        "AttachChildren",
+        "MyMySkeletalMeshComponent_C WeaponSkeletalMesh",
+        "Properties",
+        "AttachChildren",
+        "RadialForceComponent WeaponRadialForce"
+    ],
+    "properties": [],
+    "type": "properties"
+}

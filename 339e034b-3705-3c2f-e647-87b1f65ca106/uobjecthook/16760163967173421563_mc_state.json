@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_M83_Smoke_White_C BP_M83_Smoke_White_C_2147481027",
+        "Components",
+        "StaticMeshComponent GrenadeSMC"
+    ],
+    "state": {
+        "hand": 0,
+        "location_offset": {
+            "x": -6.150763511657715,
+            "y": 0.9631232023239136,
+            "z": -7.67303466796875
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.9397335648536682,
+            "x": -0.08455024659633636,
+            "y": -0.32980024814605713,
+            "z": -0.03136943280696869
+        }
+    },
+    "type": "motion_controller"
+}

@@ -1,0 +1,19 @@
+{
+  "ID": "a6248c3f-473c-85af-d2f7-a9fc6c9d215f",
+  "exeName": "ThePark",
+  "gameName": "The Park",
+  "authorName": "Oziman",
+  "modifiedDate": "2024-01-10T23:00:00Z",
+  "createdDate": "2024-01-10T23:00:00Z",
+  "downloadDate": "2026-03-18T00:52:39Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/9d0c3d3b-b24f-4caa-a84d-4dd55aaf7fa2",
+  "zipHash": "A6248C3F473C85AFD2F7A9FC6C9D215F",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fe48a5aca-9554-8b0e-52ed-56690a271f66&name=ThePark",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FThePark.zip?alt=media",
+  "description": "it is intended to \"classic\" players who sit, or stand still (without physical turning), that is, ...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

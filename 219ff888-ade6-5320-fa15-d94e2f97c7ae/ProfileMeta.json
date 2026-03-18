@@ -1,0 +1,23 @@
+{
+  "ID": "219ff888-ade6-5320-fa15-d94e2f97c7ae",
+  "exeName": "VesnithTapes-Win64-Shipping",
+  "gameName": "Vesnith Tapes",
+  "gameVersion": "Patch 0.1 2025-06-24",
+  "authorName": "Crysis",
+  "modifiedDate": "2025-06-25T22:00:00Z",
+  "createdDate": "2025-06-25T22:00:00Z",
+  "downloadDate": "2026-03-18T00:52:55Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/0e49163a-27a6-4130-a23f-bd7e3851ba83",
+  "zipHash": "219FF888ADE65320FA15D94E2F97C7AE",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2ff48fb649-defe-8994-e193-0538d38d5a3a&name=VesnithTapes-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FVesnithTapes-Win64-Shipping.zip?alt=media",
+  "minUEVRNightlyNumber": 1098,
+  "nullifyPlugins": false,
+  "lateInjection": true,
+  "description": "6DOF motion controls (floating pistol) Native Stereo Removed bodycam and CRT screen filters   Not...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

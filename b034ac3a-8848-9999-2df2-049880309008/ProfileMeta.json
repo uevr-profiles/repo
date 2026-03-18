@@ -1,0 +1,18 @@
+{
+  "ID": "b034ac3a-8848-9999-2df2-049880309008",
+  "exeName": "DeliverUsMars-Win64-Shipping",
+  "gameName": "Deliver Us Mars",
+  "authorName": "Megido",
+  "modifiedDate": "2025-10-09T22:00:00Z",
+  "createdDate": "2025-10-09T22:00:00Z",
+  "downloadDate": "2026-03-18T00:52:08Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/8ee46225-2df6-4416-8251-006eef1e787f",
+  "zipHash": "B034AC3A884899992DF2049880309008",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fc06edd24-3ae2-05dd-4960-c51f51ccc058&name=DeliverUsMars-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FDeliverUsMars-Win64-Shipping_2.zip?alt=media",
+  "description": "Managed to completely hide the annoying helmet 2d overlays for the ZeroG/Diving sections (with th...",
+  "tags": [
+    "3DOF"
+  ]
+}

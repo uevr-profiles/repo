@@ -1,0 +1,18 @@
+{
+  "ID": "33a7ac4b-b177-8852-9e64-c8f008711b61",
+  "exeName": "MoonMystery-Win64-Shipping",
+  "gameName": "Moon Mystery",
+  "authorName": "markmonvr",
+  "createdDate": "2024-10-31T04:53:35Z",
+  "downloadDate": "2026-03-18T00:15:23Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1301180206802927647/1301408710274580520",
+  "zipHash": "33A7AC4BB17788529E64C8F008711B61",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fcf38dafe-bba7-104c-c70e-2b492ef60ffc&name=MoonMystery-Win64-Shipping",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1301180206802927647/1301408709930651699/MoonMystery-Win64-Shipping.zip?ex=69bad88f&is=69b9870f&hm=5cc5a43fd12be814c0f7c2165dbb01a25737a9f0ba66772aacc402fd3f89fb21&",
+  "description": "Here this 6dof profile should properly hide the arms mesh",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

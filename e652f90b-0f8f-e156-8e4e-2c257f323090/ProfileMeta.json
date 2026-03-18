@@ -1,0 +1,19 @@
+{
+  "ID": "e652f90b-0f8f-e156-8e4e-2c257f323090",
+  "exeName": "VisionsofMana-Win64-Shipping",
+  "gameName": "Visions of Mana",
+  "authorName": "November",
+  "modifiedDate": "2025-08-30T22:00:00Z",
+  "createdDate": "2025-08-30T22:00:00Z",
+  "downloadDate": "2026-03-18T00:53:02Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/e5c8758b-fba9-49ec-8e1d-0a0aa4d80d44",
+  "zipHash": "E652F90B0F8FE1568E4E2C257F323090",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2ffcaaf08a-babf-b132-e829-d1ffec472cad&name=VisionsofMana-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FVisionsofMana-Win64-Shipping_1.zip?alt=media",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1267831700772356116/1267831701036601457/Visions-of-Mana-1024x576.jpg?ex=69baa448&is=69b952c8&hm=0fde03988ebddef1a5e5673f89faaedb003892cf0969334c7d61cad44ad42d2b&",
+  "description": "I've set the main camera & uObject hooks all to the same hotkey [ U ], this allows you to toggle ...",
+  "tags": [
+    "3DOF"
+  ]
+}

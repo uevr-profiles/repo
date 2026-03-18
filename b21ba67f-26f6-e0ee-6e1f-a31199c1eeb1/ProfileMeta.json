@@ -1,0 +1,19 @@
+{
+  "ID": "b21ba67f-26f6-e0ee-6e1f-a31199c1eeb1",
+  "exeName": "DeliverUsMars-Win64-Shipping",
+  "gameName": "Deliver Us Mars",
+  "authorName": "Timguin",
+  "modifiedDate": "2024-02-03T23:00:00Z",
+  "createdDate": "2024-02-03T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:50Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/12509471-79cf-4044-b124-1ee7f1dd311c",
+  "zipHash": "B21BA67F26F6E0EE6E1FA31199C1EEB1",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f6ede02e7-d6ac-928f-9f7e-67521ebc6216&name=DeliverUsMars-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FDeliverUsMars-Win64-Shipping.zip?alt=media",
+  "description": "Long pressing L3 and R3 enables/disables UObjecthook for first person. But this also enables deco...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

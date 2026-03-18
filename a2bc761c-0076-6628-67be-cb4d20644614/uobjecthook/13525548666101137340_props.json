@@ -1,0 +1,13 @@
+{
+    "hide": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "CurrentWeapons",
+        "BP_AttachmenCyclopeanGaze_C BP_AttachmenCyclopeanGaze_C_2147478601",
+        "Components",
+        "ParticleSystemComponent P_CyclopeanGaze_Hands"
+    ],
+    "properties": [],
+    "type": "properties"
+}

@@ -1,0 +1,18 @@
+{
+  "ID": "19aebab3-8ee0-7832-38b5-d21897e7d579",
+  "exeName": "BlueCode-Win64-Shipping",
+  "gameName": "Call of the Sea",
+  "authorName": "Michael Cawood",
+  "modifiedDate": "2024-02-25T23:00:00Z",
+  "createdDate": "2024-02-25T23:00:00Z",
+  "downloadDate": "2026-03-18T00:52:42Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/b088b533-f4a7-4b74-9fde-5d4d96c10c08",
+  "zipHash": "19AEBAB38EE0783238B5D21897E7D579",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fe74b087a-efc9-a5d7-8e62-5496d590de69&name=BlueCode-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FBlueCode-Win64-Shipping.zip?alt=media",
+  "description": "The mouse cursor is attached to the right controller.",
+  "tags": [
+    "6DoF"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ID": "ef769477-a38e-aafe-7d74-21ae13a2fbeb",
+  "exeName": "UE4Game-Win64-Shipping",
+  "gameName": "SCREAMERS- The Game",
+  "authorName": "king.ej.",
+  "createdDate": "2026-03-08T21:23:26Z",
+  "downloadDate": "2026-03-18T00:12:37Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1480314437456887990/1480315030661759167",
+  "zipHash": "EF769477A38EAAFE7D7421AE13A2FBEB",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f459bcad8-c174-4b60-1771-4187f90f1e97&name=UE4Game-Win64-Shipping",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1480314437456887990/1480315030279950508/UE4Game-Win64-Shipping.zip?ex=69bb17ce&is=69b9c64e&hm=a6dfdce9984a0c03163882fc4b273a1c283ac30c61b411e7edd2fabec136536f&",
+  "description": "Dpad up or menu (left controller) toggle 1st\\3rd person,  shotgun on right controller walkieCB on...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

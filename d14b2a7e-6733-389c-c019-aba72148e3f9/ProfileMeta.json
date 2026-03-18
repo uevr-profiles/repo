@@ -1,0 +1,18 @@
+{
+  "ID": "d14b2a7e-6733-389c-c019-aba72148e3f9",
+  "exeName": "FlyntBuckler-Win64-Shipping",
+  "gameName": "Escape from Ever After",
+  "authorName": "KingEJ",
+  "modifiedDate": "2026-02-07T23:00:00Z",
+  "createdDate": "2026-02-07T23:00:00Z",
+  "downloadDate": "2026-03-18T00:52:19Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/ebfa0635-b3ce-434b-b07e-bff8c5c5f4c8",
+  "zipHash": "D14B2A7E6733389CC019ABA72148E3F9",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fccbf154c-2d1c-e48d-7e7c-3f7f93eea1ca&name=FlyntBuckler-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FFlyntBuckler-Win64-Shipping.zip?alt=media",
+  "description": "Experimental for 1st person exploring not for combat.  Note: It crashes a lot when using for ente...",
+  "tags": [
+    "3DOF"
+  ]
+}

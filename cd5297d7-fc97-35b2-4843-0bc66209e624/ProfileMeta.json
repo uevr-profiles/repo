@@ -1,0 +1,18 @@
+{
+  "ID": "cd5297d7-fc97-35b2-4843-0bc66209e624",
+  "exeName": "Dakar2Game-Win64-Shipping",
+  "gameName": "Dakar Desert Rally",
+  "authorName": "Ridcully",
+  "modifiedDate": "2024-02-09T23:00:00Z",
+  "createdDate": "2024-02-09T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:51Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/9fc6fefb-7398-4f9d-ad6b-3e6b0560e536",
+  "zipHash": "CD5297D7FC9735B248430BC66209E624",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f2c33e546-be6f-5105-57ff-115a6c3cb020&name=Dakar2Game-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FDakar2Game-Win64-Shipping.zip?alt=media",
+  "description": "Native Stereo. There is some shader issues, but nothing game breaking.",
+  "tags": [
+    "3DOF"
+  ]
+}

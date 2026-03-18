@@ -1,0 +1,18 @@
+{
+  "ID": "62720749-c295-443d-50c8-3c35db9c42ae",
+  "exeName": "Indiana-Win64-Shipping",
+  "gameName": "The Outer Worlds",
+  "authorName": "markmon",
+  "modifiedDate": "2024-01-24T23:00:00Z",
+  "createdDate": "2024-01-24T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:15Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/db2c2118-e936-41da-a60d-85a60f6e4c90",
+  "zipHash": "62720749C295443D50C83C35DB9C42AE",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f42b3620e-24ff-1967-2dc2-aabc04102bd0&name=Indiana-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FIndiana-Win64-Shipping.zip?alt=media",
+  "description": "Everything works except the object hooks. If you dont mind the double gun, this give you the adju...",
+  "tags": [
+    "3DOF"
+  ]
+}

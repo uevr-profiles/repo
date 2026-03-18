@@ -1,0 +1,16 @@
+{
+    "hide": true,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "SkeletalMeshComponent FirstPersonArms"
+    ],
+    "properties": [
+        {
+            "data": 1,
+            "name": "bPauseAnims"
+        }
+    ],
+    "type": "properties"
+}

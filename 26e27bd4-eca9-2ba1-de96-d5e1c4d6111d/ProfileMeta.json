@@ -1,0 +1,19 @@
+{
+  "ID": "26e27bd4-eca9-2ba1-de96-d5e1c4d6111d",
+  "exeName": "Indiana-Win64-Shipping",
+  "gameName": "The Outer Worlds",
+  "authorName": "CJ117",
+  "modifiedDate": "2024-08-18T22:00:00Z",
+  "createdDate": "2024-08-18T22:00:00Z",
+  "downloadDate": "2026-03-18T00:50:23Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/7606c642-55d8-4524-a595-17d09beab6c6",
+  "zipHash": "26E27BD4ECA92BA1DE96D5E1C4D6111D",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f4f398d52-282a-eebe-ce42-621e6f9df21a&name=Indiana-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FIndiana-Win64-Shipping_6.zip?alt=media",
+  "description": "6DOF UEVR Profile + Character/Weapon Fix Made and tested using UEVR Nightly v934  I have labelled...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

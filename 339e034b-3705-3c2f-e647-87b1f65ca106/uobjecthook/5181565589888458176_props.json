@@ -1,0 +1,14 @@
+{
+    "hide": true,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Gloves_Tactical_C BP_Gloves_Tactical_C_2147475306",
+        "Components",
+        "SkeletalMeshComponent ClothingMeshComponent0"
+    ],
+    "properties": [],
+    "type": "properties"
+}

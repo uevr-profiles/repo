@@ -1,0 +1,15 @@
+{
+  "ID": "f5bbfebf-1ce8-77d4-3ba3-32c1d6da7fc6",
+  "exeName": "Luto-Win64-Shipping",
+  "gameName": "Luto",
+  "authorName": "Keyser-Soze",
+  "modifiedDate": "2025-07-23T22:00:00Z",
+  "createdDate": "2025-07-23T22:00:00Z",
+  "downloadDate": "2026-03-18T00:50:54Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/8fbfb8f1-b862-4f3a-b3ae-d0d9ad09ec2d",
+  "zipHash": "F5BBFEBF1CE877D43BA332C1D6DA7FC6",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f73723f90-b9b5-f3ef-237d-c73730c04b44&name=Luto-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FLuto-Win64-Shipping.zip?alt=media",
+  "description": "Gamepad/K&M Profile - Includes Black Bar fix  Plus these couple performance cvars: r.FilmGrain 0 ..."
+}

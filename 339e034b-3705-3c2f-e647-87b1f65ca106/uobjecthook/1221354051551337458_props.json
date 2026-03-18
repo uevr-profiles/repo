@@ -1,0 +1,14 @@
+{
+    "hide": true,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "InventoryList",
+        "BP_Shirt_FleeceJacket_C BP_Shirt_FleeceJacket_C_2147441928",
+        "Components",
+        "SkeletalMeshComponent ClothingMeshComponent0"
+    ],
+    "properties": [],
+    "type": "properties"
+}

@@ -1,0 +1,15 @@
+{
+    "hide": false,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "StaticMeshComponent VictoryProp",
+        "Properties",
+        "AttachParent",
+        "Properties",
+        "AttachParent"
+    ],
+    "properties": [],
+    "type": "properties"
+}

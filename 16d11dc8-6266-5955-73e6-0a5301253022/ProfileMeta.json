@@ -1,0 +1,18 @@
+{
+  "ID": "16d11dc8-6266-5955-73e6-0a5301253022",
+  "exeName": "SixDays-Win64-Shipping",
+  "gameName": "Six Days in Fallujah",
+  "authorName": "madmatt1983",
+  "createdDate": "2025-11-30T04:01:21Z",
+  "downloadDate": "2026-03-18T00:13:04Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1177750156473552926/1444538771700711516",
+  "zipHash": "16D11DC86266595573E60A5301253022",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f6c961237-94a4-c2c0-f0fe-b243712e0eaa&name=SixDays-Win64-Shipping",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1177750156473552926/1444538771461640192/SixDays-Win64-Shipping.zip?ex=69bacc51&is=69b97ad1&hm=20b75eb4d318b20cea0795cea2c19d168f4eb1e982766a585252e64342512774&",
+  "description": "I'm sorry to report Pande's excellent 6DOF is not working due to the recent update, no 6dof after...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

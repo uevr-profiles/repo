@@ -1,0 +1,19 @@
+{
+  "ID": "5255307e-3849-d4f9-7e02-b3c34dc11342",
+  "exeName": "GWT",
+  "gameName": "Ghostwire: Tokyo",
+  "authorName": "Alex G",
+  "modifiedDate": "2024-01-01T23:00:00Z",
+  "createdDate": "2024-01-01T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:03Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/3d652a60-7698-4d79-8cd3-cbf7fb16864b",
+  "zipHash": "5255307E3849D4F97E02B3C34DC11342",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f7cc15b61-b408-c19d-57bb-1b9e9139c6ca&name=GWT",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FGWT.zip?alt=media",
+  "description": "3DOF motion controls for aiming.  Please note this is using OpenVR and I have dpad set to right t...",
+  "tags": [
+    "3DOF",
+    "Motion Controls"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ID": "0ff69b12-dec9-2f9d-bd78-15618dd04ef0",
+  "exeName": "Icarus-Win64-Shipping",
+  "gameName": "Icarus",
+  "authorName": "azyraphyle",
+  "modifiedDate": "2024-01-12T23:00:00Z",
+  "createdDate": "2024-01-12T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:20Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/0a39d63a-f483-4ed3-930e-04a7f65cf9e9",
+  "zipHash": "0FF69B12DEC92F9DBD7815618DD04EF0",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f099b2109-9ae5-88d3-ede6-8ff240ef5973&name=Icarus-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FIcarus-Win64-Shipping.zip?alt=media",
+  "description": "It's not quite full motion controls. You can aim with your controller at what you want to interac...",
+  "tags": [
+    "Motion Controls"
+  ]
+}

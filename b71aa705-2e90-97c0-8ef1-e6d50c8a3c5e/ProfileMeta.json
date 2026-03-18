@@ -1,0 +1,15 @@
+{
+  "ID": "b71aa705-2e90-97c0-8ef1-e6d50c8a3c5e",
+  "exeName": "Eriksholm-Win64-Shipping",
+  "gameName": "Eriksholm: The Stolen Dream",
+  "authorName": "Keyser-Soze",
+  "modifiedDate": "2025-07-15T22:00:00Z",
+  "createdDate": "2025-07-15T22:00:00Z",
+  "downloadDate": "2026-03-18T00:49:04Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/8d62a1e1-ebef-4fc9-9bb3-2d76df3796c4",
+  "zipHash": "B71AA7052E9097C08EF1E6D50C8A3C5E",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f020ef5c2-a07e-9510-042c-8b187b1e781e&name=Eriksholm-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FEriksholm-Win64-Shipping.zip?alt=media",
+  "description": "Custom moved-in camera Tweaked WorldScale/UI to be more accurate for gamepad TonemapperSharpness ..."
+}

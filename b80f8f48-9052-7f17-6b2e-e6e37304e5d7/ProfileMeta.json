@@ -1,0 +1,18 @@
+{
+  "ID": "b80f8f48-9052-7f17-6b2e-e6e37304e5d7",
+  "exeName": "ChernobylGame-Win64-Shipping",
+  "gameName": "Chernobylite Enhanced Edition",
+  "authorName": "pande4360",
+  "createdDate": "2025-09-18T12:51:10Z",
+  "downloadDate": "2026-03-18T00:13:01Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1097068127256330354/1418217791642796079",
+  "zipHash": "B80F8F4890527F176B2EE6E37304E5D7",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f6adf93b2-4b83-dd92-4a90-37e02f720639&name=ChernobylGame-Win64-Shipping",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1097068127256330354/1418217791420371096/ChernobylGame-Win64-Shipping.zip?ex=69ba9fbe&is=69b94e3e&hm=2b6a0af2380d741cb5dca98da8a7397145e2106a53096697f3223db6d400e4e3&",
+  "description": "6dof Profile V0.90 Features basic 6dof motion control objects fixed any warping working bullet tr...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

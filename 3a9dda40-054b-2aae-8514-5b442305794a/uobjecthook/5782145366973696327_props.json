@@ -1,0 +1,30 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "WeaponComponent",
+        "Properties",
+        "_currentWeapon",
+        "Properties",
+        "WeaponSkeletalMesh",
+        "Properties",
+        "RelativeScale3D"
+    ],
+    "properties": [
+        {
+            "data": 4611235658357276672,
+            "name": "X"
+        },
+        {
+            "data": 4611235658357276672,
+            "name": "Y"
+        },
+        {
+            "data": 4611235658357276672,
+            "name": "Z"
+        }
+    ],
+    "type": "properties"
+}

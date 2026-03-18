@@ -1,0 +1,19 @@
+{
+  "ID": "477dd580-c977-3951-9e7d-33133729a300",
+  "exeName": "detnoir-Win64-Shipping",
+  "gameName": "Nobody Wants To Die",
+  "authorName": "Headset-VR",
+  "modifiedDate": "2024-09-25T22:00:00Z",
+  "createdDate": "2024-09-25T22:00:00Z",
+  "downloadDate": "2026-03-18T00:50:40Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/29822b33-c6a2-432f-bb96-5dc6436da05f",
+  "zipHash": "477DD580C97739519E7D33133729A300",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f602b9ca5-3c88-c6b5-0e25-77ce3829f35d&name=detnoir-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2Fdetnoir-Win64-Shipping_1.zip?alt=media",
+  "description": "Has items attached to hands, head aiming, working with controllers.",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

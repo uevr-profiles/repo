@@ -1,0 +1,10 @@
+{
+    "hide": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "SkeletalMeshComponent FirstPerson_Arms"
+    ],
+    "properties": [],
+    "type": "properties"
+}

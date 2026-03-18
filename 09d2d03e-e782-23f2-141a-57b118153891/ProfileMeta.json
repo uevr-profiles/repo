@@ -1,0 +1,18 @@
+{
+  "ID": "09d2d03e-e782-23f2-141a-57b118153891",
+  "exeName": "BOBB-Win64-Shipping",
+  "gameName": "Black One Blood Brothers",
+  "authorName": "vault15",
+  "createdDate": "2024-10-15T02:46:33Z",
+  "downloadDate": "2026-03-18T00:11:53Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1194004094994628668/1295578535037239348",
+  "zipHash": "09D2D03EE78223F2141A57B118153891",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f0e6da4b1-7c02-aa25-a2bd-1f8a03436946&name=BOBB-Win64-Shipping",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1194004094994628668/1295578534840111174/BOBB-Win64-Shipping.zip?ex=69babac9&is=69b96949&hm=30dddb6818a52624d7678dc758bd0ccb195d7a099120c5cefce54d8b06a59355&",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1194004094994628668/1194004095158190150/header.jpg?ex=69bb00f7&is=69b9af77&hm=5b07b4cb3216739b37162a2791409df929b1ba6abd79cab447deb24166fced6e&",
+  "description": "3dof weapons working very well (including looking through scopes!). Just had to tweak VRCameraRig...",
+  "tags": [
+    "3DoF"
+  ]
+}

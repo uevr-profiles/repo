@@ -1,0 +1,13 @@
+{
+    "offset": {
+        "x": 0.5,
+        "y": -0.8999999761581421,
+        "z": 40.70000076293945
+    },
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "BP_LobbySkeletalMeshComponent_Onl_C BP_LobbySkeletalMeshComponent_Onl"
+    ],
+    "type": "camera"
+}

@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_AK47_Limbo_C BP_AK47_Limbo_C_0",
+        "Components",
+        "SkeletalMeshComponent Mesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -4.15673828125,
+            "y": 13.510444641113281,
+            "z": -0.39763903617858887
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.7072481513023376,
+            "x": -0.005443409085273743,
+            "y": -0.7066024541854858,
+            "z": -0.021988585591316223
+        }
+    },
+    "type": "motion_controller"
+}

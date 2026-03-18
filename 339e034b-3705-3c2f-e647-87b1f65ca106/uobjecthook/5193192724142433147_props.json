@@ -1,0 +1,14 @@
+{
+    "hide": true,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Head_Female02_C BP_Head_Female02_C_2147477128",
+        "Components",
+        "SkeletalMeshComponent ArmsMeshComp"
+    ],
+    "properties": [],
+    "type": "properties"
+}

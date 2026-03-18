@@ -1,0 +1,17 @@
+{
+  "ID": "270ffcde-18e0-9ab4-3ec1-b1fd925205a2",
+  "exeName": "MK12CameraAdjust",
+  "gameName": "Mortal Kombat 1",
+  "authorName": "headsetvr",
+  "createdDate": "2024-06-10T11:39:04Z",
+  "downloadDate": "2026-03-18T00:15:46Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1155463458062598185/1249689289307197523",
+  "zipHash": "270FFCDE18E09AB43EC1B1FD925205A2",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2ff8d167f3-dc15-6153-1e82-7900dfd1137f&name=MK12CameraAdjust",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1155463458062598185/1249689289294352485/MK12CameraAdjust.zip?ex=69bb3798&is=69b9e618&hm=622a91890475982d5486ade06730e64f546352e45afe92def24118ef7db639c7&",
+  "description": "I've just had a fool around with some of the saved camera angles in the profile from <@2764427417...",
+  "tags": [
+    "6DoF"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ID": "995f37e2-b5b5-cdaa-7712-13fb99730c41",
+  "exeName": "DEAREND-Win64-Shipping",
+  "gameName": "DEAREND",
+  "authorName": "KingEJ",
+  "modifiedDate": "2026-02-09T23:00:00Z",
+  "createdDate": "2026-02-09T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:10Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/e4d519f7-2b03-47c8-88c4-3dab9627bf56",
+  "zipHash": "995F37E2B5B5CDAA771213FB99730C41",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f89759eb2-ba7f-2ba8-98db-8e2daee9f73d&name=DEAREND-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FDEAREND-Win64-Shipping.zip?alt=media",
+  "description": "Gun attached to mesh arms  A = interact B = E X = reload Y = defense LT/RB = Aim and back out of ...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

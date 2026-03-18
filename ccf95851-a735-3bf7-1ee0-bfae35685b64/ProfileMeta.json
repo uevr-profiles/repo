@@ -1,0 +1,18 @@
+{
+  "ID": "ccf95851-a735-3bf7-1ee0-bfae35685b64",
+  "exeName": "Bloodlines2-Win64-Shipping",
+  "gameName": "Vampire: The Masquerade - Bloodlines 2",
+  "authorName": "tensai30",
+  "createdDate": "2026-02-08T19:18:33Z",
+  "downloadDate": "2026-03-18T00:15:05Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1429952475896610958/1470136741808705596",
+  "zipHash": "CCF95851A7353BF71EE0BFAE35685B64",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fb7f3a03d-d5fe-3299-b514-22d8d78c347a&name=Bloodlines2-Win64-Shipping",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1429952475896610958/1470136741829673183/Bloodlines2-Win64-Shipping.zip?ex=69bafa89&is=69b9a909&hm=16334e45325a198c3f06d254cc4f8798fd4dea0b40428a3370b30890b834418f&",
+  "description": "Judder-free profile with camera angle fix included. Can play seated or standing.",
+  "tags": [
+    "3DOF",
+    "6DoF"
+  ]
+}

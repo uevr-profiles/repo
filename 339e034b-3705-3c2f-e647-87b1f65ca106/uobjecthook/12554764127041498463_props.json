@@ -1,0 +1,14 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "InventoryList",
+        "BP_WristWatch_Modular_C BP_WristWatch_Modular_C_2147480919",
+        "Components",
+        "StaticMeshComponent S_Watch"
+    ],
+    "properties": [],
+    "type": "properties"
+}

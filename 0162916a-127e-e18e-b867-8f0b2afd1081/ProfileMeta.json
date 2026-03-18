@@ -1,0 +1,20 @@
+{
+  "ID": "0162916a-127e-e18e-b867-8f0b2afd1081",
+  "exeName": "Hatred-Win64-Shipping",
+  "gameName": "Hatred",
+  "authorName": "markmon",
+  "modifiedDate": "2024-12-13T23:00:00Z",
+  "createdDate": "2024-12-13T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:05Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/260ada9f-a717-404e-b547-e7418a039955",
+  "zipHash": "0162916A127EE18EB8678F0B2AFD1081",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f364d1c68-951e-b296-32a5-437bd8695ed4&name=Hatred-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FHatred-Win64-Shipping_1.zip?alt=media",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1082795758568358020/1082795758719344640/header_1.jpg?ex=69bb2aa2&is=69b9d922&hm=ef97fc37d0603956aefc2d9a423756a4bceaccc383b405e1ceb15956780aa77d&",
+  "description": "6DOF  -Gun rotation fixed.  Notes: You need the 1.333 or 1.666 mod installed from steam workshop ...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

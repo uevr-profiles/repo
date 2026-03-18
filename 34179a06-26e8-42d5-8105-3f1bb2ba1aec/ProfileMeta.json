@@ -1,0 +1,18 @@
+{
+  "ID": "34179a06-26e8-42d5-8105-3f1bb2ba1aec",
+  "exeName": "KINGDOM_HEARTS_III",
+  "gameName": "KINGDOM HEARTS III + Re Mind (DLC)",
+  "authorName": "TimBurton",
+  "modifiedDate": "2024-02-25T23:00:00Z",
+  "createdDate": "2024-02-25T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:34Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/5deabf88-90ee-4f01-b3cc-82a7a18cabaa",
+  "zipHash": "34179A0626E842D581053F1BB2BA1AEC",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f597b70ac-ff54-335a-0fdd-c43114a6aa4b&name=KINGDOM_HEARTS_III",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FKINGDOM_HEARTS_III.zip?alt=media",
+  "description": "White particles issue fix.",
+  "tags": [
+    "3DOF"
+  ]
+}

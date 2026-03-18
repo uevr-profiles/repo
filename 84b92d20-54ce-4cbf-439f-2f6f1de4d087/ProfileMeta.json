@@ -1,0 +1,18 @@
+{
+  "ID": "84b92d20-54ce-4cbf-439f-2f6f1de4d087",
+  "exeName": "GWT",
+  "gameName": "Ghostwire: Tokyo",
+  "authorName": "Headset-VR",
+  "modifiedDate": "2024-08-07T22:00:00Z",
+  "createdDate": "2024-08-07T22:00:00Z",
+  "downloadDate": "2026-03-18T00:50:38Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/791a98cb-d4f0-4837-9f1f-207fc02bd4d6",
+  "zipHash": "84B92D2054CE4CBF439F2F6F1DE4D087",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f5b742b2e-cb14-5908-bd45-e74f57ea2187&name=GWT",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FGWT_2.zip?alt=media",
+  "description": "Numpad 7, 8, 9 to Center Views Numpad 5 to hide the UI Numpad - (Minus) to disable VR Numpad + (p...",
+  "tags": [
+    "3DOF"
+  ]
+}

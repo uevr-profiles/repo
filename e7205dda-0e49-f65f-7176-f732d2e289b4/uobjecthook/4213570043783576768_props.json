@@ -1,0 +1,17 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "BP_PhysicalAnimationComponent_C BP_PhysicalAnimationComponent_C_2147481045",
+        "Outer",
+        "Properties",
+        "Children",
+        "BP_Weapon_PC_FireAxe_C BP_Weapon_PC_FireAxe_C_2147464449",
+        "Properties",
+        "BladeMeshComponent"
+    ],
+    "properties": [],
+    "type": "properties"
+}

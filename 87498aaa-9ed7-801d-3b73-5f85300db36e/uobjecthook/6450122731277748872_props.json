@@ -1,0 +1,12 @@
+{
+    "hide": true,
+    "path": [
+        "Player Controller",
+        "Properties",
+        "Character",
+        "Components",
+        "BISSkeletalMeshComponent Head3P"
+    ],
+    "properties": [],
+    "type": "properties"
+}

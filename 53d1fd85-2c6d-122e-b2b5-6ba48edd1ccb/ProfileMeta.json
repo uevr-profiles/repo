@@ -1,0 +1,18 @@
+{
+  "ID": "53d1fd85-2c6d-122e-b2b5-6ba48edd1ccb",
+  "exeName": "DreadOut2-Win64-Shipping",
+  "gameName": "DreadOut 2",
+  "authorName": "Gazoo",
+  "modifiedDate": "2025-07-07T22:00:00Z",
+  "createdDate": "2025-07-07T22:00:00Z",
+  "downloadDate": "2026-03-18T00:52:51Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/bd172803-209c-4adc-b986-aa1f064ee2cd",
+  "zipHash": "53D1FD852C6D122EB2B56BA48EDD1CCB",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2ff1979396-c6de-014b-d43f-516d047aefa6&name=DreadOut2-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FDreadOut2-Win64-Shipping.zip?alt=media",
+  "description": "3rd Person with camera adjustments.",
+  "tags": [
+    "3DOF"
+  ]
+}

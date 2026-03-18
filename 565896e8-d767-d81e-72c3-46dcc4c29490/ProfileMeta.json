@@ -1,0 +1,19 @@
+{
+  "ID": "565896e8-d767-d81e-72c3-46dcc4c29490",
+  "exeName": "CRToiPrototype-Win64-Shipping",
+  "gameName": "Crisol: Theater of Idols",
+  "authorName": "KingEJ",
+  "modifiedDate": "2025-09-22T22:00:00Z",
+  "createdDate": "2025-09-22T22:00:00Z",
+  "downloadDate": "2026-03-18T00:51:35Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/2b11caea-51b7-4309-a360-cfe8ea292c90",
+  "zipHash": "565896E8D767D81E72C346DCC4C29490",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fa297b9d4-2891-b371-bedd-27eb71f30a9d&name=CRToiPrototype-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FCRToiPrototype-Win64-Shipping_1.zip?alt=media",
+  "description": "WIP gesture profile by swing Left controller to melee with UEVR Button & Gesture Mapper plugin.",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

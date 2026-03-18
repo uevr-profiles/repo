@@ -1,0 +1,15 @@
+{
+  "ID": "a281e240-1551-a6b2-d24d-c8b85b915b3c",
+  "exeName": "FinchGame",
+  "gameName": "What Remains of Edith Finch",
+  "authorName": "Dradhoc",
+  "modifiedDate": "2024-01-05T23:00:00Z",
+  "createdDate": "2024-01-05T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:53Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/b8c334f1-2a4f-44c0-8afe-ad8d415246a8",
+  "zipHash": "A281E2401551A6B2D24DC8B85B915B3C",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f7199e453-0df6-8ffd-b3e3-174cf0ea362d&name=FinchGame",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FFinchGame.zip?alt=media",
+  "description": "Inject with openxr and synched sequential.  Disable r.OneFrameThreadLag under Console/CVars (adva..."
+}

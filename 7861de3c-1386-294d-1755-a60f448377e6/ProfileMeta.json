@@ -1,0 +1,23 @@
+{
+  "ID": "7861de3c-1386-294d-1755-a60f448377e6",
+  "exeName": "Tauseendberg_UEVR_DRG_Config_Rev2",
+  "gameName": "Deep Rock Galactic",
+  "gameVersion": "Latest",
+  "authorName": "tausendberg",
+  "modifiedDate": "2024-08-06T23:00:00Z",
+  "createdDate": "2026-01-01T11:28:34Z",
+  "downloadDate": "2026-03-18T00:12:41Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1196662585978798190/1456247728618082458",
+  "zipHash": "7861DE3C1386294D1755A60F448377E6",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f4cbe1fea-ed78-003c-a6b6-e2240725f6c8&name=Tauseendberg_UEVR_DRG_Config_Rev2",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1196662585978798190/1456247728542847131/Tauseendberg_UEVR_DRG_Config_Rev2.zip?ex=69bb3522&is=69b9e3a2&hm=b529dc56ad78046de26c0d95b40791c882df6b56d2173f275baebdcc76a6a18e&",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1196662585978798190/1196662586247225344/2JSde8PFCF6B4nO2EECrcR1m.webp?ex=69bac9a1&is=69b97821&hm=1d4e30f551ed0a14a1b39a3cbe07d25b18e8f57145c9831005d839dd4cde9caa&",
+  "nullifyPlugins": false,
+  "lateInjection": true,
+  "description": "So, this is my personal profile for Deep Rock Galactic using the Early December 2025 nightly buil...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

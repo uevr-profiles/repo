@@ -1,0 +1,18 @@
+{
+  "ID": "293c17cf-f2b6-2dfd-06b4-f9d1b8ce1d2f",
+  "exeName": "Disintegration-Win64-Shipping",
+  "gameName": "Disintegration",
+  "authorName": "Tyriel Wood",
+  "modifiedDate": "2024-01-26T23:00:00Z",
+  "createdDate": "2024-01-26T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:08Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/c39cd580-f486-4811-8a2c-308e694ed49b",
+  "zipHash": "293C17CFF2B62DFD06B4F9D1B8CE1D2F",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f85223485-b0d5-1b56-4aa3-40fba77b6c68&name=Disintegration-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FDisintegration-Win64-Shipping.zip?alt=media",
+  "description": "First Person view in the Hideout.",
+  "tags": [
+    "3DOF"
+  ]
+}

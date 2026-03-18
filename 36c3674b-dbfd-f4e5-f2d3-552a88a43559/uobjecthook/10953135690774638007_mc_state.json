@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Weapon_FreeLove_C BP_Weapon_FreeLove_C_2147415502",
+        "Components",
+        "SkeletalMeshComponent LoveGlassesMesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.7109135389328003,
+            "x": -0.0,
+            "y": -0.7032793760299683,
+            "z": 0.0
+        }
+    },
+    "type": "motion_controller"
+}

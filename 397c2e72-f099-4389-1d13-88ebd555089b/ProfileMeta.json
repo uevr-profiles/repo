@@ -1,0 +1,18 @@
+{
+  "ID": "397c2e72-f099-4389-1d13-88ebd555089b",
+  "exeName": "Chasmal_Fear-Win64-Shipping",
+  "gameName": "Chasmal Fear",
+  "authorName": "Mala",
+  "modifiedDate": "2024-02-08T23:00:00Z",
+  "createdDate": "2024-02-08T23:00:00Z",
+  "downloadDate": "2026-03-18T00:52:35Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/62e53b90-b9d7-464d-b3d3-5cc7c7b8c6f0",
+  "zipHash": "397C2E72F09943891D1388EBD555089B",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fdf4d3f28-845a-6b94-8081-400a11a46660&name=Chasmal_Fear-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FChasmal_Fear-Win64-Shipping.zip?alt=media",
+  "description": "The engine fixes sometimes works but mostly doesn't. Here is a quick config, aiming is a bit scuf...",
+  "tags": [
+    "3DOF"
+  ]
+}

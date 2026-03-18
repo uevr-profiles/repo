@@ -1,0 +1,50 @@
+{
+    "currentReticuleID": "_none",
+    "reticuleList": [
+        {
+            "class": "StaticMesh /Engine/BasicShapes/Sphere.Sphere",
+            "id": "_default",
+            "label": "Default",
+            "options": {
+                "collisionChannel": 0,
+                "ignorePawn": true,
+                "materialName": "Material /Engine/EngineMaterials/Widget3DPassThrough.Widget3DPassThrough",
+                "position_2d": [
+                    0.0,
+                    0.0
+                ],
+                "scale": [
+                    0.008,
+                    0.008,
+                    0.008
+                ],
+                "scale_2d": [
+                    1.0,
+                    1.0
+                ]
+            },
+            "type": "Mesh"
+        },
+        {
+            "class": "",
+            "id": "c430c3f8-abd7-4cd6-a42b-8b8e1aedc1d7",
+            "label": "New Widget",
+            "options": {
+                "collisionChannel": 0,
+                "ignorePawn": true,
+                "position_2d": [
+                    0.0,
+                    0.0
+                ],
+                "removeFromViewport": true,
+                "scale_2d": [
+                    1.0,
+                    1.0
+                ],
+                "twoSided": true
+            },
+            "type": "Widget"
+        }
+    ],
+    "reticuleTargetMethod": 3
+}

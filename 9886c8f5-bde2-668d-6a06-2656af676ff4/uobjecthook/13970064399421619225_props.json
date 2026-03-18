@@ -1,0 +1,16 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Player Controller",
+        "Properties",
+        "Children",
+        "BP_Player_OldMan_C BP_Player_OldMan_C_2147479179",
+        "Properties",
+        "BackpackRig",
+        "Components",
+        "SceneComponent AttachPoint"
+    ],
+    "properties": [],
+    "type": "properties"
+}

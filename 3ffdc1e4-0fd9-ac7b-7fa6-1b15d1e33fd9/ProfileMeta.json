@@ -1,0 +1,20 @@
+{
+  "ID": "3ffdc1e4-0fd9-ac7b-7fa6-1b15d1e33fd9",
+  "exeName": "Towers-Win64-Shipping",
+  "gameName": "Journey To The Savage Planet",
+  "authorName": "Rusty Gere",
+  "modifiedDate": "2025-08-10T22:00:00Z",
+  "createdDate": "2025-08-10T22:00:00Z",
+  "downloadDate": "2026-03-18T00:49:19Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/cc3bff1d-f666-4e40-b759-06308f990aec",
+  "zipHash": "3FFDC1E40FD9AC7B7FA61B15D1E33FD9",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f08eb99af-4b44-3c51-431e-7aee6a8126c5&name=Towers-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FTowers-Win64-Shipping_2.zip?alt=media",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1093869639714484244/1093869640091975791/H2x1_NSwitch_JourneyToTheSavagePlanet_image1600w.jpg?ex=69ba957d&is=69b943fd&hm=0a6f671781fbea69cfc2a12dff1ad6deb8658aec26a6245ad5df1a47c0432aa4&",
+  "description": "-- 6DOF profile for Lefties --  Based on Tyriel Wood's 6DOF profile  Changes: Gun moved to left h...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

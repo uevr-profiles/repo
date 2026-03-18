@@ -1,0 +1,18 @@
+{
+  "ID": "01f0c619-1f1b-c8ae-a355-abb001c12976",
+  "exeName": "ProjectCOW-Win64-Shipping",
+  "gameName": "Chaos on Wheels",
+  "authorName": "Keyser-Soze",
+  "modifiedDate": "2024-07-11T22:00:00Z",
+  "createdDate": "2024-07-11T22:00:00Z",
+  "downloadDate": "2026-03-18T00:51:17Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/5c799765-af53-4762-95d6-c346a229ceaa",
+  "zipHash": "01F0C6191F1BC8AEA355ABB001C12976",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f932bc60c-51b9-280d-87a2-b2335f427796&name=ProjectCOW-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FProjectCOW-Win64-Shipping.zip?alt=media",
+  "description": "1st Person Profile HMD aiming Camera tweaks and attached to the driver Hidden player mesh",
+  "tags": [
+    "3DOF"
+  ]
+}

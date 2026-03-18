@@ -1,0 +1,20 @@
+{
+  "ID": "8bea72a6-6caf-b2ac-c5a7-6b8478d23d88",
+  "exeName": "Towers-Win64-Shipping",
+  "gameName": "Journey To The Savage Planet",
+  "authorName": "Jfullerton2",
+  "modifiedDate": "2024-01-01T23:00:00Z",
+  "createdDate": "2024-01-01T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:16Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/5d331cfc-ea63-4695-867d-8ad4a4b9b406",
+  "zipHash": "8BEA72A66CAFB2ACC5A76B8478D23D88",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f9125aec7-f757-39de-1bbc-80f91dbac02f&name=Towers-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FTowers-Win64-Shipping_1.zip?alt=media",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1093869639714484244/1093869640091975791/H2x1_NSwitch_JourneyToTheSavagePlanet_image1600w.jpg?ex=69ba957d&is=69b943fd&hm=0a6f671781fbea69cfc2a12dff1ad6deb8658aec26a6245ad5df1a47c0432aa4&",
+  "description": "6DOF charectormesh is hidden",
+  "tags": [
+    "3DOF",
+    "6DoF"
+  ]
+}

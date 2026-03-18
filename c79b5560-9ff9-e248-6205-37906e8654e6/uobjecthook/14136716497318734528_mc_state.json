@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_ShotgunKS23_C BP_ShotgunKS23_C_0",
+        "Components",
+        "SkeletalMeshComponent Mesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 29.188247680664063,
+            "y": 3.2995448112487793,
+            "z": -0.9458866119384766
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.7044975757598877,
+            "x": -0.034280553460121155,
+            "y": 0.7088379859924316,
+            "z": -0.007509937044233084
+        }
+    },
+    "type": "motion_controller"
+}

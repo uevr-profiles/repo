@@ -1,0 +1,8 @@
+{
+    "debounce": 10,
+    "debug": false,
+    "detect_cs": true,
+    "detect_ui": true,
+    "enable": true,
+    "lt_hold": false
+}

@@ -1,0 +1,18 @@
+{
+  "ID": "89288bcd-d03b-d401-5d67-0b6048c85056",
+  "exeName": "FarMech-Win64-Shipping",
+  "gameName": "Lightyear Frontier",
+  "authorName": "Angelus",
+  "modifiedDate": "2024-03-18T23:00:00Z",
+  "createdDate": "2024-03-18T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:58Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/f6d712de-f4f7-4d28-bf4f-8e698850b980",
+  "zipHash": "89288BCDD03BD4015D670B6048C85056",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f77c5682c-b29e-e089-d473-3ba283c9411a&name=FarMech-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FFarMech-Win64-Shipping.zip?alt=media",
+  "description": "Note: The crosshair does not follow the motion controller's movement.  Steam and GamePass Profiles.",
+  "tags": [
+    "3DOF"
+  ]
+}

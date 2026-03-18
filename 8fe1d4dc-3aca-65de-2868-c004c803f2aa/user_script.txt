@@ -1,0 +1,5 @@
+r.FilmGrain 0
+r.postprocessing.disablematerials 1
+r.SceneColorFringe.Max 0                       
+r.SceneColorFringeQuality 0
+r.Tonemapper.GrainQuantization 0

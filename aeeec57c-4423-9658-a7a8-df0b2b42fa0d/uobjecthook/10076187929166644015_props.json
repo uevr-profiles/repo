@@ -1,0 +1,11 @@
+{
+    "hide": true,
+    "hide_legacy": true,
+    "path": [
+        "Camera Manager",
+        "Components",
+        "SceneCaptureComponent2D SceneCaptureComponent2D"
+    ],
+    "properties": [],
+    "type": "properties"
+}

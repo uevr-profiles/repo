@@ -1,0 +1,18 @@
+{
+  "ID": "6322b31f-a546-b5c5-f298-8fe5b225ff0b",
+  "exeName": "SonicRacingCrossWorldsSteam",
+  "gameName": "Sonic Racing: CrossWorlds",
+  "authorName": "BuddyBoBo15",
+  "modifiedDate": "2026-01-01T23:00:00Z",
+  "createdDate": "2026-01-01T23:00:00Z",
+  "downloadDate": "2026-03-18T00:52:00Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/c6b1f5e5-8c35-4f3f-881a-eaa702c5e29f",
+  "zipHash": "6322B31FA546B5C5F2988FE5B225FF0B",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fb5c603f4-7906-baaa-c64d-91a005eed323&name=SonicRacingCrossWorldsSteam",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FSonicRacingCrossWorldsSteam_3.zip?alt=media",
+  "description": "First Person with visible wheel.",
+  "tags": [
+    "3DOF"
+  ]
+}

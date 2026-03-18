@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Weapon_Zap-O-Matic_C BP_Weapon_Zap-O-Matic_C_1",
+        "Components",
+        "SkeletalMeshComponent SkeletalMesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 0.7194252014160156,
+            "y": 13.111862182617188,
+            "z": 25.66425323486328
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.021444842219352722,
+            "x": -0.07553838193416595,
+            "y": -0.9945114850997925,
+            "z": -0.06914514303207397
+        }
+    },
+    "type": "motion_controller"
+}

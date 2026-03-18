@@ -1,0 +1,14 @@
+{
+    "hide": true,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "CameraComponent FirstPersonCamera",
+        "Properties",
+        "AttachChildren",
+        "SkeletalMeshComponent CharacterMesh0"
+    ],
+    "properties": [],
+    "type": "properties"
+}

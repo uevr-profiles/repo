@@ -1,0 +1,19 @@
+{
+  "ID": "7f378b70-9dbe-8870-21ae-2d7a75dff5e2",
+  "exeName": "fnaf9-Win64-Shipping",
+  "gameName": "Five Nights at Freddy's: Security Breach",
+  "authorName": "Mala",
+  "modifiedDate": "2024-01-02T23:00:00Z",
+  "createdDate": "2024-01-02T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:51Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/5325bda0-43f4-42df-b715-a9b55db48bea",
+  "zipHash": "7F378B709DBE887021AE2D7A75DFF5E2",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f2c483fbb-1ccd-d111-0081-6bc8552c5824&name=fnaf9-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2Ffnaf9-Win64-Shipping.zip?alt=media",
+  "description": "6DOF.  Install the UI + Icons: Place the .pak file in \"fnaf9/Content/Paks/\"  Install the controls...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

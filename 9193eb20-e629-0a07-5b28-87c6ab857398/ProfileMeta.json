@@ -1,0 +1,19 @@
+{
+  "ID": "9193eb20-e629-0a07-5b28-87c6ab857398",
+  "exeName": "Maine-Win64-Shipping",
+  "gameName": "Grounded",
+  "authorName": "DJ",
+  "modifiedDate": "2025-02-25T23:00:00Z",
+  "createdDate": "2025-02-25T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:30Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/fb8aa87d-45b6-4498-8ed6-2ef3e2223be1",
+  "zipHash": "9193EB20E6290A075B2887C6AB857398",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f57d64a92-c4cb-c0a1-1475-b3b303bc0b91&name=Maine-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FMaine-Win64-Shipping_1.zip?alt=media",
+  "description": "Used BROHONKY's profile as a base. Removed 6dof mc hooks since my script handles that already. Us...",
+  "tags": [
+    "3DOF",
+    "6DoF"
+  ]
+}

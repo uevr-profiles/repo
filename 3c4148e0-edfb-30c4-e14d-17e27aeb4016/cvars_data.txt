@@ -1,0 +1,7 @@
+Engine_r.AllowOcclusionQueries=1
+Engine_r.AmbientOcclusionLevels=2
+Engine_r.DepthOfFieldQuality=2
+Engine_r.MotionBlur.Max=-1.000000
+Engine_r.MotionBlurQuality=0
+Engine_r.SceneColorFringeQuality=0
+Engine_r.VolumetricCloud=1

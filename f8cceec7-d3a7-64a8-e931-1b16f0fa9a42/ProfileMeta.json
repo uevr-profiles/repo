@@ -1,0 +1,19 @@
+{
+  "ID": "f8cceec7-d3a7-64a8-e931-1b16f0fa9a42",
+  "exeName": "NWXClient-Win64-Shipping",
+  "gameName": "Nightingale",
+  "authorName": "chapeka",
+  "modifiedDate": "2024-02-20T23:00:00Z",
+  "createdDate": "2024-02-20T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:57Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/5908b42a-9b99-4ae3-bfc3-14423d5e0c52",
+  "zipHash": "F8CCEEC7D3A764A8E9311B16F0FA9A42",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fb2965980-b3c4-2465-2bf9-a22fba901c5a&name=NWXClient-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FNWXClient-Win64-Shipping_2.zip?alt=media",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1203055548904509561/1203055549122482266/capsule_616x353_1.jpg?ex=69baf94a&is=69b9a7ca&hm=da05f78deaa0fd9c4e670f662c83b325be3641175ec5887851626db665ff41f4&",
+  "description": "3DOF and bodyclean.",
+  "tags": [
+    "3DOF"
+  ]
+}

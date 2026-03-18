@@ -1,0 +1,19 @@
+{
+  "ID": "77fec40a-dd8a-91d1-3bb7-4ef0f00a3395",
+  "exeName": "Boltgun-Win64-Shipping",
+  "gameName": "Warhammer 40,000: Boltgun",
+  "authorName": "LunchAndDinner",
+  "modifiedDate": "2024-03-09T23:00:00Z",
+  "createdDate": "2024-03-09T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:56Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/5de241d8-c4e0-4ca0-a500-f3392cb93f8b",
+  "zipHash": "77FEC40ADD8A91D13BB74EF0F00A3395",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f75e69910-5600-a6b6-a464-3d7896d4ad5f&name=Boltgun-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FBoltgun-Win64-Shipping.zip?alt=media",
+  "description": "Used nemphis 's original profile and fixed the Weapon size. Also added movement following head. I...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

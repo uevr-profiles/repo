@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_AK47_C BP_AK47_C_1",
+        "Components",
+        "SkeletalMeshComponent Mesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 16.074851989746094,
+            "y": 13.570513725280762,
+            "z": -8.486186981201172
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.7040174603462219,
+            "x": -0.013760016299784184,
+            "y": -0.7100247740745544,
+            "z": 0.0059157609939575195
+        }
+    },
+    "type": "motion_controller"
+}

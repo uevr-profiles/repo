@@ -1,0 +1,19 @@
+{
+  "ID": "53fc52f5-08fd-803e-c78f-39f2b743ede7",
+  "exeName": "RoboCop-Win64-Shipping",
+  "gameName": "RoboCop: Rogue City",
+  "authorName": "Sinful_Rose",
+  "modifiedDate": "2025-01-19T23:00:00Z",
+  "createdDate": "2025-01-19T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:08Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/53b84a52-4c64-4e78-8481-f05e97c7fc1d",
+  "zipHash": "53FC52F508FD803EC78F39F2B743EDE7",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f3ac3da3f-dee1-4320-479f-37b41234030c&name=RoboCop-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FRoboCop-Win64-Shipping_1.zip?alt=media",
+  "description": "Left-handed profile. Left aim Left-handed weapons Left and right triggers switched (now they are ...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ID": "d280c82b-5e67-19fd-34cf-b6b946b211a1",
+  "exeName": "ChromaGun2-Win64-Shipping",
+  "gameName": "ChromaGun 2: Dye Hard",
+  "authorName": "Keyser-Soze",
+  "modifiedDate": "2026-02-16T23:00:00Z",
+  "createdDate": "2026-02-16T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:38Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/9b3abb8e-9d25-4c4d-b779-ec18aaf10345",
+  "zipHash": "D280C82B5E6719FD34CFB6B946B211A1",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f5af34601-fe7b-a03d-d0ce-c5fc4d5433b9&name=ChromaGun2-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FChromaGun2-Win64-Shipping.zip?alt=media",
+  "description": "Full 6DOF Profile Flashlight Attached to Left Motion Re-Sized UI/Crosshair CVAR list to improve t...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

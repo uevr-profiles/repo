@@ -1,0 +1,27 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "WeaponryComponent_C WeaponryComponent",
+        "Properties",
+        "SecondaryWeapon",
+        "Components",
+        "SceneComponent DefaultSceneRoot"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 5.329107284545898,
+            "y": 8.37104606628418,
+            "z": 0.4763143062591553
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.7226998805999756,
+            "x": -0.1563178300857544,
+            "y": -0.6673533916473389,
+            "z": 0.08893299847841263
+        }
+    },
+    "type": "motion_controller"
+}

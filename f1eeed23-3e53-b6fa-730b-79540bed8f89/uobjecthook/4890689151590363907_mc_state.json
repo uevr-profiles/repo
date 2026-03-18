@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "LunaSpringArmComponent LunaSpringArm",
+        "Properties",
+        "AttachChildren",
+        "CameraComponent FirstPersonCamera"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 20.315704345703125,
+            "y": -11.747384071350098,
+            "z": -44.20610427856445
+        },
+        "permanent": false,
+        "rotation_offset": {
+            "w": 0.9939037561416626,
+            "x": -0.026802580803632736,
+            "y": -0.09685122221708298,
+            "z": 0.04535672068595886
+        }
+    },
+    "type": "motion_controller"
+}

@@ -1,0 +1,13 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "DriverActorRef",
+        "Components",
+        "SkeletalMeshComponent SK_Touma_Body"
+    ],
+    "properties": [],
+    "type": "properties"
+}

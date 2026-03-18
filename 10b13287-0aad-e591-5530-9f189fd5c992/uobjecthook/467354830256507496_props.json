@@ -1,0 +1,15 @@
+{
+    "hide": true,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "WeaponryComponent_C WeaponryComponent",
+        "Properties",
+        "SecondaryWeapon",
+        "Components",
+        "SceneComponent DefaultSceneRoot"
+    ],
+    "properties": [],
+    "type": "properties"
+}

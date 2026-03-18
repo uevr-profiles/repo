@@ -1,0 +1,18 @@
+{
+  "ID": "810830de-867c-1fe6-1694-759db93eda91",
+  "exeName": "Chorus-Win64-Shipping",
+  "gameName": "Chorus",
+  "authorName": "Keyser-Soze",
+  "modifiedDate": "2025-05-19T22:00:00Z",
+  "createdDate": "2025-05-19T22:00:00Z",
+  "downloadDate": "2026-03-18T00:50:19Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/b63330c3-3ee0-4da8-8c5a-8ba2a95ba225",
+  "zipHash": "810830DE867C1FE61694759DB93EDA91",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f49d10b4c-3cfa-ead8-1d7a-a1226e92d9d7&name=Chorus-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FChorus-Win64-Shipping_2.zip?alt=media",
+  "description": "1st Person 'Descent' Profile  Made the entire ship invisible except the guns, which were enlarged...",
+  "tags": [
+    "3DOF"
+  ]
+}

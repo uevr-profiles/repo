@@ -1,0 +1,18 @@
+{
+  "ID": "459aebbc-f8c0-42be-cdb6-8e0472079652",
+  "exeName": "GlimpseGame",
+  "gameName": "We Happy Few",
+  "authorName": "Mala",
+  "modifiedDate": "2024-01-19T23:00:00Z",
+  "createdDate": "2024-01-19T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:48Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/de56d609-2021-4507-8751-cc92d7686447",
+  "zipHash": "459AEBBCF8C042BECDB68E0472079652",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f6dfc664a-91e9-ab7a-ac78-57390d63c4a7&name=GlimpseGame",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FGlimpseGame.zip?alt=media",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

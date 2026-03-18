@@ -1,0 +1,14 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Tablet_C BP_Tablet_C_2147420171",
+        "Components",
+        "StaticMeshComponent TabletModel"
+    ],
+    "properties": [],
+    "type": "properties"
+}

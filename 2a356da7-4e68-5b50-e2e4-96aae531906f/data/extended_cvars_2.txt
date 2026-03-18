@@ -1,0 +1,6 @@
+r_Materials=0
+r_SkeletalMeshLODBias=0
+r_MipMapLODBias=0
+r_ParticleLODBias=0
+r_StaticMeshLODDistanceScale=1.00
+foliage_LODDistanceScale=1.00

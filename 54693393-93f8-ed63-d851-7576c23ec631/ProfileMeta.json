@@ -1,0 +1,18 @@
+{
+  "ID": "54693393-93f8-ed63-d851-7576c23ec631",
+  "exeName": "XenonRacer-Win64-Shipping",
+  "gameName": "Xenon Racer",
+  "authorName": "RTexa",
+  "modifiedDate": "2024-01-10T23:00:00Z",
+  "createdDate": "2024-01-10T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:49Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/8abfbfd0-299d-4b1f-a615-713016d64bec",
+  "zipHash": "5469339393F8ED63D8517576C23EC631",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f2a53cd2a-0663-96c9-2ffc-9549f81f2de8&name=XenonRacer-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FXenonRacer-Win64-Shipping.zip?alt=media",
+  "description": "Load Camera 1 for first person. Load Camera 2 for 3rd person to see the cars in the menu.",
+  "tags": [
+    "3DOF"
+  ]
+}

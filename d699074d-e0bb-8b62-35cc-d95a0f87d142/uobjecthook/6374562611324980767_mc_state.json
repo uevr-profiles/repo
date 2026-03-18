@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "RoutineGameCameraComponent CameraComponent"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 3.0,
+            "y": -15.0,
+            "z": 30.0
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 1.0,
+            "x": 5.8207570707846656e-11,
+            "y": -4.336808689942018e-19,
+            "z": 2.5243509846620382e-29
+        }
+    },
+    "type": "motion_controller"
+}

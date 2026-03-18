@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Gloves_Assault_C BP_Gloves_Assault_C_2147480683",
+        "Components",
+        "SkeletalMeshComponent ClothingMeshComponent0"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 12.239999771118164,
+            "y": 111.05000305175781,
+            "z": 33.45000076293945
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.25256797671318054,
+            "x": 0.6552698612213135,
+            "y": 0.698198676109314,
+            "z": 0.1391022950410843
+        }
+    },
+    "type": "motion_controller"
+}

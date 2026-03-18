@@ -1,0 +1,13 @@
+{
+    "hide": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_WristWatch_Modular_C BP_WristWatch_Modular_C_2147481137",
+        "Components",
+        "StaticMeshComponent S_Watch_NewSkel"
+    ],
+    "properties": [],
+    "type": "properties"
+}

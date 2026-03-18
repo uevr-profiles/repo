@@ -1,0 +1,19 @@
+{
+  "ID": "a1acb1f9-bce9-55f4-a581-621f0b8521d8",
+  "exeName": "SquadGame",
+  "gameName": "Squad",
+  "authorName": "MonsterDeadWood",
+  "modifiedDate": "2024-06-26T22:00:00Z",
+  "createdDate": "2024-06-26T22:00:00Z",
+  "downloadDate": "2026-03-18T00:52:00Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/3786714c-2c77-4281-89a0-99b7558baade",
+  "zipHash": "A1ACB1F9BCE955F4A581621F0B8521D8",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fb5caca6f-f394-a883-de06-fefda583417d&name=SquadGame",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FSquadGame_5.zip?alt=media",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1098636000584011927/1098636001003458681/squad-file-90539b00b.jpeg?ex=69bac902&is=69b97782&hm=eae16e0ccedf98989a5ffca6e17214c4722baaef91fd6169268ce21cb92a7545&",
+  "description": "6DOF.  Input fully setup to be a squad leader.",
+  "tags": [
+    "6DoF"
+  ]
+}

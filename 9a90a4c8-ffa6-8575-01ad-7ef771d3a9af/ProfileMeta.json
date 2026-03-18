@@ -1,0 +1,15 @@
+{
+  "ID": "9a90a4c8-ffa6-8575-01ad-7ef771d3a9af",
+  "exeName": "Icarus-Win64-Shipping",
+  "gameName": "Icarus",
+  "authorName": "_VickTor_",
+  "modifiedDate": "2024-01-09T23:00:00Z",
+  "createdDate": "2024-01-09T23:00:00Z",
+  "downloadDate": "2026-03-18T00:52:12Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/5c6090c9-3882-4d47-8f44-29b264dab800",
+  "zipHash": "9A90A4C8FFA6857501AD7EF771D3A9AF",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fc77013dc-d4b4-101a-8870-dfe82cbe5fa3&name=Icarus-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FIcarus-Win64-Shipping_1.zip?alt=media",
+  "description": "Keyboard/mouse controls. The mouse pointer toggle on the \"i\" keyboard key, opening the inventory."
+}

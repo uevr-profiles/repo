@@ -1,0 +1,5 @@
+r.StaticMeshLODDistanceScale = 0.1
+r.SkeletalMeshLODBias = -1
+r.MipMapLODBias = -1
+a.Budget.Enabled = 0 
+a.URO.Enable = 0

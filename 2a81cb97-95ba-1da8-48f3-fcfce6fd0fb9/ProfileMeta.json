@@ -1,0 +1,23 @@
+{
+  "ID": "2a81cb97-95ba-1da8-48f3-fcfce6fd0fb9",
+  "exeName": "SystemReShock-Win64-Shipping",
+  "gameName": "System Shock",
+  "gameVersion": "1.3.0 (Steam)",
+  "authorName": "gwizdek",
+  "modifiedDate": "2025-09-28T22:00:00Z",
+  "createdDate": "2025-09-28T22:00:00Z",
+  "downloadDate": "2026-03-18T00:51:46Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/9adf345d-1025-46ad-a29c-ecd653afca80",
+  "zipHash": "2A81CB9795BA1DA848F3FCFCE6FD0FB9",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fa94950dd-c5a6-7852-f4a8-96861929ecce&name=SystemReShock-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FSystemReShock-Win64-Shipping.zip?alt=media",
+  "minUEVRNightlyNumber": 1098,
+  "nullifyPlugins": false,
+  "lateInjection": false,
+  "description": "Version 1.4.0  Installation details: https://github.com/gwizdek/SystemReShock-UEVR-Plugin  Featur...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

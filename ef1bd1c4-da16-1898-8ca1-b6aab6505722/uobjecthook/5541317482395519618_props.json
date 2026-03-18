@@ -1,0 +1,17 @@
+{
+    "hide": false,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "ChildActorComponent ChildActorComponent_2147475310",
+        "Properties",
+        "AttachChildren",
+        "SceneComponent Scene",
+        "Properties",
+        "AttachChildren",
+        "SceneComponent OffsetComponent"
+    ],
+    "properties": [],
+    "type": "properties"
+}

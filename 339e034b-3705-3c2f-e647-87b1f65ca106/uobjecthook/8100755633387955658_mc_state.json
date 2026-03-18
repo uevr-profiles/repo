@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "SkeletalMeshComponent CharacterMesh0",
+        "Properties",
+        "AttachChildren",
+        "StaticMeshComponent S_Watch"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 5.671999931335449,
+            "y": -20.716999053955078,
+            "z": -12.383999824523926
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.01213924027979374,
+            "x": -0.03885912522673607,
+            "y": 0.32192355394363403,
+            "z": 0.9458900094032288
+        }
+    },
+    "type": "motion_controller"
+}

@@ -1,0 +1,19 @@
+{
+  "ID": "8e886637-12ff-376c-844c-ac523bc0005a",
+  "exeName": "Deadly_Contagion-Win64-Shipping",
+  "gameName": "Deadly Contagion",
+  "authorName": "Angelus",
+  "modifiedDate": "2024-04-18T22:00:00Z",
+  "createdDate": "2024-04-18T22:00:00Z",
+  "downloadDate": "2026-03-18T00:50:36Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/bfceabe9-4a9a-4d40-aa69-a1f35d131046",
+  "zipHash": "8E88663712FF376C844CAC523BC0005A",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f5a66288c-0816-4bb6-c6be-f833f37ac18c&name=Deadly_Contagion-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FDeadly_Contagion-Win64-Shipping.zip?alt=media",
+  "description": "6DOF. WIP.",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

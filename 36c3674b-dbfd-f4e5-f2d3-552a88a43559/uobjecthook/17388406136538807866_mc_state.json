@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Weapon_MeteorStrike_C BP_Weapon_MeteorStrike_C_2147422212",
+        "Components",
+        "SkeletalMeshComponent SkeletalMesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.0007962742820382118,
+            "x": 0.0,
+            "y": 0.9999997019767761,
+            "z": 0.0
+        }
+    },
+    "type": "motion_controller"
+}

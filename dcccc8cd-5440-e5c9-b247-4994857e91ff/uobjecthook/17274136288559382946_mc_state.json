@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "SkeletalMeshComponent FirstPersonArms"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 27.27163314819336,
+            "y": 161.2510528564453,
+            "z": 1.146419882774353
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.7075843214988708,
+            "x": -0.0690382719039917,
+            "y": -0.6976548433303833,
+            "z": 0.08851991593837738
+        }
+    },
+    "type": "motion_controller"
+}

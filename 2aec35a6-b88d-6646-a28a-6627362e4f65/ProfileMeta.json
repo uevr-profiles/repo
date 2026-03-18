@@ -1,0 +1,20 @@
+{
+  "ID": "2aec35a6-b88d-6646-a28a-6627362e4f65",
+  "exeName": "Poppy_Playtime-Win64-Shipping",
+  "gameName": "Poppy Playtime",
+  "authorName": "Mala",
+  "modifiedDate": "2024-01-11T23:00:00Z",
+  "createdDate": "2024-01-11T23:00:00Z",
+  "downloadDate": "2026-03-18T00:52:16Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/aecd9c05-7031-428d-b0cd-3a81d9c59b2b",
+  "zipHash": "2AEC35A6B88D6646A28A6627362E4F65",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fc9c8d31f-7b3f-25f6-3760-5c915b96e386&name=Poppy_Playtime-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FPoppy_Playtime-Win64-Shipping.zip?alt=media",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1085970666420969552/1085970666764914748/capsule_616x353_1.jpg?ex=69bad9ff&is=69b9887f&hm=5b9d76d29d0a5702d3905ebfa1866992adcf76c8ed707d389365bbbcdd82bd7e&",
+  "description": "Chapter 1 Profile. Drop .pak in PlaytimePrototype4's Pak folder, import Config via UEVR.",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

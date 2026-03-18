@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "EquippedWeapon_Component_C EquippedMeleeWeapon"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -0.005473077297210693,
+            "y": -0.48724907636642456,
+            "z": 1.5916210412979126
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.21263563632965088,
+            "x": 0.6730465292930603,
+            "y": 0.18178552389144897,
+            "z": -0.6846522092819214
+        }
+    },
+    "type": "motion_controller"
+}

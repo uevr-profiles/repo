@@ -1,0 +1,14 @@
+{
+    "hide": true,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Weapon_PC_Baton_C BP_Weapon_PC_Baton_C_2147457847",
+        "Components",
+        "SkeletalMeshComponent BrokenBladeMeshComponent"
+    ],
+    "properties": [],
+    "type": "properties"
+}

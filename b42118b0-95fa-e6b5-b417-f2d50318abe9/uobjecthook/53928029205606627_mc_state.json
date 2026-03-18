@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "GauntletMesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -16.675086975097656,
+            "y": 100.71573638916016,
+            "z": 35.66680145263672
+        },
+        "permanent": false,
+        "rotation_offset": {
+            "w": -0.2496248334646225,
+            "x": 0.41454046964645386,
+            "y": 0.7317491173744202,
+            "z": 0.47998666763305664
+        }
+    },
+    "type": "motion_controller"
+}

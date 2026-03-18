@@ -1,0 +1,19 @@
+{
+  "ID": "f1eeed23-3e53-b6fa-730b-79540bed8f89",
+  "exeName": "LunaAbyss-Win64-Shipping",
+  "gameName": "Luna Abyss",
+  "authorName": "chapeka",
+  "modifiedDate": "2024-01-29T23:00:00Z",
+  "createdDate": "2024-01-29T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:20Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/ae124715-3ee2-411b-bc37-f5c1887e139d",
+  "zipHash": "F1EEED233E53B6FA730B79540BED8F89",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f4a24479d-3f57-8491-0128-8e78986cdef1&name=LunaAbyss-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FLunaAbyss-Win64-Shipping.zip?alt=media",
+  "description": "Perfect 6DOF. The hands are part of the weapon, I can't erase them.",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

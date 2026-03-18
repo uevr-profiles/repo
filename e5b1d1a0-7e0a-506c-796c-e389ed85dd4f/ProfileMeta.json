@@ -1,0 +1,19 @@
+{
+  "ID": "e5b1d1a0-7e0a-506c-796c-e389ed85dd4f",
+  "exeName": "SixDays-Win64-Shipping",
+  "gameName": "Six Days in Fallujah",
+  "authorName": "Pande4360",
+  "modifiedDate": "2025-04-18T22:00:00Z",
+  "createdDate": "2025-04-18T22:00:00Z",
+  "downloadDate": "2026-03-18T00:50:45Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/8ed024e7-ca92-4731-9de7-ce06deea0ce7",
+  "zipHash": "E5B1D1A07E0A506C796CE389ED85DD4F",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f6c196eac-6689-9c73-cfcb-74be815070b8&name=SixDays-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FSixDays-Win64-Shipping_2.zip?alt=media",
+  "description": "Added scope I think animation issues relate to DLSS and the upscaler cvar. if it happens play aro...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

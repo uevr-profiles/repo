@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "AnalProbeBP_C AnalProbeBP_C_0",
+        "Components",
+        "SkeletalMeshComponent SkeletalMesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -0.00847625732421875,
+            "y": 21.63766098022461,
+            "z": 25.898771286010742
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.033458419144153595,
+            "x": 0.029124576598405838,
+            "y": 0.9976559281349182,
+            "z": 0.05210661143064499
+        }
+    },
+    "type": "motion_controller"
+}

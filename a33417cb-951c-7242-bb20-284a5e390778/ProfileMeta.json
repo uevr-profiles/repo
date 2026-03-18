@@ -1,0 +1,20 @@
+{
+  "ID": "a33417cb-951c-7242-bb20-284a5e390778",
+  "exeName": "CPPFPS-Win64-Shipping",
+  "gameName": "Trepang2",
+  "authorName": "Kontur10",
+  "modifiedDate": "2024-01-11T23:00:00Z",
+  "createdDate": "2024-01-11T23:00:00Z",
+  "downloadDate": "2026-03-18T00:52:21Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/cd89ea9a-7984-44dc-8086-590cb3d77863",
+  "zipHash": "A33417CB951C7242BB20284A5E390778",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fcd26c85c-16d1-9566-94d9-787f81b4cd47&name=CPPFPS-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FCPPFPS-Win64-Shipping.zip?alt=media",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1094779154005757952/1094779154165149846/E9y3BokVcAUdZoQ.jpg?ex=69ba98ca&is=69b9474a&hm=2fe388bdb373c1ea4eb151353c882a12d788a70e4bdc2c5f653be0ab3818642f&",
+  "description": "Config with the player meshes properly hidden.  Note: Also consider changing \"lightculling\" to 0,...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

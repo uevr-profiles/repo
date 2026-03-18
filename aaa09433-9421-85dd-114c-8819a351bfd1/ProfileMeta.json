@@ -1,0 +1,19 @@
+{
+  "ID": "aaa09433-9421-85dd-114c-8819a351bfd1",
+  "exeName": "DrainSim-Win64-Shipping.7z",
+  "gameName": "DrainSim",
+  "authorName": "bluscream_",
+  "createdDate": "2026-03-11T20:45:03Z",
+  "downloadDate": "2026-03-18T00:14:16Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1423969331250987008/1481392536244191422",
+  "zipHash": "AAA09433942185DD114C8819A351BFD1",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f76b7b8f4-9f79-de8b-c66d-0600e8234c2a&name=DrainSim-Win64-Shipping_7z",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1423969331250987008/1481392535380426772/DrainSim-Win64-Shipping.7z?ex=69bb0ecf&is=69b9bd4f&hm=f23457cd3a254a3c3fd16292ce25d7e8d3db1da0f20681176a984e56af68c608&",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1423969331250987008/1423969331552981013/Screenshot_2025-10-04_053504.png?ex=69bb1d08&is=69b9cb88&hm=ce93010851d0ce6c88f2b45024f54aea959cee927c1e76c7d3901b1be2bdd20d&",
+  "description": "heres a sdk dump, cvar dump and my attempts on trying motion controls (spoiler, didnt get it work...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

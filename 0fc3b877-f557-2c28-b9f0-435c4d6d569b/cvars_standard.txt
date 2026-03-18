@@ -1,0 +1,3 @@
+Renderer_r.DefaultFeature.AntiAliasing=1
+Renderer_r.LightCulling.Quality=1
+Renderer_r.SubsurfaceScattering=1

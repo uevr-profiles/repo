@@ -1,0 +1,1 @@
+Core_r.ScreenPercentage=100.000000

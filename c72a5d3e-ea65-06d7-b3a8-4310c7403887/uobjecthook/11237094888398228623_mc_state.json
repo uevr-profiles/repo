@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Watch"
+    ],
+    "state": {
+        "hand": 0,
+        "location_offset": {
+            "x": -4.266260147094727,
+            "y": -2.1428756713867188,
+            "z": 1.3303771018981934
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.12381987273693085,
+            "x": -0.07760666310787201,
+            "y": 0.019319754093885422,
+            "z": 0.9890766143798828
+        }
+    },
+    "type": "motion_controller"
+}

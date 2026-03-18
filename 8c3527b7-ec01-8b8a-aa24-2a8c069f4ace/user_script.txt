@@ -1,0 +1,14 @@
+r.LensFlareQuality 0
+r.BloomQuality 0
+r.RefractionQuality 0
+r.DisableDistortion 1
+r.SceneColorFringeQuality 0
+r.motionblurquality 0
+sg.ViewDistanceQuality 5
+r.StaticMeshLODDistanceScale 0.001
+r.maxanisotropy 16
+foliage.LODDistanceScale 100
+r.MipMapLODBias -15
+r.SkeletalMeshLODBias -1
+r.ViewDistanceScale 2
+r.postprocessing.disablematerials 1

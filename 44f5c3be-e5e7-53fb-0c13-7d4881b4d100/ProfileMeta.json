@@ -1,0 +1,15 @@
+{
+  "ID": "44f5c3be-e5e7-53fb-0c13-7d4881b4d100",
+  "exeName": "CITW-Win64-Shipping",
+  "gameName": "Creature in the Well",
+  "authorName": "Michael Cawood",
+  "modifiedDate": "2024-04-05T22:00:00Z",
+  "createdDate": "2024-04-05T22:00:00Z",
+  "downloadDate": "2026-03-18T00:49:44Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/b114c1bb-8d2f-449e-97b9-d6023e551e5e",
+  "zipHash": "44F5C3BEE5E753FB0C137D4881B4D100",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f25c06d17-11a4-0483-b302-456f46864a5d&name=CITW-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FCITW-Win64-Shipping.zip?alt=media",
+  "description": "Standard top down view profile. It works well, but until the game moves the camera (which might b..."
+}

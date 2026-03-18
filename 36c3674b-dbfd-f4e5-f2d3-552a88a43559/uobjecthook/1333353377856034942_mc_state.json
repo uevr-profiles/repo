@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Weapon_Dislocator_C BP_Weapon_Dislocator_C_2147423088",
+        "Components",
+        "SkeletalMeshComponent SkeletalMesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -0.5796842575073242,
+            "y": 13.858677864074707,
+            "z": 10.727724075317383
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.0010796347633004189,
+            "x": 0.08801400661468506,
+            "y": -0.9958297610282898,
+            "z": 0.023991912603378296
+        }
+    },
+    "type": "motion_controller"
+}

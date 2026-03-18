@@ -1,0 +1,25 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "CurrentWeapon",
+        "Components",
+        "SkeletalMeshComponent HandGatling_SKM"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 0.08874940872192383,
+            "y": 4.207155704498291,
+            "z": -3.571110725402832
+        },
+        "permanent": false,
+        "rotation_offset": {
+            "w": 0.042934004217386246,
+            "x": 0.04025251790881157,
+            "y": -0.9982236623764038,
+            "z": -0.009280011057853699
+        }
+    },
+    "type": "motion_controller"
+}

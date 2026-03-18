@@ -1,0 +1,19 @@
+{
+  "ID": "2be4220b-86d8-7af6-e3e1-c08023cb56ce",
+  "exeName": "GardenLife-Win64-Shipping",
+  "gameName": "Garden Life: A Cozy Simulator",
+  "authorName": "armax",
+  "modifiedDate": "2024-04-03T22:00:00Z",
+  "createdDate": "2024-04-03T22:00:00Z",
+  "downloadDate": "2026-03-18T00:50:33Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/28ab2b39-3625-4024-81e6-84c18cf1f114",
+  "zipHash": "2BE4220B86D87AF6E3E1C08023CB56CE",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f589f45ae-e93d-f088-8090-82644bcdf5f3&name=GardenLife-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FGardenLife-Win64-Shipping_1.zip?alt=media",
+  "description": "6DOF.",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ID": "89f4098e-6cc1-fcc6-9253-6828299fea3e",
+  "exeName": "Scorn-Win64-Shipping",
+  "gameName": "Scorn",
+  "authorName": "tensai30",
+  "createdDate": "2026-03-05T17:03:05Z",
+  "downloadDate": "2026-03-18T00:12:24Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1085971972833431632/1479162348097769588",
+  "zipHash": "89F4098E6CC1FCC692536828299FEA3E",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f33c14c3a-bce4-274a-50a5-176d16316a2d&name=Scorn-Win64-Shipping",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1085971972833431632/1479162347497980014/Scorn-Win64-Shipping.zip?ex=69badac9&is=69b98949&hm=8b7aafca021ab1367e70a978002c88ced9ac61fdda9e3acf86aeaa2d7a31bdc1&",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1085971972833431632/1085971973022158888/EGS_Scorn_EbbSoftwaredoo_S1_2560x1440-b958f07bf097c78b100af56b0dd0c833.jpeg?ex=69badb36&is=69b989b6&hm=f2aaf1082b7f1a93958cb4f070b616cf646f05da95632f3531515daaab2c9575&",
+  "description": "Updated 6DOF profile with the weapon attached to the right arm. Uses head aiming when the gun isn...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ID": "62313552-5862-76e8-d16f-e98e9c589e73",
+  "exeName": "JDM-Win64-Shipping",
+  "gameName": "JDM: Japanese Drift Master",
+  "authorName": "LunchAndVR",
+  "modifiedDate": "2025-05-23T22:00:00Z",
+  "createdDate": "2025-05-23T22:00:00Z",
+  "downloadDate": "2026-03-18T00:52:23Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/537de79e-6007-4ef9-8d45-fb61374721dc",
+  "zipHash": "62313552586276E8D16FE98E9C589E73",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fce3049c3-74d7-72a7-f92d-9229e21ca9e2&name=JDM-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FJDM-Win64-Shipping.zip?alt=media",
+  "description": "Profiles with or without hands. Attached the camera to the head so that the camera doesn't drift ...",
+  "tags": [
+    "3DOF"
+  ]
+}

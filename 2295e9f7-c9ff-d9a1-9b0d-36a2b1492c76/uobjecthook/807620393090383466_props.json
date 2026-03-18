@@ -1,0 +1,17 @@
+{
+    "hide": true,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Right_LaunchPoint",
+        "Properties",
+        "AttachParent",
+        "Properties",
+        "AttachParent",
+        "Properties",
+        "AttachParent"
+    ],
+    "properties": [],
+    "type": "properties"
+}

@@ -1,0 +1,18 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Player Controller",
+        "Properties",
+        "Character",
+        "Components",
+        "StaticMeshComponent Prop",
+        "Properties",
+        "AttachParent",
+        "Properties",
+        "AttachChildren",
+        "ParticleSystemComponent P_Storm_Victory"
+    ],
+    "properties": [],
+    "type": "properties"
+}

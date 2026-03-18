@@ -1,0 +1,18 @@
+{
+  "ID": "8a5ae99e-e42b-6c21-cc49-bb0f72cddbae",
+  "exeName": "GameFile-Win64-Shipping",
+  "gameName": "Hermit",
+  "authorName": "KingEJ",
+  "modifiedDate": "2025-08-27T22:00:00Z",
+  "createdDate": "2025-08-27T22:00:00Z",
+  "downloadDate": "2026-03-18T00:52:40Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/b3ec7048-f121-4aab-87fd-0f53e9c23d81",
+  "zipHash": "8A5AE99EE42B6C21CC49BB0F72CDDBAE",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fe5a412d8-2f62-dc0c-1df7-b637051fab35&name=GameFile-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FGameFile-Win64-Shipping.zip?alt=media",
+  "description": "1st Person 3DOF WIP  A = Dodge (spacebar)(not working) A = Interact (F) X = Interact (E) Y = Inte...",
+  "tags": [
+    "3DoF"
+  ]
+}

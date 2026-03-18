@@ -1,0 +1,18 @@
+{
+  "ID": "a6ca78c9-fe80-cf9b-2804-de3be174de06",
+  "exeName": "DeadlandOutlaws-Win64-Shipping",
+  "gameName": "Deadland Outlaws",
+  "authorName": "KingEJ",
+  "modifiedDate": "2025-11-05T23:00:00Z",
+  "createdDate": "2025-11-05T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:20Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/460806d8-9726-400a-b572-51710de7ea22",
+  "zipHash": "A6CA78C9FE80CF9B2804DE3BE174DE06",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f49fc9842-cbd4-3944-5886-bd56d839eecf&name=DeadlandOutlaws-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FDeadlandOutlaws-Win64-Shipping.zip?alt=media",
+  "description": "Added 3DOF controller support WIP  GAMEPADDPADUP= Night Vision GAMEPADDPADDOWN= Prone GAMEPADDPAD...",
+  "tags": [
+    "3DOF"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ID": "5893c443-271f-cc59-f656-8cc9d77cd215",
+  "exeName": "Pandemic",
+  "gameName": "SCP: 5K",
+  "authorName": "MoistMan",
+  "modifiedDate": "2024-03-18T23:00:00Z",
+  "createdDate": "2024-03-18T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:48Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/a5222fb1-6a3f-4afc-a791-5874da417cbf",
+  "zipHash": "5893C443271FCC59F6568CC9D77CD215",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f6e97acbc-a352-b374-2cf3-12f094a5e1bd&name=Pandemic",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FPandemic_1.zip?alt=media",
+  "description": "6DOF with arms for added immersion.  Requires mrbelowski fix: https://github.com/mrbelowski/UEVR",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "ID": "43937452-f605-7b20-2cb6-c07f47f2dc2c",
+  "exeName": "SquadGame",
+  "gameName": "Squad",
+  "authorName": "vehlaw",
+  "modifiedDate": "2023-12-31T23:00:00Z",
+  "createdDate": "2023-12-31T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:43Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/7d6dde9b-0218-499e-87be-5f3d5393e494",
+  "zipHash": "43937452F6057B202CB6C07F47F2DC2C",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f652797a3-7da5-3c94-7e57-525bf41e32f0&name=SquadGame",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FSquadGame_2.zip?alt=media",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1098636000584011927/1098636001003458681/squad-file-90539b00b.jpeg?ex=69bac902&is=69b97782&hm=eae16e0ccedf98989a5ffca6e17214c4722baaef91fd6169268ce21cb92a7545&",
+  "description": "6DOF.",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

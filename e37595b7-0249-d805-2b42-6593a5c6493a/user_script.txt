@@ -1,0 +1,2 @@
+r.TranslucentLightingVolume 0
+r.PostProcessAAQuality 2

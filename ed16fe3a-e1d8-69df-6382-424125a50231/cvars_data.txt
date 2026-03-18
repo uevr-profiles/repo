@@ -1,0 +1,7 @@
+Engine_r.AllowOcclusionQueries=678040208
+Engine_r.DepthOfFieldQuality=2
+Engine_r.MotionBlurQuality=4
+Engine_r.OneFrameThreadLag=1
+Engine_r.SceneColorFringeQuality=1
+Engine_r.VolumetricCloud=1
+Renderer_r.Color.Max=0.847000

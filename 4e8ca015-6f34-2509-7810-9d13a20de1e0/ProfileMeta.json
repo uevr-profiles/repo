@@ -1,0 +1,18 @@
+{
+  "ID": "4e8ca015-6f34-2509-7810-9d13a20de1e0",
+  "exeName": "BlueCode-Win64-Shipping",
+  "gameName": "Call of the Sea",
+  "authorName": "Obneiric",
+  "modifiedDate": "2024-01-05T23:00:00Z",
+  "createdDate": "2024-01-05T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:02Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/e4a91005-8b1b-46da-9d12-653249cb3b6a",
+  "zipHash": "4E8CA0156F34250978109D13A20DE1E0",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f7af18a04-cd5b-6047-fd5d-bbb487aae192&name=BlueCode-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FBlueCode-Win64-Shipping_1.zip?alt=media",
+  "description": "Head aiming with roomscale enabled cvars set to remove vignette and increase sharpness to offset TAA",
+  "tags": [
+    "6DoF"
+  ]
+}

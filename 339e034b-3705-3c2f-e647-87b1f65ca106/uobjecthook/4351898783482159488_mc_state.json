@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_M18_Smoke_Violet_C BP_M18_Smoke_Violet_C_2147480948",
+        "Components",
+        "StaticMeshComponent GrenadeSMC"
+    ],
+    "state": {
+        "hand": 0,
+        "location_offset": {
+            "x": -8.942416191101074,
+            "y": 0.8230667114257813,
+            "z": -9.319133758544922
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.8838560581207275,
+            "x": 0.05525390803813934,
+            "y": 0.4630994200706482,
+            "z": 0.03583943098783493
+        }
+    },
+    "type": "motion_controller"
+}

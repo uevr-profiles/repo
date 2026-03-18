@@ -1,0 +1,17 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "ChildActorComponent ChildActorComponent_2147475310",
+        "Properties",
+        "AttachChildren",
+        "SceneComponent Scene",
+        "Properties",
+        "AttachChildren",
+        "SkeletalMeshComponent CockpitSkeleton"
+    ],
+    "properties": [],
+    "type": "properties"
+}

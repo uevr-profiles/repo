@@ -1,0 +1,20 @@
+{
+  "ID": "838d22d5-9229-51fc-c060-3ba8d3eb03f9",
+  "exeName": "Scorn-Win64-Shipping",
+  "gameName": "Scorn",
+  "authorName": "Tensai37",
+  "modifiedDate": "2026-02-06T23:00:00Z",
+  "createdDate": "2026-02-06T23:00:00Z",
+  "downloadDate": "2026-03-18T00:52:22Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/af322fc9-d9cb-4f93-bebd-2e1dfa892abd",
+  "zipHash": "838D22D5922951FCC0603BA8D3EB03F9",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fce02383f-2f0e-6ed9-f6a1-33b4fa2c07e6&name=Scorn-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FScorn-Win64-Shipping_2.zip?alt=media",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1085971972833431632/1085971973022158888/EGS_Scorn_EbbSoftwaredoo_S1_2560x1440-b958f07bf097c78b100af56b0dd0c833.jpeg?ex=69badb36&is=69b989b6&hm=f2aaf1082b7f1a93958cb4f070b616cf646f05da95632f3531515daaab2c9575&",
+  "description": "Here's a head aiming profile confirmed working with all of the weapons. Remember you'll need to h...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

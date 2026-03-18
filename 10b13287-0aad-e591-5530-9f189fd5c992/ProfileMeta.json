@@ -1,0 +1,19 @@
+{
+  "ID": "10b13287-0aad-e591-5530-9f189fd5c992",
+  "exeName": "GIJOE",
+  "gameName": "G.I. Joe: Operation Blackout",
+  "authorName": "Angelus",
+  "modifiedDate": "2024-02-25T23:00:00Z",
+  "createdDate": "2024-02-25T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:33Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/99e5eb0d-37a4-47e7-8d48-6acb12f82d35",
+  "zipHash": "10B132870AADE59155309F189FD5C992",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f58e21ca7-2810-bdff-c389-ecfcb947d617&name=GIJOE",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FGIJOE.zip?alt=media",
+  "description": "6DOF.",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

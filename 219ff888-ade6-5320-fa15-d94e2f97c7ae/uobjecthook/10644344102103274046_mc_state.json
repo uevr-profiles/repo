@@ -1,0 +1,27 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "ChildActorComponent HorrorEngine",
+        "Properties",
+        "ChildActor",
+        "Components",
+        "StaticMeshComponent Pistol"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -5.274687767028809,
+            "y": 8.617098808288574,
+            "z": -0.026587247848510742
+        },
+        "permanent": false,
+        "rotation_offset": {
+            "w": 0.7121341824531555,
+            "x": -0.0023540854454040527,
+            "y": -0.7018309831619263,
+            "z": -0.017116740345954895
+        }
+    },
+    "type": "motion_controller"
+}

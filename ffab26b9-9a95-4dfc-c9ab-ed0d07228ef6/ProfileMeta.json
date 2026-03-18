@@ -1,0 +1,15 @@
+{
+  "ID": "ffab26b9-9a95-4dfc-c9ab-ed0d07228ef6",
+  "exeName": "JediSurvivor",
+  "gameName": "STAR WARS Jedi: Survivor™",
+  "authorName": "oneup03",
+  "modifiedDate": "2024-11-27T23:00:00Z",
+  "createdDate": "2024-11-27T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:13Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/3e1b8a0d-77db-4313-b8d4-507ee1348f4a",
+  "zipHash": "FFAB26B99A954DFCC9ABED0D07228EF6",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f3d721138-09f1-9408-d2d8-26381541e3e6&name=JediSurvivor",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FJediSurvivor_2.zip?alt=media",
+  "description": "Things I added: Disabled Occlusion Queries as they caused bad flickering of objects in opposite e..."
+}

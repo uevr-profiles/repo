@@ -1,0 +1,18 @@
+{
+  "ID": "cfca33e2-f3ce-48fd-a1d3-2778e642c92e",
+  "exeName": "VehicleSystem-Win64-Shipping",
+  "gameName": "Long Way",
+  "authorName": "Angelus",
+  "modifiedDate": "2024-06-10T22:00:00Z",
+  "createdDate": "2024-06-10T22:00:00Z",
+  "downloadDate": "2026-03-18T00:50:40Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/df8ff01b-5507-4d10-9699-f758453399bc",
+  "zipHash": "CFCA33E2F3CE48FDA1D32778E642C92E",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f5f6e68b0-4cb4-e178-f8fa-4de5eab822f7&name=VehicleSystem-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FVehicleSystem-Win64-Shipping.zip?alt=media",
+  "description": "Press Left-Ctrl key to Enable/Disable First-Person View.",
+  "tags": [
+    "3DOF"
+  ]
+}

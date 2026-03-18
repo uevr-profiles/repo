@@ -1,0 +1,19 @@
+{
+  "ID": "b42118b0-95fa-e6b5-b417-f2d50318abe9",
+  "exeName": "HighMoon-Win64-Shipping",
+  "gameName": "Evil West",
+  "authorName": "BennyD",
+  "modifiedDate": "2024-01-10T23:00:00Z",
+  "createdDate": "2024-01-10T23:00:00Z",
+  "downloadDate": "2026-03-18T00:52:11Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/081c6f9a-1453-4684-83c8-787217c6aa17",
+  "zipHash": "B42118B095FAE6B5B417F2D50318ABE9",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fc3e206de-a6ee-fe38-480e-5cccc9dcbe92&name=HighMoon-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FHighMoon-Win64-Shipping_2.zip?alt=media",
+  "description": "There's a couple issues: For some reason after loading the preset into the game and starting the ...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

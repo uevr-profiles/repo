@@ -1,0 +1,19 @@
+{
+  "ID": "e37595b7-0249-d805-2b42-6593a5c6493a",
+  "exeName": "Indiana-Win64-Shipping",
+  "gameName": "The Outer Worlds",
+  "authorName": "markmon",
+  "modifiedDate": "2024-11-25T23:00:00Z",
+  "createdDate": "2024-11-25T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:58Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/a6f56ab6-e9ea-4640-987f-9287ec216993",
+  "zipHash": "E37595B70249D8052B426593A5C6493A",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fb2dcfd7c-62ae-b75f-8998-5e624a0b832d&name=Indiana-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FIndiana-Win64-Shipping_8.zip?alt=media",
+  "description": "This is a 6DOF profile with corrected aiming. userscript.txt is configured for native rendering t...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

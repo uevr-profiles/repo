@@ -1,0 +1,86 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "CameraComponent Camera",
+        "Properties",
+        "PostProcessSettings"
+    ],
+    "properties": [
+        {
+            "data": 1,
+            "name": "bOverride_BloomIntensity"
+        },
+        {
+            "data": 1,
+            "name": "bOverride_ColorGamma"
+        },
+        {
+            "data": 1,
+            "name": "bOverride_DepthOfFieldDepthBlurAmount"
+        },
+        {
+            "data": 1,
+            "name": "bOverride_DepthOfFieldDepthBlurRadius"
+        },
+        {
+            "data": 1,
+            "name": "bOverride_DepthOfFieldFocalDistance"
+        },
+        {
+            "data": 1,
+            "name": "bOverride_DepthOfFieldFstop"
+        },
+        {
+            "data": 1,
+            "name": "bOverride_DepthOfFieldMinFstop"
+        },
+        {
+            "data": 1,
+            "name": "bOverride_MotionBlurAmount"
+        },
+        {
+            "data": 1,
+            "name": "bOverride_MotionBlurMax"
+        },
+        {
+            "data": 1,
+            "name": "bOverride_MotionBlurPerObjectSize"
+        },
+        {
+            "data": 1,
+            "name": "bOverride_MotionBlurTargetFPS"
+        },
+        {
+            "data": 1,
+            "name": "bOverride_PathTracingMaxBounces"
+        },
+        {
+            "data": 1,
+            "name": "bOverride_RayTracingAO"
+        },
+        {
+            "data": 1,
+            "name": "bOverride_RayTracingGI"
+        },
+        {
+            "data": 1,
+            "name": "bOverride_ReflectionsType"
+        },
+        {
+            "data": 1,
+            "name": "bOverride_TranslucencyType"
+        },
+        {
+            "data": 0,
+            "name": "BloomIntensity"
+        },
+        {
+            "data": 0,
+            "name": "BloomDirtMaskIntensity"
+        }
+    ],
+    "type": "properties"
+}

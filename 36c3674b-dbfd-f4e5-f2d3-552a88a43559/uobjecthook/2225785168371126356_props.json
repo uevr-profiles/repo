@@ -1,0 +1,14 @@
+{
+    "hide": true,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Weapon_FreeLove_C BP_Weapon_FreeLove_C_2147423074",
+        "Components",
+        "SkeletalMeshComponent LoveGlassesMesh"
+    ],
+    "properties": [],
+    "type": "properties"
+}

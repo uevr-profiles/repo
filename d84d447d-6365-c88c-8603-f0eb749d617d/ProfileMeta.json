@@ -1,0 +1,19 @@
+{
+  "ID": "d84d447d-6365-c88c-8603-f0eb749d617d",
+  "exeName": "SlenderTheArrival-Win64-Shipping",
+  "gameName": "Slender: The Arrival",
+  "authorName": "mrbub",
+  "modifiedDate": "2025-11-15T23:00:00Z",
+  "createdDate": "2025-11-15T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:20Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/36e52c4c-d64b-49cb-955a-d926c81b36db",
+  "zipHash": "D84D447D6365C88C8603F0EB749D617D",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f942eddc7-5da4-8421-47d2-4ab264ee4d77&name=SlenderTheArrival-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FSlenderTheArrival-Win64-Shipping_2.zip?alt=media",
+  "description": "Fixed the small flashlight and the world scale should be perfect.",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ID": "30329fc5-1c17-1064-c255-f6bb20b6a3e9",
+  "exeName": "AtomicHeart-Win64-Shipping",
+  "gameName": "Atomic Heart",
+  "authorName": "Ashok",
+  "modifiedDate": "2025-12-20T23:00:00Z",
+  "createdDate": "2025-12-20T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:59Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/6b78c324-5753-463f-83d1-949a089dcbd6",
+  "zipHash": "30329FC51C171064C255F6BB20B6A3E9",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fb549ad94-5e0b-7da6-c2ba-8ebeceec6669&name=AtomicHeart-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FAtomicHeart-Win64-Shipping_2.zip?alt=media",
+  "description": "Atomic Heart UEVR Plugin v1.02 Increase player height. Enable movement on RS when scanning. Craft...",
+  "tags": [
+    "6DoF"
+  ]
+}

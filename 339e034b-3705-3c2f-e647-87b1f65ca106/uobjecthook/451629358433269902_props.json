@@ -1,0 +1,14 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Moskito_RF_C BP_Moskito_RF_C_2147480948",
+        "Components",
+        "StaticMeshComponent MoskitoStaticMesh0"
+    ],
+    "properties": [],
+    "type": "properties"
+}

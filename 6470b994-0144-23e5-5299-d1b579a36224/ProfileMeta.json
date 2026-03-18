@@ -1,0 +1,18 @@
+{
+  "ID": "6470b994-0144-23e5-5299-d1b579a36224",
+  "exeName": "KINGDOM_HEARTS_III",
+  "gameName": "KINGDOM HEARTS III + Re Mind (DLC)",
+  "authorName": "joeyhodge",
+  "modifiedDate": "2025-04-07T22:00:00Z",
+  "createdDate": "2025-04-07T22:00:00Z",
+  "downloadDate": "2026-03-18T00:52:03Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/900a1d71-3774-4002-aaad-3a53e64bca3d",
+  "zipHash": "6470B994014423E55299D1B579A36224",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fba38b327-c451-8ab5-f145-ecab41851522&name=KINGDOM_HEARTS_III",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FKINGDOM_HEARTS_III_2.zip?alt=media",
+  "description": "HUD already enabled  How to: Inject after UE loading screen in native stereo Once injected, while...",
+  "tags": [
+    "3DOF"
+  ]
+}

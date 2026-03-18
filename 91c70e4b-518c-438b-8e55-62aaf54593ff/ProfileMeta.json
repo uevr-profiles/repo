@@ -1,0 +1,18 @@
+{
+  "ID": "91c70e4b-518c-438b-8e55-62aaf54593ff",
+  "exeName": "BPMGame-Win64-Shipping",
+  "gameName": "BPM: BULLETS PER MINUTE",
+  "authorName": "Michael Cawood",
+  "modifiedDate": "2024-04-12T22:00:00Z",
+  "createdDate": "2024-04-12T22:00:00Z",
+  "downloadDate": "2026-03-18T00:52:49Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/d8f71aa0-5ea0-43d3-bf85-cf064e17856a",
+  "zipHash": "91C70E4B518C438B8E5562AAF54593FF",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2feea8a34f-f541-147f-ebea-2c1e96ac999c&name=BPMGame-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FBPMGame-Win64-Shipping_1.zip?alt=media",
+  "description": "This profile has the movement relative to the left controller and the aiming attached to the righ...",
+  "tags": [
+    "3DOF"
+  ]
+}

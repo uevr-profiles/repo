@@ -1,0 +1,4 @@
+r.Tonemapper.GrainQuantization 0
+r.FilmGrain 0
+r.MipMapLodBias -1
+r.StaticMeshLODBias -1

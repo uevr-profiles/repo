@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_PM_Limbo_C BP_PM_Limbo_C_0",
+        "Components",
+        "SkeletalMeshComponent Mesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -8.180391311645508,
+            "y": 3.8952879905700684,
+            "z": 0.2331829071044922
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.7064887285232544,
+            "x": 0.02587076462805271,
+            "y": -0.7054170966148376,
+            "z": 0.05090212821960449
+        }
+    },
+    "type": "motion_controller"
+}

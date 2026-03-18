@@ -1,0 +1,19 @@
+{
+  "ID": "08545f82-e032-3641-f1d8-15c57c321b69",
+  "exeName": "Palworld-Win64-Shipping",
+  "gameName": "Palworld",
+  "authorName": "LunchAndDinner",
+  "modifiedDate": "2024-01-22T23:00:00Z",
+  "createdDate": "2024-01-22T23:00:00Z",
+  "downloadDate": "2026-03-18T00:52:36Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/e19d5b0c-62b7-4f64-8b11-a6cf51c1d85d",
+  "zipHash": "08545F82E0323641F1D815C57C321B69",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fe05fd1aa-8433-7d21-960e-a4740454d0cd&name=Palworld-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FPalworld-Win64-Shipping_1.zip?alt=media",
+  "description": "Here are updated First-Person 6DOF profiles.   Aiming & shooting works, melee works without anima...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

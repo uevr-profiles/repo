@@ -1,0 +1,16 @@
+{
+    "hide": false,
+    "path": [
+        "Camera Manager",
+        "Properties",
+        "ModifierList",
+        "CameraModifier_CameraShake CameraModifier_CameraShake_2147481031"
+    ],
+    "properties": [
+        {
+            "data": 0,
+            "name": "Alpha"
+        }
+    ],
+    "type": "properties"
+}

@@ -1,0 +1,18 @@
+{
+  "ID": "42471aba-b336-70b4-be89-db1a1f4cd2a1",
+  "exeName": "O2-Win64-Shipping",
+  "gameName": "Outcast - A New Beginning",
+  "authorName": "markmonvr",
+  "createdDate": "2025-11-30T12:52:28Z",
+  "downloadDate": "2026-03-18T00:12:23Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1204306877404545115/1444672433243164856",
+  "zipHash": "42471ABAB33670B4BE89DB1A1F4CD2A1",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f32dfb055-e1dc-5695-9210-e2d254a524f6&name=O2-Win64-Shipping",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1204306877404545115/1444672433087971439/O2-Win64-Shipping.zip?ex=69baa00c&is=69b94e8c&hm=bb438ac9fd0cccddbf3e1f44cc92ab5b7937df9a1858af17498bd43ef82c083f&",
+  "description": "Ok here is v1.3 of the profile that fixes swimming (being able to dive) when melee swing is enabl...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "path": [
+        "Player Controller",
+        "Properties",
+        "AcknowledgedPawn",
+        "Components",
+        "CameraComponent CameraComponent"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 6.339750289916992,
+            "y": -9.230514526367188,
+            "z": -40.611209869384766
+        },
+        "permanent": false,
+        "rotation_offset": {
+            "w": 0.999704122543335,
+            "x": -0.006088878959417343,
+            "y": -0.021374987438321114,
+            "z": 0.009889082983136177
+        }
+    },
+    "type": "motion_controller"
+}

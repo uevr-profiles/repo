@@ -1,0 +1,23 @@
+{
+    "hide": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "EquippedItem",
+        "Properties",
+        "WeaponData",
+        "Properties",
+        "MaxRecoil"
+    ],
+    "properties": [
+        {
+            "data": 0,
+            "name": "X"
+        },
+        {
+            "data": 0,
+            "name": "Y"
+        }
+    ],
+    "type": "properties"
+}

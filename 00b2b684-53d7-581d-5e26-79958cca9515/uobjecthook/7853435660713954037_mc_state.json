@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Plasmagun_C BP_Plasmagun_C_1",
+        "Components",
+        "SkeletalMeshComponent Mesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -5.991383075714111,
+            "y": 0.21589529514312744,
+            "z": -0.8153634071350098
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.7043580412864685,
+            "x": -0.013224974274635315,
+            "y": 0.7095900177955627,
+            "z": 0.013688407838344574
+        }
+    },
+    "type": "motion_controller"
+}

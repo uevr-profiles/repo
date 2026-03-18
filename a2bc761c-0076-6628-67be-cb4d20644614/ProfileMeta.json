@@ -1,0 +1,19 @@
+{
+  "ID": "a2bc761c-0076-6628-67be-cb4d20644614",
+  "exeName": "OMD-Win64-Shipping",
+  "gameName": "Orcs Must Die! 3",
+  "authorName": "knapman",
+  "modifiedDate": "2024-01-14T23:00:00Z",
+  "createdDate": "2024-01-14T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:09Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/cdd7d778-cf91-4d4b-8275-1c16c8044a01",
+  "zipHash": "A2BC761C0076662867BECB4D20644614",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f3bc8182c-2e1a-9a05-081d-96293ae9b571&name=OMD-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FOMD-Win64-Shipping.zip?alt=media",
+  "description": "Built off Lucipher's 6DOF profile. Added the bow weapon. Ghosting fix is on. D-Pad shift swapped ...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

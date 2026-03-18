@@ -1,0 +1,19 @@
+{
+  "ID": "20ba818d-a1da-b1b3-5876-77e4cb5fc52f",
+  "exeName": "HolyShoot-Win64-Shipping",
+  "gameName": "Holy Shoot",
+  "authorName": "KingEJ",
+  "modifiedDate": "2025-11-06T23:00:00Z",
+  "createdDate": "2025-11-06T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:44Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/7bb9c240-21e4-4b75-8ccc-15540f0e784c",
+  "zipHash": "20BA818DA1DAB1B3587677E4CB5FC52F",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f26a33df9-ee7a-bdb0-c210-b775974bb52f&name=HolyShoot-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FHolyShoot-Win64-Shipping_1.zip?alt=media",
+  "description": "Updated 6DOF Proflie  GUI enabled L3 dash",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

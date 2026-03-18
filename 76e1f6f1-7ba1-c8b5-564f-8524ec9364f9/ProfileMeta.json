@@ -1,0 +1,18 @@
+{
+  "ID": "76e1f6f1-7ba1-c8b5-564f-8524ec9364f9",
+  "exeName": "Talos2-Win64-Shipping",
+  "gameName": "The Talos Principle 2",
+  "authorName": "tensai30",
+  "createdDate": "2026-02-07T17:39:04Z",
+  "downloadDate": "2026-03-18T00:12:12Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1169746648814063778/1469749321661419767",
+  "zipHash": "76E1F6F17BA1C8B5564F8524EC9364F9",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f254e3ebd-d528-2ed7-841e-c3f1bac3089b&name=Talos2-Win64-Shipping",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1169746648814063778/1469749322030645308/Talos2-Win64-Shipping.zip?ex=69bae338&is=69b991b8&hm=e6a66a1d240de798045a9f195f410907ddf5171af1082d0f2c325581930e2597&",
+  "description": "Lots of improvements. Items connect to the right controller (motion controls), head is used for a...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

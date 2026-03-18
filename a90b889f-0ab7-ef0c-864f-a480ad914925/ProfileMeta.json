@@ -1,0 +1,19 @@
+{
+  "ID": "a90b889f-0ab7-ef0c-864f-a480ad914925",
+  "exeName": "Supraland-Win64-Shipping",
+  "gameName": "Supraland",
+  "authorName": "thegimme",
+  "modifiedDate": "2024-02-14T23:00:00Z",
+  "createdDate": "2024-02-14T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:22Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/f2ea6590-d3e3-4206-9c50-46fcb38af60e",
+  "zipHash": "A90B889F0AB7EF0C864FA480AD914925",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f4da25ac1-366a-3180-4134-4f2daa015cc0&name=Supraland-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FSupraland-Win64-Shipping.zip?alt=media",
+  "description": "Objecthook loaded by default Got the gun and hooked it to right hand.  Both sword and gun should ...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

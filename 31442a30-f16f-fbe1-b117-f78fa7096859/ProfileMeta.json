@@ -1,0 +1,16 @@
+{
+  "ID": "31442a30-f16f-fbe1-b117-f78fa7096859",
+  "exeName": "Tales_of_Arise",
+  "gameName": "Tales of Arise",
+  "authorName": "Cless Aurion",
+  "modifiedDate": "2024-01-07T23:00:00Z",
+  "createdDate": "2024-01-07T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:39Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/acad203b-d49a-4b04-9203-f7fda89625d9",
+  "zipHash": "31442A30F16FFBE1B117F78FA7096859",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f1b072d51-3ed0-9eb3-9b80-57e03b99866d&name=Tales_of_Arise",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FTales_of_Arise.zip?alt=media",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1092728931976740974/1092728932610088960/YRnlfjEwzN7CIq8NgWUHywNh.webp?ex=69bb0c5f&is=69b9badf&hm=e1c948e456be445db7b99ded8e2b70d74c2f37035d8e79242a89b2d569911133&",
+  "description": "Fixed the issues with menus not showing properly and having bits and pieces cutout at random. Thi..."
+}

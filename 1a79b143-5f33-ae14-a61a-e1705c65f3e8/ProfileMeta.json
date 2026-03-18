@@ -1,0 +1,18 @@
+{
+  "ID": "1a79b143-5f33-ae14-a61a-e1705c65f3e8",
+  "exeName": "Praest-Win64-Shipping",
+  "gameName": "GRAVEN",
+  "authorName": "AL",
+  "modifiedDate": "2024-01-24T23:00:00Z",
+  "createdDate": "2024-01-24T23:00:00Z",
+  "downloadDate": "2026-03-18T00:52:49Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/d3603015-f2f6-4ad5-ab27-1d7e0212aa2f",
+  "zipHash": "1A79B1435F33AE14A61AE1705C65F3E8",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fee9a6413-8b90-cc73-04db-fa3d5cfb76d3&name=Praest-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FPraest-Win64-Shipping.zip?alt=media",
+  "description": "Scale for hands and world adjusted.",
+  "tags": [
+    "3DOF"
+  ]
+}

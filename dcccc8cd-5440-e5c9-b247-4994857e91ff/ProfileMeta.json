@@ -1,0 +1,19 @@
+{
+  "ID": "dcccc8cd-5440-e5c9-b247-4994857e91ff",
+  "exeName": "Pandemic",
+  "gameName": "SCP: 5K",
+  "authorName": "Martini",
+  "modifiedDate": "2024-03-30T23:00:00Z",
+  "createdDate": "2024-03-30T23:00:00Z",
+  "downloadDate": "2026-03-18T00:52:44Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/9daab15f-add5-41e1-8933-aa6307c97b4a",
+  "zipHash": "DCCCC8CD5440E5C9B2474994857E91FF",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fe9051c83-800e-ab00-4901-6102be48cd76&name=Pandemic",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FPandemic.zip?alt=media",
+  "description": "6DOF with no arms and no animations.  Requires mrbelowski fix: https://github.com/mrbelowski/UEVR...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

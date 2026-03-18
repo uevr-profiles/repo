@@ -1,0 +1,20 @@
+{
+  "ID": "9931d1ec-0ad1-354c-6a90-f26528ddd34a",
+  "exeName": "CineTracer2",
+  "gameName": "Cine Tracer 2",
+  "authorName": "LunchAndDinner",
+  "modifiedDate": "2024-01-08T23:00:00Z",
+  "createdDate": "2024-01-08T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:43Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/e02dc8b1-25ca-4c12-80f6-43a39fadce6b",
+  "zipHash": "9931D1EC0AD1354C6A90F26528DDD34A",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f20915a81-901d-79e4-73ae-5191fd639ed5&name=CineTracer2",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FCineTracer2.zip?alt=media",
+  "description": "3DOF profile, very limited. Both left & right hands are one single skeleton so you move both hand...",
+  "tags": [
+    "3DoF",
+    "6DOF",
+    "Motion Controls"
+  ]
+}

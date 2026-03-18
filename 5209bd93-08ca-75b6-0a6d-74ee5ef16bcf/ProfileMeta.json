@@ -1,0 +1,18 @@
+{
+  "ID": "5209bd93-08ca-75b6-0a6d-74ee5ef16bcf",
+  "exeName": "Boltgun-Win64-Shipping",
+  "gameName": "Warhammer 40,000: Boltgun",
+  "authorName": "nemphis",
+  "modifiedDate": "2024-01-03T23:00:00Z",
+  "createdDate": "2024-01-03T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:46Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/59e2bbb8-677f-4a39-ba29-35b66f448500",
+  "zipHash": "5209BD9308CA75B60A6D74EE5EF16BCF",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f26cba8f3-fcf6-41b6-06d1-72a1abe1155b&name=Boltgun-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FBoltgun-Win64-Shipping_1.zip?alt=media",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

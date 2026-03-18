@@ -1,0 +1,22 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "SkeletalMeshComponent CharacterMesh0",
+        "Properties",
+        "AttachChildren",
+        "StaticMeshComponent S_Watch",
+        "Properties",
+        "AttachChildren",
+        "WidgetComponent Widget"
+    ],
+    "properties": [
+        {
+            "data": 1,
+            "name": "bAbsoluteLocation"
+        }
+    ],
+    "type": "properties"
+}

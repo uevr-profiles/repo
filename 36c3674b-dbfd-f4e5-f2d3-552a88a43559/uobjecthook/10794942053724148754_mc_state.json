@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "DisintegratorRayBP_C DisintegratorRayBP_C_2147423086",
+        "Components",
+        "SkeletalMeshComponent SkeletalMesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -1.7615251541137695,
+            "y": 6.800591468811035,
+            "z": 2.191777229309082
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.01689024828374386,
+            "x": 0.06528545171022415,
+            "y": -0.9973771572113037,
+            "z": 0.026287931948900223
+        }
+    },
+    "type": "motion_controller"
+}

@@ -1,0 +1,19 @@
+{
+  "ID": "2be578da-0a69-918d-f01c-15def64935c3",
+  "exeName": "HolyShoot-Win64-Shipping",
+  "gameName": "Holy Shoot",
+  "authorName": "Sintek",
+  "modifiedDate": "2024-10-04T22:00:00Z",
+  "createdDate": "2024-10-04T22:00:00Z",
+  "downloadDate": "2026-03-18T00:50:55Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/3df74db5-7577-4ddb-a11f-80d3a98b97fd",
+  "zipHash": "2BE578DA0A69918DF01C15DEF64935C3",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f75444aae-8b74-a827-2a2b-19484bd2abbd&name=HolyShoot-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FHolyShoot-Win64-Shipping.zip?alt=media",
+  "description": "6DOF Profile",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

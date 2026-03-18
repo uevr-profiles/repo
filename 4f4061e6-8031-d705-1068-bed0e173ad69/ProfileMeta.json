@@ -1,0 +1,18 @@
+{
+  "ID": "4f4061e6-8031-d705-1068-bed0e173ad69",
+  "exeName": "MetalEden-Win64-Shipping",
+  "gameName": "METAL EDEN",
+  "authorName": "Headset-vr",
+  "modifiedDate": "2025-06-16T22:00:00Z",
+  "createdDate": "2025-06-16T22:00:00Z",
+  "downloadDate": "2026-03-18T00:52:05Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/8e112345-9c94-4b63-b3a2-3cbf3cfc6dce",
+  "zipHash": "4F4061E68031D7051068BED0E173AD69",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fbbf00f45-ec29-d950-715e-06216341e87c&name=MetalEden-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FMetalEden-Win64-Shipping.zip?alt=media",
+  "description": "Weapons attached to controllers Native Stereo",
+  "tags": [
+    "3DOF"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "ChildActorComponent BP_GunBlueprint"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 1.1563949584960938,
+            "y": 2.7056262493133545,
+            "z": 6.475052833557129
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.9976680874824524,
+            "x": 0.008882522583007813,
+            "y": 0.05763884261250496,
+            "z": -0.03545897826552391
+        }
+    },
+    "type": "motion_controller"
+}

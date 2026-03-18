@@ -1,0 +1,17 @@
+r.VolumetricCloud 0
+r.postprocessing.disablematerials 1
+r.SSFS 0
+r.FinishCurrentFrame 0
+r.OneFrameThreadLag 1
+r.Tonemapper.Quality 0
+r.MotionBlur.Max 0
+r.MotionBlurQuality 0
+r.DefaultFeature.MotionBlur 0
+r.SceneColorFringe.Max 0
+r.SceneColorFringeQuality 0
+r.Tonemapper.GrainQuantization 0
+r.PostProcessAAQuality 1
+r.LightCulling.Quality 1
+r.DefaultFeature.AmbientOcclusion 1
+r.Bloom,Quality 0
+r.Bloom 0

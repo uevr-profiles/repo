@@ -1,0 +1,18 @@
+{
+  "ID": "2949d458-1ae2-2303-5c57-0acfe318ac68",
+  "exeName": "QUBE-Win64-Shipping",
+  "gameName": "Q.U.B.E. 2",
+  "authorName": "nabelo",
+  "modifiedDate": "2024-01-14T23:00:00Z",
+  "createdDate": "2024-01-14T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:30Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/ae287812-5f04-48ed-81e0-d9fd06ebe339",
+  "zipHash": "2949D4581AE223035C570ACFE318AC68",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f13e585e6-f604-d6fa-5a21-0891b1c44439&name=QUBE-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FQUBE-Win64-Shipping.zip?alt=media",
+  "description": "Hidden hands and aiming is on the right controler.",
+  "tags": [
+    "3DOF"
+  ]
+}

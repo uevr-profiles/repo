@@ -1,0 +1,25 @@
+{
+    "path": [
+        "Player Controller",
+        "Properties",
+        "Character",
+        "Components",
+        "SpotLightComponent Flashlight"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 1.7693214416503906,
+            "y": -0.17079925537109375,
+            "z": 53.92743682861328
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.7657611966133118,
+            "x": -0.004934222437441349,
+            "y": 0.07438012957572937,
+            "z": -0.6387907862663269
+        }
+    },
+    "type": "motion_controller"
+}

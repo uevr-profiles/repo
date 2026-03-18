@@ -1,0 +1,19 @@
+{
+  "ID": "cf244b97-48c1-5fcb-77ea-b0a5e2a2f2fc",
+  "exeName": "BadCheese-Win64-Shipping",
+  "gameName": "Bad Cheese",
+  "authorName": "KingEJ",
+  "modifiedDate": "2025-08-31T22:00:00Z",
+  "createdDate": "2025-08-31T22:00:00Z",
+  "downloadDate": "2026-03-18T00:49:37Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/6286b07a-8f07-409a-b8bc-182748fd7a97",
+  "zipHash": "CF244B9748C15FCB77EAB0A5E2A2F2FC",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f1a1be4ad-f718-5c39-3737-33d12523c3cb&name=BadCheese-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FBadCheese-Win64-Shipping_1.zip?alt=media",
+  "description": "Include UEVR Button & Gesture Mapper Plugin Press Y on controller or \"L\" on keyboard to show\\hide...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

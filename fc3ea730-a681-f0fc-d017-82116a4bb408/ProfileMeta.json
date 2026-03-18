@@ -1,0 +1,15 @@
+{
+  "ID": "fc3ea730-a681-f0fc-d017-82116a4bb408",
+  "exeName": "Grace-WinGDK-Shipping",
+  "gameName": "Return to Grace",
+  "authorName": "nyavana",
+  "modifiedDate": "2024-03-09T23:00:00Z",
+  "createdDate": "2024-03-09T23:00:00Z",
+  "downloadDate": "2026-03-18T00:52:45Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/3b76bae4-b11c-42b3-bc1e-89a53df92bb0",
+  "zipHash": "FC3EA730A681F0FCD01782116A4BB408",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2feaa8bc06-d570-3367-fedb-a6ddd7e9909b&name=Grace-WinGDK-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FGrace-WinGDK-Shipping.zip?alt=media",
+  "description": "Native stereo causes crash in late game, switch to synced sequential with ghosting fix. Need to d..."
+}

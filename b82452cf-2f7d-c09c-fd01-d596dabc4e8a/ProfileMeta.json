@@ -1,0 +1,19 @@
+{
+  "ID": "b82452cf-2f7d-c09c-fd01-d596dabc4e8a",
+  "exeName": "b1-Win64-Shipping",
+  "gameName": "Black Myth: Wukong",
+  "authorName": "Headset-VR",
+  "modifiedDate": "2024-09-19T22:00:00Z",
+  "createdDate": "2024-09-19T22:00:00Z",
+  "downloadDate": "2026-03-18T00:49:47Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/12ef54b1-79aa-4ee4-b77d-d7152b45c25f",
+  "zipHash": "B82452CF2F7DC09CFD01D596DABC4E8A",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f275d0ae3-3f8a-9256-648a-12fbf7a1e53a&name=b1-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2Fb1-Win64-Shipping.zip?alt=media",
+  "description": "1st person and weapon attached to controllers. There are a few key binds included to swap for any...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

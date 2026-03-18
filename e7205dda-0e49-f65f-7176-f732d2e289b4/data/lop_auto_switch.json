@@ -1,0 +1,9 @@
+{
+    "debounce": 10,
+    "decoupled_off": true,
+    "enabled": true,
+    "extra_widgets_csv": "",
+    "force_defaults_exit": true,
+    "ui_follow_off": true,
+    "verbose": true
+}

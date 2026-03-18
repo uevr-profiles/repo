@@ -1,0 +1,19 @@
+{
+  "ID": "fd6c8b64-2c78-0bc0-1d12-00496cb7a9fb",
+  "exeName": "RGame-Win64-Shipping",
+  "gameName": "Abyssus",
+  "authorName": "Keyser-Soze",
+  "modifiedDate": "2025-08-11T22:00:00Z",
+  "createdDate": "2025-08-11T22:00:00Z",
+  "downloadDate": "2026-03-18T00:49:20Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/ba3477a3-c14f-4cc2-ba4f-8b65fc7ae978",
+  "zipHash": "FD6C8B642C780BC01D1200496CB7A9FB",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f0a0c3ae3-adf9-2d36-5b7f-64a0395b8788&name=RGame-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FRGame-Win64-Shipping.zip?alt=media",
+  "description": "6DOF Profile Kept the hands as they looked really good Added small performance CVAR List Disabled...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ID": "45189b5a-aea7-5728-fe51-1a8c32b4707a",
+  "exeName": "SpeciesUnknown-Win64-Shipping",
+  "gameName": "Species: Unknown",
+  "authorName": "mattyonthesnacks",
+  "modifiedDate": "2025-11-16T23:00:00Z",
+  "createdDate": "2025-12-07T14:45:57Z",
+  "downloadDate": "2026-03-18T00:12:37Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1391913698401980427/1447237705498103808",
+  "zipHash": "45189B5AAEA75728FE511A8C32B4707A",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f44ab2e1d-4d0a-3467-b9f2-73c2f8ea50c4&name=SpeciesUnknown-Win64-Shipping",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1391913698401980427/1447237705019949107/SpeciesUnknown-Win64-Shipping.zip?ex=69babaa5&is=69b96925&hm=8b60c86919e0f1f5b9f244f3589bba5390617cb3573cd806df1ff101ec7b52af&",
+  "nullifyPlugins": false,
+  "lateInjection": false,
+  "description": "okay heres the latest. anything that's disabled in .lua you can still try out by just deleting \"....",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

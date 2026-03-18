@@ -1,0 +1,17 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Mesh",
+        "Properties",
+        "AttachChildren",
+        "SceneComponent RootComponent",
+        "Properties",
+        "AttachChildren",
+        "SkeletalMeshComponent WeaponMeshComponent"
+    ],
+    "properties": [],
+    "type": "properties"
+}

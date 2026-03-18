@@ -1,0 +1,19 @@
+{
+  "ID": "fee8bc8f-cad3-2349-9500-92729d794d35",
+  "exeName": "DeadIsland-Win64-Shipping",
+  "gameName": "Dead Island 2",
+  "authorName": "vinion",
+  "modifiedDate": "2026-01-06T23:00:00Z",
+  "createdDate": "2026-01-06T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:09Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/167a6f63-1111-44e8-958b-a2189caeda50",
+  "zipHash": "FEE8BC8FCAD32349950092729D794D35",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f863f83e4-db01-cf9c-eb55-a547da9dcd05&name=DeadIsland-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FDeadIsland-Win64-Shipping_4.zip?alt=media",
+  "description": "Dead Island 2 UEVR Plugin v0.7 (Beta) Released  More info: https://github.com/vinionsinho/DeadIsl...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

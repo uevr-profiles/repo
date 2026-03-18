@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "WeaponHoldLocation"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 8.437764167785645,
+            "y": 4.194073677062988,
+            "z": -3.430185317993164
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.9962019920349121,
+            "x": -0.06314864009618759,
+            "y": -0.059572502970695496,
+            "z": 0.0067424653097987175
+        }
+    },
+    "type": "motion_controller"
+}

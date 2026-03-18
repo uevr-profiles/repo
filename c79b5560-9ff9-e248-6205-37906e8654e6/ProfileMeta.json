@@ -1,0 +1,19 @@
+{
+  "ID": "c79b5560-9ff9-e248-6205-37906e8654e6",
+  "exeName": "AtomicHeart-Win64-Shipping",
+  "gameName": "Atomic Heart",
+  "authorName": "SpanielGarrison",
+  "modifiedDate": "2024-01-16T23:00:00Z",
+  "createdDate": "2024-01-16T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:41Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/7bd09949-8c80-4090-a4bd-ce33d24dee04",
+  "zipHash": "C79B55609FF9E248620537906E8654E6",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f1f1a01ee-47ae-3def-f9ce-557e8957b397&name=AtomicHeart-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FAtomicHeart-Win64-Shipping.zip?alt=media",
+  "description": "This profile has attached guns for the main game as well as DLC 1 and DLC2. Dash and jump buttons...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

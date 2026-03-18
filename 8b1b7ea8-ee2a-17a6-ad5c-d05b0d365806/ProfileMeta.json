@@ -1,0 +1,20 @@
+{
+  "ID": "8b1b7ea8-ee2a-17a6-ad5c-d05b0d365806",
+  "exeName": "CPPFPS-Win64-Shipping",
+  "gameName": "Trepang2",
+  "authorName": "chapeka",
+  "modifiedDate": "2024-01-29T23:00:00Z",
+  "createdDate": "2024-01-29T23:00:00Z",
+  "downloadDate": "2026-03-18T00:53:01Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/ff28b32e-bb51-491b-95df-69094ad38f43",
+  "zipHash": "8B1B7EA8EE2A17A6AD5CD05B0D365806",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2ffb02f114-a41e-9072-12ee-a09c533199b5&name=CPPFPS-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FCPPFPS-Win64-Shipping_3.zip?alt=media",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1094779154005757952/1094779154165149846/E9y3BokVcAUdZoQ.jpg?ex=69ba98ca&is=69b9474a&hm=2fe388bdb373c1ea4eb151353c882a12d788a70e4bdc2c5f653be0ab3818642f&",
+  "description": "6DOF, buttons changed to be able to slide without problems.",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

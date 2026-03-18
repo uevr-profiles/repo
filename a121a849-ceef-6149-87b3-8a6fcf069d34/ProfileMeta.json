@@ -1,0 +1,18 @@
+{
+  "ID": "a121a849-ceef-6149-87b3-8a6fcf069d34",
+  "exeName": "UnrealGame-Win64-Shipping",
+  "gameName": "Space Hat",
+  "authorName": "king.ej.",
+  "createdDate": "2026-03-09T04:58:02Z",
+  "downloadDate": "2026-03-18T00:15:00Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1480429163763728404/1480429435621740645",
+  "zipHash": "A121A849CEEF614987B38A6FCF069D34",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fb241497a-a0d6-bfe5-1453-e979b129795b&name=UnrealGame-Win64-Shipping",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1480429163763728404/1480429435361431668/UnrealGame-Win64-Shipping.zip?ex=69bad99a&is=69b9881a&hm=74988c25469c8bc8d93e2fc22e20a951e321b9187e7a3b489e051e062e0316be&",
+  "description": "6Dof profile  B= Reload A= Jump X= Interact Y= Highlight menu item (pause and main) RT= Fire Menu...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

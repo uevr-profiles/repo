@@ -1,0 +1,18 @@
+{
+  "ID": "22c8ecec-f86e-8496-fdaa-197b98b6ba74",
+  "exeName": "Gore22-Win64-Shipping",
+  "gameName": "BLOODKILL: Goreblast Overkill",
+  "authorName": "KingEJ",
+  "modifiedDate": "2025-09-08T22:00:00Z",
+  "createdDate": "2025-09-08T22:00:00Z",
+  "downloadDate": "2026-03-18T00:51:13Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/e3fe10f2-46c1-46d7-81d2-8547be38484b",
+  "zipHash": "22C8ECECF86E8496FDAA197B98B6BA74",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f8d341399-488d-52af-499f-0a82ddc3e243&name=Gore22-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FGore22-Win64-Shipping.zip?alt=media",
+  "description": "3DOF WIP Added controller support (Experimental) with markmon /uevr-joytokey plugin  X = Interact...",
+  "tags": [
+    "3DoF"
+  ]
+}

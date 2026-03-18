@@ -1,0 +1,2 @@
+Renderer_r.TemporalAA.Algorithm=1
+Renderer_r.TemporalAA.Upsampling=1

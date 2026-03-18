@@ -1,0 +1,18 @@
+{
+  "ID": "b4812aeb-3725-2ce5-4c4c-1fb640ff7144",
+  "exeName": "SandFall-Win64-Shipping",
+  "gameName": "Clair Obscur: Expedition 33",
+  "authorName": "LunchAndVR",
+  "modifiedDate": "2025-05-02T22:00:00Z",
+  "createdDate": "2025-05-02T22:00:00Z",
+  "downloadDate": "2026-03-18T00:51:36Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/6da6e3b1-1eee-45ea-b673-4c2d8223f54e",
+  "zipHash": "B4812AEB37252CE54C4C1FB640FF7144",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fa4476ab7-065a-9f50-07c0-1eff423d2b11&name=SandFall-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FSandFall-Win64-Shipping.zip?alt=media",
+  "description": "You have to be on the latest nightly build of UEVR. Switches to First person in world exploration...",
+  "tags": [
+    "3DOF"
+  ]
+}

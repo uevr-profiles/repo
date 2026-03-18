@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "InventoryList",
+        "BP_WristWatch_Modular_C BP_WristWatch_Modular_C_2147480919",
+        "Components",
+        "StaticMeshComponent S_Watch"
+    ],
+    "state": {
+        "hand": 0,
+        "location_offset": {
+            "x": 12.82800006866455,
+            "y": -16.604000091552734,
+            "z": -12.014995574951172
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.749330461025238,
+            "x": -0.18141615390777588,
+            "y": -0.3536672294139862,
+            "z": -0.5296333432197571
+        }
+    },
+    "type": "motion_controller"
+}

@@ -1,0 +1,17 @@
+{
+  "ID": "5c1ec155-d89b-c910-810d-edc367d52f9c",
+  "exeName": "CRToiPrototype-Win64-Shipping",
+  "gameName": "Crisol: Theater of Idols",
+  "authorName": "madmatt1983",
+  "createdDate": "2026-02-11T23:05:40Z",
+  "downloadDate": "2026-03-18T00:15:07Z",
+  "sourceName": "discord.gg/flat2vr",
+  "sourceUrl": "https://discord.com/channels/747967102895390741/1418402187507269772/1471281064164065405",
+  "zipHash": "5C1EC155D89BC910810DEDC367D52F9C",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fbee3dbca-97c4-ec7f-fb12-b3c2b71ffc50&name=CRToiPrototype-Win64-Shipping",
+  "sourceDownloadUrl": "https://cdn.discordapp.com/attachments/1418402187507269772/1471281064298152130/CRToiPrototype-Win64-Shipping.zip?ex=69bb2fc4&is=69b9de44&hm=310f93a39fb2b63c7b0577d2047b40f777728d1a661d5330fef7a46715d522d6&",
+  "description": "Try this one out Should be gamepad-aiming",
+  "tags": [
+    "3DOF"
+  ]
+}

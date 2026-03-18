@@ -1,0 +1,18 @@
+{
+  "ID": "c3d08c02-501c-3492-de20-01cdb2e1e8e2",
+  "exeName": "Relicta-Win64-Shipping",
+  "gameName": "Relicta",
+  "authorName": "BossVR",
+  "modifiedDate": "2024-01-19T23:00:00Z",
+  "createdDate": "2024-01-19T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:21Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/11f4dc58-adec-468f-8aba-c6c810ee0c71",
+  "zipHash": "C3D08C02501C3492DE2001CDB2E1E8E2",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f0ade1473-2fb6-4956-f334-05f915d424f4&name=Relicta-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FRelicta-Win64-Shipping_1.zip?alt=media",
+  "description": "6DOF, continuous rotation, movement with the head and management with the right controller.",
+  "tags": [
+    "6DoF"
+  ]
+}

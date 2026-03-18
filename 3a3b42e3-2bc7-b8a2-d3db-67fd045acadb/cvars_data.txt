@@ -1,0 +1,5 @@
+Engine_r.AmbientOcclusionLevels=2
+Engine_r.DepthOfFieldQuality=2
+Engine_r.SceneColorFringeQuality=1
+Renderer_r.Tonemapper.Sharpen=0.998000
+Renderer_r.TonemapperGamma=-0.224000

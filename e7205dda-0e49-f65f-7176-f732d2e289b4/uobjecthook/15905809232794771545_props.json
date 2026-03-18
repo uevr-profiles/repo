@@ -1,0 +1,11 @@
+{
+    "hide": true,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "StaticMeshComponent SM_PC_PROB_PCLamp_01"
+    ],
+    "properties": [],
+    "type": "properties"
+}

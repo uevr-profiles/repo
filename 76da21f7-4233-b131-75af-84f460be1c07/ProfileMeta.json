@@ -1,0 +1,19 @@
+{
+  "ID": "76da21f7-4233-b131-75af-84f460be1c07",
+  "exeName": "Borderlands3",
+  "gameName": "Borderlands 3",
+  "authorName": "Pande4360",
+  "modifiedDate": "2025-02-26T23:00:00Z",
+  "createdDate": "2025-02-26T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:25Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/0f2e9524-cc24-4c93-a1b5-c6cc1c79ecde",
+  "zipHash": "76DA21F74233B13175AF84F460BE1C07",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f99bb6cac-b5e9-e3c7-0762-efe012c380b5&name=Borderlands3",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FBorderlands3_2.zip?alt=media",
+  "description": "Motion Gestures 6DOF Profile based on TimBurton's Profile  Instructions: Needs the latest nightly...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

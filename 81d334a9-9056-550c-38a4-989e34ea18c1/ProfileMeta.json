@@ -1,0 +1,19 @@
+{
+  "ID": "81d334a9-9056-550c-38a4-989e34ea18c1",
+  "exeName": "CallOfCthulhu",
+  "gameName": "Call of Cthulhu",
+  "authorName": "substatica",
+  "modifiedDate": "2024-03-11T23:00:00Z",
+  "createdDate": "2024-03-11T23:00:00Z",
+  "downloadDate": "2026-03-18T00:52:48Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/a0d2d544-a9fe-46de-9a57-e6d8ad88ace1",
+  "zipHash": "81D334A99056550C38A4989E34EA18C1",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fee25834f-e57c-5d74-cbbf-b4f5794f7c84&name=CallOfCthulhu",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FCallOfCthulhu.zip?alt=media",
+  "description": "Combat, from what I hear, is very limited. It's not actually dictated by your aim but by your ski...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

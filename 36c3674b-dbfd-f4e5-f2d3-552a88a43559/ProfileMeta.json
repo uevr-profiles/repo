@@ -1,0 +1,19 @@
+{
+  "ID": "36c3674b-dbfd-f4e5-f2d3-552a88a43559",
+  "exeName": "DH-Win64-Shipping",
+  "gameName": "Destroy All Humans! 2 - Reprobed",
+  "authorName": "Angelus",
+  "modifiedDate": "2024-03-29T23:00:00Z",
+  "createdDate": "2024-03-29T23:00:00Z",
+  "downloadDate": "2026-03-18T00:49:23Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/bcb34191-e7db-4e87-80dc-037cfa4f0620",
+  "zipHash": "36C3674BDBFDF4E5F2D3552A88A43559",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f0c2eec01-472c-2779-f0ba-70661601a0b9&name=DH-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FDH-Win64-Shipping.zip?alt=media",
+  "description": "6DOF | All 9 Weapons  Note: Press Left-Ctrl key to Enable/Disable the camera object hook for cuts...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

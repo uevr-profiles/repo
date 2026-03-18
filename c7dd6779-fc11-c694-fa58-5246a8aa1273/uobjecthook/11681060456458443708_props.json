@@ -1,0 +1,15 @@
+{
+    "hide": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "SkeletalMeshComponent FirstPersonLegs"
+    ],
+    "properties": [
+        {
+            "data": 1,
+            "name": "bHideSkin"
+        }
+    ],
+    "type": "properties"
+}

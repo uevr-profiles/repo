@@ -1,0 +1,19 @@
+{
+  "ID": "f99634b8-852d-08ac-6c1f-0909c4bf95ed",
+  "exeName": "Midnight-Win64-Shipping",
+  "gameName": "Alien: Rogue Incursion Evolved Edition",
+  "authorName": "Teodor",
+  "modifiedDate": "2025-09-29T22:00:00Z",
+  "createdDate": "2025-09-29T22:00:00Z",
+  "downloadDate": "2026-03-18T00:52:51Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/2a610c75-75ab-4c63-a3ae-8c821df288e7",
+  "zipHash": "F99634B8852D08AC6C1F0909C4BF95ED",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2ff1e06688-ca28-ec53-e51d-08ea5a8f5c9b&name=Midnight-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FMidnight-Win64-Shipping.zip?alt=media",
+  "description": "6DOF Profile",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

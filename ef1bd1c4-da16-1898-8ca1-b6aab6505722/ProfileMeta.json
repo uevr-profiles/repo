@@ -1,0 +1,18 @@
+{
+  "ID": "ef1bd1c4-da16-1898-8ca1-b6aab6505722",
+  "exeName": "MechWarrior-Win64-Shipping",
+  "gameName": "MechWarrior 5: Clans",
+  "authorName": "LunchAndVR",
+  "modifiedDate": "2024-10-19T22:00:00Z",
+  "createdDate": "2024-10-19T22:00:00Z",
+  "downloadDate": "2026-03-18T00:52:18Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/e956b6ff-404f-4722-8085-897da04ebe2d",
+  "zipHash": "EF1BD1C4DA1618988CA1B6AAB6505722",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fcb84ca87-b1d8-1aa7-ac63-44bfddf82097&name=MechWarrior-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FMechWarrior-Win64-Shipping.zip?alt=media",
+  "description": "Here is a WIP 1st Person Mech Profile. Fixed the scaling of mech Removed the Human model from it ...",
+  "tags": [
+    "3DOF"
+  ]
+}

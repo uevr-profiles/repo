@@ -1,0 +1,25 @@
+{
+    "hide": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "SkeletalMeshComponent CharacterMesh0",
+        "Properties",
+        "RelativeScale3D"
+    ],
+    "properties": [
+        {
+            "data": 1058642330,
+            "name": "X"
+        },
+        {
+            "data": 1058642330,
+            "name": "Y"
+        },
+        {
+            "data": 1058642330,
+            "name": "Z"
+        }
+    ],
+    "type": "properties"
+}

@@ -1,0 +1,19 @@
+{
+  "ID": "91954fd5-9f28-ccac-8bd6-8002ce3cf49b",
+  "exeName": "Returnal-Win64-Shipping",
+  "gameName": "Returnal™",
+  "authorName": "azyraphyle",
+  "modifiedDate": "2024-02-11T23:00:00Z",
+  "createdDate": "2024-02-11T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:21Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/96e2dfaf-ed0f-4bec-ba51-f198ae88eb99",
+  "zipHash": "91954FD59F28CCAC8BD68002CE3CF49B",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f94fd9324-c172-8fda-8fc5-a48cb4d80578&name=Returnal-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FReturnal-Win64-Shipping_1.zip?alt=media",
+  "description": "Get rid of the helmet that appears right in front of the camera when you're in the ship  To fix d...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

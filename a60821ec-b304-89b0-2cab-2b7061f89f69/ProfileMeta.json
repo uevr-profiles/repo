@@ -1,0 +1,18 @@
+{
+  "ID": "a60821ec-b304-89b0-2cab-2b7061f89f69",
+  "exeName": "SixDays-Win64-Shipping",
+  "gameName": "Six Days in Fallujah",
+  "authorName": "Blah64",
+  "modifiedDate": "2024-01-03T23:00:00Z",
+  "createdDate": "2024-01-03T23:00:00Z",
+  "downloadDate": "2026-03-18T00:52:33Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/b4892398-bd14-47d8-9090-71ec08acf80e",
+  "zipHash": "A60821ECB30489B02CAB2B7061F89F69",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fdd18c709-004c-74e1-1cba-f39992b4eed1&name=SixDays-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FSixDays-Win64-Shipping.zip?alt=media",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

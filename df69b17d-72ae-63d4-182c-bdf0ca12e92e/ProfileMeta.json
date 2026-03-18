@@ -1,0 +1,19 @@
+{
+  "ID": "df69b17d-72ae-63d4-182c-bdf0ca12e92e",
+  "exeName": "Midnight-Win64-Shipping",
+  "gameName": "Alien: Rogue Incursion Evolved Edition",
+  "authorName": "LunchAndVR",
+  "modifiedDate": "2025-10-01T22:00:00Z",
+  "createdDate": "2025-10-01T22:00:00Z",
+  "downloadDate": "2026-03-18T00:50:28Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/3ed0442d-1b04-4262-a712-31c05d8da385",
+  "zipHash": "DF69B17D72AE63D4182CBDF0CA12E92E",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f5404e155-01e1-63da-9550-b84d32504b9e&name=Midnight-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FMidnight-Win64-Shipping_1.zip?alt=media",
+  "description": "WIP 6DOF Profile  Motion aiming, aim follows your right hand aiming. Currently tuned to Quest 3 h...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

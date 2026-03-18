@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "IonDetonatorBP_C IonDetonatorBP_C_2147422210",
+        "Components",
+        "SkeletalMeshComponent IonDetonator"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.005796236917376518,
+            "x": 0.0,
+            "y": 0.9999831914901733,
+            "z": 0.0
+        }
+    },
+    "type": "motion_controller"
+}

@@ -1,0 +1,18 @@
+{
+  "ID": "17665545-a33e-5c3e-0e19-3515e14e9ff6",
+  "exeName": "MotorTown-Win64-Shipping",
+  "gameName": "Motor Town: Behind The Wheel",
+  "authorName": "Slash0mega",
+  "modifiedDate": "2025-09-15T22:00:00Z",
+  "createdDate": "2025-09-15T22:00:00Z",
+  "downloadDate": "2026-03-18T00:49:17Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/a5dbdf43-eaeb-4250-b651-6beef3580822",
+  "zipHash": "17665545A33E5C3E0E193515E14E9FF6",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f06d818a1-6463-3c7a-0fe5-069bf249e9c9&name=MotorTown-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FMotorTown-Win64-Shipping.zip?alt=media",
+  "description": "Profile that will swap between uncoupled pitch and uses hmd aim when on foot, and coupled pitch a...",
+  "tags": [
+    "6DoF"
+  ]
+}

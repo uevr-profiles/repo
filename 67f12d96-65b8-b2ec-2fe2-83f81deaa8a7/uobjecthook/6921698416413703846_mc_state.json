@@ -1,0 +1,26 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "ILLFPSkeletalMeshComponent FirstPersonMesh",
+        "Properties",
+        "AttachChildren",
+        "ILLFPSkeletalMeshComponent FirstPersonMesh"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 19.826217651367188,
+            "y": -1.3954658508300781,
+            "z": 1.0346946716308594
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.6671366691589355,
+            "x": -0.07218407839536667,
+            "y": -0.7408804297447205,
+            "z": -0.02854207158088684
+        }
+    },
+    "type": "motion_controller"
+}

@@ -1,0 +1,20 @@
+{
+  "ID": "1f8a8c08-337f-6563-9ede-1e18c1f2c531",
+  "exeName": "Indiana-Win64-Shipping",
+  "gameName": "The Outer Worlds",
+  "authorName": "CJ117",
+  "modifiedDate": "2024-07-17T22:00:00Z",
+  "createdDate": "2024-07-17T22:00:00Z",
+  "downloadDate": "2026-03-18T00:52:54Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/2233ffd2-4ca8-41fd-9d8a-0b25fb7b6f85",
+  "zipHash": "1F8A8C08337F65639EDE1E18C1F2C531",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2ff44f5f53-ae70-78f2-c063-3e4d11c575d5&name=Indiana-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FIndiana-Win64-Shipping_5.zip?alt=media",
+  "description": "3DOF UEVR Profile + Character/Weapon Fix Character removed Weapon lowered slightly and pushed for...",
+  "tags": [
+    "3DoF",
+    "6DOF",
+    "Motion Controls"
+  ]
+}

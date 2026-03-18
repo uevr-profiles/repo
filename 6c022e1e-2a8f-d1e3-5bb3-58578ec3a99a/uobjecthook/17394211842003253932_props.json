@@ -1,0 +1,12 @@
+{
+    "hide": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "EquippedRight",
+        "Components",
+        "SkeletalMeshComponent FirearmMeshComponent0"
+    ],
+    "properties": [],
+    "type": "properties"
+}

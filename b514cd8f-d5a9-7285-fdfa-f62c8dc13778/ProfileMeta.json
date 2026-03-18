@@ -1,0 +1,18 @@
+{
+  "ID": "b514cd8f-d5a9-7285-fdfa-f62c8dc13778",
+  "exeName": "ASC-Win64-Shipping",
+  "gameName": "Formula Legends",
+  "authorName": "Alex_アレックス",
+  "modifiedDate": "2025-09-17T22:00:00Z",
+  "createdDate": "2025-09-17T22:00:00Z",
+  "downloadDate": "2026-03-18T00:50:08Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/3970d846-9329-4646-9d1a-6d5d9f6b3be5",
+  "zipHash": "B514CD8FD5A97285FDFAF62C8DC13778",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f39b76ca9-0cc6-45e3-2be9-9d1fe5866c1a&name=ASC-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FASC-Win64-Shipping.zip?alt=media",
+  "description": "Recommend to decouple the pitch of the camera as it's always by default slightly facing down. In ...",
+  "tags": [
+    "3DOF"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+    "animation_data": null,
+    "animation_finger": 1,
+    "animation_finger_bone_pitch": -0.000601056613959372,
+    "animation_finger_bone_pitch_mirror": false,
+    "animation_finger_bone_roll": -0.0013445706572383642,
+    "animation_finger_bone_roll_mirror": false,
+    "animation_finger_bone_yaw": -65.59911346435547,
+    "animation_finger_bone_yaw_mirror": false,
+    "animation_hand": 2,
+    "animation_hands_profile_mesh_list": 1,
+    "animation_joint": 3,
+    "animation_name": "Shared",
+    "animation_state": 2,
+    "animation_test_active_weapon_mode": false,
+    "animation_test_left_handed_mode": false,
+    "animation_type": 2,
+    "animations_list": 2,
+    "character_mesh": 15,
+    "code_text": "",
+    "code_text_2": "",
+    "cutoff_children_bone_picker": 14,
+    "cutoff_children_hand_picker": 2,
+    "cutoff_children_location": [
+        8.625,
+        0.2890625,
+        -3.15234375
+    ],
+    "cutoff_children_rotation": [
+        4.601709842681885,
+        -69.77783966064453,
+        25.632461547851563
+    ],
+    "fov_param_name": "",
+    "hands_profile_list": 2,
+    "hands_profile_mesh_list": 2,
+    "hands_profile_mesh_name": "Arms",
+    "hands_profile_name": "Main",
+    "include_children_in_mesh_search": false,
+    "knuckle_bone_search_pattern": "",
+    "left_cutoff_bone": 1,
+    "left_hand_location": [
+        1.7000000476837158,
+        -1.2999999523162842,
+        0.10000000149011612
+    ],
+    "left_hand_rotation": [
+        -180.0,
+        -105.0,
+        -110.0
+    ],
+    "left_hand_scale": [
+        1.0,
+        1.100000023841858,
+        1.0
+    ],
+    "left_index_knuckle": 1,
+    "left_middle_knuckle": 1,
+    "left_pinky_knuckle": 1,
+    "left_ring_knuckle": 1,
+    "left_thumb_knuckle": 1,
+    "mesh_rotation": [
+        90.0,
+        -90.0,
+        0.0
+    ],
+    "right_cutoff_bone": 537,
+    "right_cutoff_bone_name": "",
+    "right_hand_location": [
+        12.5,
+        -28.600000381469727,
+        4.5
+    ],
+    "right_hand_rotation": [
+        -180.0,
+        -70.0,
+        -5.0
+    ],
+    "right_hand_scale": [
+        0.8999999761581421,
+        1.0,
+        1.0
+    ],
+    "right_index_knuckle": 542,
+    "right_middle_knuckle": 545,
+    "right_pinky_knuckle": 551,
+    "right_ring_knuckle": 548,
+    "right_thumb_knuckle": 539,
+    "use_default_pose": false,
+    "weapon_mesh": 1,
+    "weapon_offset_location": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "weapon_offset_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ]
+}

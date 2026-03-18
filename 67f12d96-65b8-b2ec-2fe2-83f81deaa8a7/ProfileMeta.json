@@ -1,0 +1,19 @@
+{
+  "ID": "67f12d96-65b8-b2ec-2fe2-83f81deaa8a7",
+  "exeName": "SwayzeGame",
+  "gameName": "Ghostbusters: Spirits Unleashed Ecto Edition",
+  "authorName": "praydog",
+  "modifiedDate": "2024-01-10T23:00:00Z",
+  "createdDate": "2024-01-10T23:00:00Z",
+  "downloadDate": "2026-03-18T00:50:56Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/e46a7f9e-8988-43d7-a6a8-f971d84c554f",
+  "zipHash": "67F12D9665B8B2EC2FE283F81DEAA8A7",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f757b4d28-d118-0d4b-6ac4-8e6da65e4ab4&name=SwayzeGame",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FSwayzeGame.zip?alt=media",
+  "description": "6DOF. Crosshair a bit misaligned.",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

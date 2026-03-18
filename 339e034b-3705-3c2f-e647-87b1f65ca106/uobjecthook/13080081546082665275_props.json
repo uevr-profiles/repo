@@ -1,0 +1,14 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_Binoculars_C BP_Binoculars_C_2147399432",
+        "Components",
+        "StaticMeshComponent BinocularsStaticMesh0"
+    ],
+    "properties": [],
+    "type": "properties"
+}

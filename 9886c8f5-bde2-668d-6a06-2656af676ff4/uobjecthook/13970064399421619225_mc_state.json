@@ -1,0 +1,28 @@
+{
+    "path": [
+        "Player Controller",
+        "Properties",
+        "Children",
+        "BP_Player_OldMan_C BP_Player_OldMan_C_2147479179",
+        "Properties",
+        "BackpackRig",
+        "Components",
+        "SceneComponent AttachPoint"
+    ],
+    "state": {
+        "hand": 0,
+        "location_offset": {
+            "x": 0.0,
+            "y": -1.2999999523162842,
+            "z": 0.0
+        },
+        "permanent": false,
+        "rotation_offset": {
+            "w": 0.7960838079452515,
+            "x": -0.0,
+            "y": -0.605186402797699,
+            "z": 0.0
+        }
+    },
+    "type": "motion_controller"
+}

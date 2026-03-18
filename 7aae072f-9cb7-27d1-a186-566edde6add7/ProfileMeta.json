@@ -1,0 +1,19 @@
+{
+  "ID": "7aae072f-9cb7-27d1-a186-566edde6add7",
+  "exeName": "BearsInSpace-Win64-Shipping",
+  "gameName": "Bears In Space",
+  "authorName": "PanterA",
+  "modifiedDate": "2024-02-11T23:00:00Z",
+  "createdDate": "2024-02-11T23:00:00Z",
+  "downloadDate": "2026-03-18T00:52:46Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/817a2dfc-2d55-4a24-9c8e-d9c6e6b35809",
+  "zipHash": "7AAE072F9CB727D1A186566EDDE6ADD7",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2fecf3e7b0-868d-ea53-0fd7-0e379014b163&name=BearsInSpace-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FBearsInSpace-Win64-Shipping.zip?alt=media",
+  "description": "6DOF profile that works really well, feels pretty much like a proper VR game.",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

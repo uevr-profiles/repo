@@ -1,0 +1,20 @@
+{
+  "ID": "a6576ef9-3b40-da3d-e00d-8859347862c8",
+  "exeName": "NWXClient-Win64-Shipping",
+  "gameName": "Nightingale",
+  "authorName": "DJ",
+  "modifiedDate": "2024-02-26T23:00:00Z",
+  "createdDate": "2024-02-26T23:00:00Z",
+  "downloadDate": "2026-03-18T00:51:06Z",
+  "sourceName": "uevr-profiles.com",
+  "sourceUrl": "https://uevr-profiles.com/game/84698e64-2a0a-41c6-9d4a-02b9e86c8228",
+  "zipHash": "A6576EF93B40DA3DE00D8859347862C8",
+  "downloadUrl": "https://gitfolderdownloader.github.io/?url=https%3a%2f%2fgithub.com%2fuevr-profiles%2frepo%2ftree%2fmain%2f833822cd-a53e-555f-67fd-9932bcd1f3ee&name=NWXClient-Win64-Shipping",
+  "sourceDownloadUrl": "https://firebasestorage.googleapis.com/v0/b/uevrprofiles.appspot.com/o/profiles%2FNWXClient-Win64-Shipping.zip?alt=media",
+  "headerPictureUrl": "https://cdn.discordapp.com/attachments/1203055548904509561/1203055549122482266/capsule_616x353_1.jpg?ex=69baf94a&is=69b9a7ca&hm=da05f78deaa0fd9c4e670f662c83b325be3641175ec5887851626db665ff41f4&",
+  "description": "Left hand item         \"Acknowledged Pawn\",         \"Properties\",         \"CurrentlyEquippedOffha...",
+  "tags": [
+    "6DOF",
+    "Motion Controls"
+  ]
+}

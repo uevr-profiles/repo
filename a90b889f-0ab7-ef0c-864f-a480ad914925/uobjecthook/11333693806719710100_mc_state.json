@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "StaticMeshComponent Cartoon_Wooden_Sword"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -0.07999999821186066,
+            "y": 11.039999961853027,
+            "z": 1.0299999713897705
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.9264612793922424,
+            "x": 0.35453838109970093,
+            "y": -0.11932341009378433,
+            "z": 0.04164119064807892
+        }
+    },
+    "type": "motion_controller"
+}

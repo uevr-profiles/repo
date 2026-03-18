@@ -1,0 +1,13 @@
+{
+    "hide": true,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "ActiveMeleeWeapon",
+        "Components",
+        "StaticMeshComponent Mesh"
+    ],
+    "properties": [],
+    "type": "properties"
+}
